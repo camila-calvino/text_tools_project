@@ -1,0 +1,507 @@
+@UTF8
+@PID:	11312/t-00000036-1
+@Begin
+@Languages:	spa, eng
+@Participants:	MAR Adult, OSE Adult
+@Options:	multi
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
+@Media:	maria21, audio
+@Situation:	MAR is in her office talking to a colleague
+@Date:	25-MAR-2008
+@Comment:	MAR is wearing a microphone to record conversation
+@Transcriber:	Fraibet Aveledo. Initial translation by Vanesa Bonavota
+@Time Duration:	00:05:29
+*MAR:	[- eng] uhhuh . 3059_4040
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	esperando . 5410_6415
+%mor:	verb|esperar-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	waiting
+*MAR:	[- eng] uhhuh . 9892_10694
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	[- eng] uhhuh . 13640_14354
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	[- eng] uhhuh . 17434_18113
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	ajá . 20766_21544
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	uhhuh
+*MAR:	aquí bien eh &~tra trabajando . 28753_30727
+%mor:	adv|aquí adv|bien intj|eh verb|trabajar-Ger-S .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|ADVMOD 4|2|ADVCL 5|2|PUNCT
+%eng:	here it's OK, working .
+*MAR:	y aquí estaba +//. 30721_31209
+%mor:	cconj|y adv|aquí verb|estar-Fin-Ind-Imp-S3 +//.
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%eng:	and here I was
+*MAR:	llamé a +... 31162_32265
+%mor:	verb|llamar-Fin-Ind-Past-S1 x|a +...
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%eng:	I called ...
+*MAR:	ustedes tienen algo el jueves ? 32049_33877
+%mor:	pron|tú-Prs-AccNom-P2 verb|tener-Fin-Ind-Pres-P3 pron|algo-Ind-S1 det|el-Masc-Def-Art noun|jueves ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|DET 5|2|OBL 6|2|PUNCT
+%eng:	do you have anything on Thursday ?
+*MAR:	a las once . 34728_35761
+%mor:	adp|a det|el-Fem-Def-Art num|once .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%eng:	at eleven
+*MAR:	[- eng] uhhuh . 36591_37189
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	no que el [/] el [/] el número ese del [/] del teléfono que papá me ha dado que había salido en el periódico . 38094_43167
+%mor:	adv|no sconj|que det|el-Masc-Def-Art noun|número-Masc det|ese-Masc-Def-Dem det|del-Masc-Def-Art noun|teléfono-Masc pron|que-Rel-S1 noun|papá-Masc pron|yo-Prs-Dat-S1 aux|haber-Fin-Ind-Pres-S3 verb|dar-Part-Past-S sconj|que aux|haber-Fin-Ind-Imp-S3 verb|salir-Part-Past-S adp|en det|el-Masc-Def-Art noun|periódico-Masc .
+%gra:	1|18|ROOT 2|12|MARK 3|4|DET 4|12|NSUBJ 5|7|DET 6|7|DET 7|4|NMOD 8|9|NMOD 9|7|NMOD 10|12|OBL-ARG 11|12|AUX 12|1|ADVCL 13|15|MARK 14|15|AUX 15|12|CCOMP 16|18|CASE 17|18|DET 18|15|OBL 19|1|PUNCT
+%eng:	I called that phone number dad gave me, the one published in the newspaper .
+*MAR:	lo llamé . 43454_44365
+%mor:	pron|él-Prs-Acc-S3 verb|llamar-Fin-Ind-Past-S1 .
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	I called it .
+*MAR:	+, porque ya me cansé de llamar a los otros que me dijeron que xxx . 44522_46664
+%mor:	sconj|porque adv|ya pron|yo-Prs-Acc-S1 verb|cansar-Fin-Ind-Past-S1 adp|de verb|llamar-Inf-S adp|a det|el-Masc-Def-Art pron|otro-Ind-P1 pron|que-Rel-S1 pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Past-P3 sconj|que .
+%gra:	1|4|MARK 2|4|ADVMOD 3|4|EXPL-PV 4|13|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBJ 10|12|NSUBJ 11|12|OBL-ARG 12|9|ACL 13|12|OBJ 14|4|PUNCT
+%eng:	because I got tired of calling the others who told me that [...] .
+*MAR:	el tipo me dijo +"/. 46641_47108
+%mor:	det|el-Masc-Def-Art noun|tipo-Masc pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Past-S3 +"/.
+%gra:	1|2|DET 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+%eng:	the guy told me
+*MAR:	+" bueno nos acercamos a las [///] más de cien mil . 47103_49608
+%mor:	adj|buen-Pos-S1 pron|yo-Prs-Acc-P1 verb|acercar-Fin-Ind-Pres-P1 adp|a adv|más adp|de num|cien num|mil .
+%gra:	1|3|AMOD 2|3|EXPL-PV 3|8|ROOT 4|5|CASE 5|3|ADVMOD 6|5|CASE 7|5|NUMMOD 8|5|FIXED 9|3|PUNCT
+%eng:	well, we're getting close to the, more than one hundred thousand .
+*MAR:	me preguntó cuánto era la de papi . 49621_51409
+%mor:	pron|yo-Prs-Dat-S1 verb|preguntar-Fin-Ind-Past-S3 pron|cuánto-IntRel-S1 aux|ser-Fin-Ind-Imp-S3 det|el-Fem-Def-Art adp|de noun|papi-Masc .
+%gra:	1|2|OBL-ARG 2|7|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|CASE 7|5|NMOD 8|2|PUNCT
+%eng:	he asked how much dad's was .
+*MAR:	y yo le dije que noventa . 51403_52239
+%mor:	cconj|y pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S1 sconj|que num|noventa .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBL-ARG 4|6|ROOT 5|6|MARK 6|4|OBJ 7|4|PUNCT
+%eng:	and I told him ninety
+*MAR:	me dice +"/. 52245_52407
+%mor:	pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	he says
+*MAR:	bueno es tan cerca . 52384_53580
+%mor:	adj|buen-Pos-S1 aux|ser-Fin-Ind-Pres-S3 adv|tanto adv|cerca .
+%gra:	1|4|ROOT 2|1|COP 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+%eng:	well, it's so close .
+*MAR:	se puede probar para ver si alguien está interesado . 53661_55889
+%mor:	pron|él-Prs-Acc-S3 aux|poder-Fin-Ind-Pres-S3 verb|probar-Inf-S adp|para verb|ver-Inf-S sconj|si pron|alguien-Ind-S1 aux|estar-Fin-Ind-Pres-S3 adj|interesado-Pos-S1 .
+%gra:	1|3|EXPL-PASS 2|3|AUX 3|9|ROOT 4|5|MARK 5|3|ADVCL 6|9|MARK 7|9|NSUBJ 8|9|COP 9|5|CCOMP 10|3|PUNCT
+%eng:	we could try to see if anyone is interested .
+%com:	she clears her throat .
+*MAR:	aló ? 63758_64478
+%mor:	noun|aló-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	hello ?
+*MAR:	llamé al [//] el número de [//] del +... 64820_67507
+%mor:	verb|llamar-Fin-Ind-Past-S1 det|el-Masc-Def-Art noun|número-Masc adj|del-Pos-S1 +...
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|1|PUNCT
+%eng:	I called the number of the ...
+*MAR:	que ya yo había encontrado esa misma compañía en el website@s . 67482_69874
+%mor:	sconj|que adv|ya pron|yo-Prs-Nom-S1 aux|haber-Fin-Ind-Imp-S3 verb|encontrar-Part-Past-S det|ese-Fem-Def-Dem det|mismo-Fem-Def-Dem noun|compañía-Fem adp|en det|el-Masc-Def-Art noun|website-Masc .
+%gra:	1|5|MARK 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|DET 7|6|DET 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+%eng:	that I had already found that same company on the website .
+*MAR:	mm@s del el artículo ese que tú habías encontrado . 70064_74400
+%mor:	noun|mm-Masc adp|del det|el-Masc-Def-Art noun|artículo-Masc pron|ese-Dem-S1 pron|que-Rel-S1 pron|tú-Prs-Nom-S2 aux|haber-Fin-Ind-Pres-S2 verb|encontrar-Part-Past-S .
+%gra:	1|9|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|APPOS 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|5|ACL 10|1|PUNCT
+%eng:	from that article you found .
+*MAR:	eh y el hombre me [///] me <el tipo> [///] el muchacho agra(da)ble me dice +". 74692_78524
+%mor:	intj|eh cconj|y det|el-Masc-Def-Art noun|hombre-Masc pron|yo-Prs-Acc-S1 det|el-Masc-Def-Art noun|muchacho-Masc adj|agradable-Pos-S1 pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +".
+%gra:	1|10|DEP 2|4|CC 3|4|DET 4|1|CONJ 5|10|EXPL-PV 6|7|DET 7|10|NSUBJ 8|7|AMOD 9|10|OBJ 10|10|ROOT 11|10|PUNCT
+%eng:	and the man, the guy, nice guy told me
+*MAR:	+" bueno por lo general ellos son más de cien mil . 78549_80911
+%mor:	adj|buen-Pos-S1 adp|por pron|él-Prs-Acc-S3 noun|general pron|él-Prs-AccNom-P3 aux|ser-Fin-Ind-Pres-P3 adv|más adp|de num|cien num|mil .
+%gra:	1|7|AMOD 2|7|ADVMOD 3|2|FIXED 4|2|FIXED 5|7|NSUBJ 6|7|COP 7|10|ROOT 8|10|CASE 9|10|NUMMOD 10|7|OBL 11|7|PUNCT
+%eng:	well, usually, they are more than a hundred thousand
+*MAR:	y entonces me preguntó cuánto era la tuya . 80924_82346
+%mor:	cconj|y adv|entonces pron|yo-Prs-Dat-S1 verb|preguntar-Fin-Ind-Past-S3 pron|cuánto-IntRel-S1 aux|ser-Fin-Ind-Imp-S3 det|el-Fem-Def-Art det|tuyo-Fem-Def-Prs .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBL-ARG 4|8|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|7|COMPOUND 9|4|PUNCT
+%eng:	and then he asked me how much yours was .
+*MAR:	y le dije que era &~no más de cien mil . 83281_84320
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S1 sconj|que aux|ser-Fin-Ind-Imp-S3 adv|más adp|de num|cien num|mil .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|9|ROOT 4|6|MARK 5|6|COP 6|3|CCOMP 7|9|CASE 8|9|NUMMOD 9|6|OBL 10|3|PUNCT
+%eng:	and I told him it was more than a hundred thousand
+*MAR:	y le dije +"/. 85292_85809
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S1 +"/.
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	and I told him
+*MAR:	bueno la tuya es de noventa . 85768_87022
+%mor:	adj|buen-Pos-S1 det|el-Fem-Def-Art det|tuyo-Fem-Def-Prs aux|ser-Fin-Ind-Pres-S3 adp|de num|noventa .
+%gra:	1|6|AMOD 2|6|NSUBJ 3|2|COMPOUND 4|6|COP 5|6|CASE 6|6|ROOT 7|6|PUNCT
+%eng:	well, yours is ninety .
+*MAR:	y me dice +"/. 87016_87289
+%mor:	cconj|y pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	and he told me
+*MAR:	+" bueno es tan cerca cien mil . 87318_88736
+%mor:	adj|buen-Pos-S1 aux|ser-Fin-Ind-Pres-S3 adv|tanto adv|cerca num|cien num|mil .
+%gra:	1|6|ROOT 2|1|COP 3|4|ADVMOD 4|1|ADVMOD 5|4|OBL 6|4|OBL 7|1|PUNCT
+%eng:	well, it's so close to a hundred thousand
+*MAR:	+" por qué no vienes . 88718_89525
+%mor:	adp|por pron|qué-Int-S1 adv|no verb|ver-Fin-Ind-Pres-S2 .
+%gra:	1|2|CASE 2|4|OBL 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%eng:	why don't you come ?
+*MAR:	+" no te cuesta nada . 89512_90818
+%mor:	adv|no pron|tú-Prs-Dat-S2 verb|costar-Fin-Ind-Pres-S3 pron|nada-Neg-S1 .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%eng:	it'll cost you nothing .
+*MAR:	+" podemos [///] a ver si hay algún banco que esté interesado en comprarlo . 90807_93765
+%mor:	adp|a verb|ver-Inf-S sconj|si verb|haber-Fin-Ind-Pres-S3 det|alguno-Masc-Def-Ind noun|banco-Masc pron|que-Rel-S1 aux|estar-Fin-Sub-Pres-S3 adj|interesado-Pos-S1 adp|en verb|comprar-Inf-S .
+%gra:	1|2|MARK 2|11|ROOT 3|4|MARK 4|2|CCOMP 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|COP 9|6|ACL 10|11|MARK 11|9|XCOMP 12|2|PUNCT
+%eng:	we can see if there's any bank interested in buying it .
+*MAR:	+" no cuesta nada . 94043_94850
+%mor:	adv|no verb|costar-Fin-Ind-Pres-S3 pron|nada-Neg-S1 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%eng:	it costs nothing .
+*MAR:	entonces le digo +"/. 95100_95536
+%mor:	adv|entonces pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S1 +"/.
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	so I said to him
+*MAR:	bueno no me habían dicho que si es turn_light@s [?] ya tiene más de setenta y cinco no tiene valor . 95530_99793
+%mor:	adj|buen-Pos-S1 adv|no pron|yo-Prs-Dat-S1 aux|haber-Fin-Ind-Imp-P3 verb|decir-Part-Past-S sconj|que sconj|si aux|ser-Fin-Ind-Pres-S3 noun|turnlight adv|ya verb|tener-Fin-Ind-Pres-S3 adv|más adp|de num|setenta cconj|y num|cinco adv|no verb|tener-Fin-Ind-Pres-S3 noun|valor-Masc .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|OBL-ARG 4|5|AUX 5|19|ROOT 6|18|MARK 7|9|MARK 8|9|COP 9|11|ADVCL 10|11|ADVMOD 11|18|ADVCL 12|14|ADVMOD 13|12|CASE 14|11|OBJ 15|16|CC 16|14|CONJ 17|18|ADVMOD 18|5|CCOMP 19|18|OBJ 20|5|PUNCT
+%eng:	well, they haven't told me that if it was ... it's already more than seventy five and has no value .
+*MAR:	+" no bueno no es necesariamente (.) pasa por las +//. 99847_102697
+%mor:	adv|no adj|buen-Pos-S1 adv|no aux|ser-Fin-Ind-Pres-S3 adv|necesariamente verb|pasar-Fin-Ind-Pres-S3 adp|por det|el-Fem-Def-Art +//.
+%gra:	1|2|ADVMOD 2|6|NSUBJ 3|6|ADVMOD 4|6|COP 5|6|ADVMOD 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+%eng:	no, well, it's not necessarily, you go by the
+*MAR:	si ellos pueden seguir pagando . 102545_104106
+%mor:	sconj|si pron|él-Prs-AccNom-P3 aux|poder-Fin-Ind-Pres-P3 verb|seguir-Inf-S verb|pagar-Ger-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%eng:	if they can keep paying .
+*MAR:	y le ven un life@s expectancy@s report@s . 103984_106480
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|ver-Fin-Ind-Pres-P3 det|uno-Masc-Ind-Art noun|life noun|expectancy noun|report .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|5|COMPOUND 7|5|COMPOUND 8|3|PUNCT
+%eng:	and they see a life expectancy report .
+*MAR:	eh pueden ver que sí les [/] les conviene o no les conviene . 106572_109564
+%mor:	intj|eh aux|poder-Fin-Ind-Pres-P3 verb|ver-Inf-S sconj|que intj|sí pron|él-Prs-Dat-P3 verb|convenir-Fin-Ind-Pres-S3 cconj|o adv|no pron|él-Prs-Dat-P3 verb|convenir-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|7|MARK 5|7|ADVCL 6|7|OBJ 7|3|CCOMP 8|11|CC 9|11|ADVMOD 10|11|OBJ 11|7|CONJ 12|3|PUNCT
+%eng:	they can see if it suits them or doesn't suit them .
+*MAR:	me dice +"/. 109616_109901
+%mor:	pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	he told me:
+*MAR:	+" no te cuesta nada venir y averiguar y eso . 109889_112345
+%mor:	adv|no pron|tú-Prs-Dat-S2 verb|costar-Fin-Ind-Pres-S3 pron|nada-Neg-S1 verb|venir-Inf-S cconj|y verb|averiguar-Inf-S cconj|y pron|ese-Dem-S1 .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|9|ROOT 4|3|NSUBJ 5|3|CSUBJ 6|7|CC 7|5|CONJ 8|9|CC 9|5|CONJ 10|3|PUNCT
+%eng:	it costs nothing for you to come here, and find out, and that .
+*MAR:	entonces <me dice que si> [//] que nos hizo una cita el el jueves a las once de la mañana . 112640_116646
+%mor:	adv|entonces sconj|que pron|yo-Prs-Dat-P1 verb|hacer-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art noun|cita-Fem det|el-Masc-Def-Art det|el-Masc-Def-Art noun|jueves adp|a det|el-Fem-Def-Art num|once adp|de det|el-Fem-Def-Art noun|mañana-Fem .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|OBL-ARG 4|15|ROOT 5|6|DET 6|4|OBJ 7|9|DET 8|9|DET 9|4|OBL 10|12|CASE 11|12|DET 12|4|OBL 13|15|CASE 14|15|DET 15|12|NMOD 16|4|PUNCT
+%eng:	then he told me he would make us an appointment on Thursday at eleven in the morning .
+*MAR:	ustedes tienen algo ? 116568_117607
+%mor:	pron|tú-Prs-AccNom-P2 verb|tener-Fin-Ind-Pres-P3 pron|algo-Ind-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%eng:	do you have anything on ?
+*MAR:	okay . 124321_124966
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	OK
+*MAR:	es en xxx cerca del aeropuerto . 125823_127651
+%mor:	aux|ser-Fin-Ind-Pres-S3 adp|en adv|cerca adp|del noun|aeropuerto-Masc .
+%gra:	1|5|ROOT 2|3|CASE 3|1|ADVMOD 4|5|DET 5|3|OBL 6|1|PUNCT
+%eng:	it's in [...] next to the airport .
+*MAR:	sí . 129848_130162
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	yes
+*MAR:	ellos se llaman es un xxx brokers@s . 129965_132571
+%mor:	pron|él-Prs-AccNom-P3 pron|él-Prs-Acc-S3 verb|llamar-Fin-Ind-Pres-P3 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|brokers-Masc-Plur .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|6|CSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%eng:	they are called, it's a [...] brokers
+*MAR:	yo no lo había llamado porque Pedro había dicho +"/. 132720_134397
+%mor:	pron|yo-Prs-Nom-S1 adv|no pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Imp-S3 verb|llamar-Part-Past-S sconj|porque noun|Pedro aux|haber-Fin-Ind-Imp-S3 verb|decir-Part-Past-S +"/.
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|OBJ 4|5|AUX 5|9|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ADVCL 10|5|PUNCT
+%eng:	I haven't called him because Pedro told me:
+*MAR:	+" no que si no estaban en la lista que si no sé qué que si no sé cuánto . 134392_136928
+%mor:	adv|no sconj|que sconj|si adv|no verb|estar-Fin-Ind-Imp-P3 adp|en det|el-Fem-Def-Art noun|lista-Fem pron|que-Rel-S1 sconj|si adv|no verb|saber-Fin-Ind-Pres-S1 pron|qué-Int-S1 sconj|que sconj|si adv|no verb|saber-Fin-Ind-Pres-S1 pron|cuánto-IntRel-S1 .
+%gra:	1|18|ROOT 2|8|MARK 3|8|MARK 4|8|ADVMOD 5|8|COP 6|8|CASE 7|8|DET 8|1|ADVCL 9|12|MARK 10|12|MARK 11|12|ADVMOD 12|8|ADVCL 13|17|OBJ 14|17|MARK 15|17|MARK 16|17|ADVMOD 17|12|CCOMP 18|17|OBJ 19|1|PUNCT
+%eng:	no, that if they weren't on the list for whatever reason
+*MAR:	pero como todas las otras demás no me han dado ningún (.) calor déjame [/] déjame llamar al número que ellos tienen aquí . 137204_143137
+%mor:	cconj|pero sconj|como det|todo-Fem-Def-Tot det|el-Fem-Def-Art det|otro-Fem-Def-Ind pron|demás-Ind-P1 adv|no pron|yo-Prs-Dat-S1 aux|haber-Fin-Ind-Pres-P3 verb|dar-Part-Past-S det|ninguno-Masc-Def-Neg noun|calor-Masc verb|déjamar-Fin-Ind-Pres-S2 verb|llamar-Inf-S det|al-Masc-Def-Art noun|número-Masc pron|que-Rel-S1 pron|él-Prs-AccNom-P3 verb|tener-Fin-Ind-Pres-P3 adv|aquí .
+%gra:	1|13|ADVMOD 2|10|MARK 3|4|DET 4|6|DET 5|4|DET 6|10|NSUBJ 7|10|ADVMOD 8|10|OBL-ARG 9|10|AUX 10|13|ADVCL 11|12|DET 12|10|OBJ 13|20|ROOT 14|13|XCOMP 15|16|DET 16|14|OBJ 17|19|OBJ 18|19|NSUBJ 19|16|ACL 20|19|ADVMOD 21|13|PUNCT
+%eng:	but as all the rest haven't given me any interest, let me call the number that they have here .
+*MAR:	enton(ces) . 143382_144270
+%mor:	adv|entonces .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	so
+*MAR:	entonces exacto . 144322_145309
+%mor:	adv|entonces adj|exacto-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%eng:	so, exactly .
+*MAR:	entonces me dice +"/. 145265_145938
+%mor:	adv|entonces pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	then he said to me
+*MAR:	+" bueno y [/] y que traiga los papeles que tiene . 145926_147871
+%mor:	adj|buen-Pos-S1 cconj|y sconj|que verb|traigar-Fin-Sub-Pres-S3 det|el-Masc-Def-Art noun|papel-Masc-Plur pron|que-Rel-S1 verb|tener-Fin-Ind-Pres-S3 .
+%gra:	1|8|ROOT 2|4|CC 3|4|MARK 4|1|CONJ 5|6|DET 6|4|OBJ 7|8|OBJ 8|6|ACL 9|1|PUNCT
+%eng:	okay, and tell him to bring all the papers he has .
+*MAR:	y le digo +"/. 147865_148080
+%mor:	cconj|y pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S1 +"/.
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	and I said to him
+*MAR:	bueno lo que él tiene es un certificate@s specification@s que la compañía se lo ha comprado con la ITT . 147928_152641
+%mor:	adj|buen-Pos-S1 pron|él-Prs-Acc-S3 pron|que-Rel-S1 pron|él-Prs-AccNom-S3 verb|tener-Fin-Ind-Pres-S3 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|certificate noun|specification pron|que-Rel-S1 det|el-Fem-Def-Art noun|compañía-Fem pron|él-Prs-Acc-S3 pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S3 verb|comprar-Part-Past-S adp|con det|el-Fem-Def-Art noun|ITT .
+%gra:	1|8|AMOD 2|5|DET 3|5|OBJ 4|5|NSUBJ 5|8|CSUBJ 6|8|COP 7|8|DET 8|19|ROOT 9|8|COMPOUND 10|16|OBJ 11|12|DET 12|16|NSUBJ 13|16|OBL-ARG 14|16|OBJ 15|16|AUX 16|8|ACL 17|19|CASE 18|19|DET 19|16|OBL 20|8|PUNCT
+%eng:	well, he has a specification certificate that the company bought it for him with the ITT
+*MAR:	me dice +"/. 152595_152868
+%mor:	pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	he told me
+*MAR:	+" ay mira qué casualidad . 152849_154137
+%mor:	intj|ay verb|mirar-Fin-Imp-S2 det|qué-Def-Int noun|casualidad-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%eng:	oh, what a coincidence .
+*MAR:	su suegro empezó la compañía de seguros con algo que estaba haciendo para la ITT . 154195_158437
+%mor:	det|su-Def-Prs noun|suegro-Masc verb|empezar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|compañía-Fem adp|de noun|seguro-Masc-Plur adp|con pron|algo-Ind-S1 pron|que-Rel-S1 aux|estar-Fin-Ind-Imp-S3 verb|hacer-Ger-S adp|para det|el-Fem-Def-Art noun|ITT .
+%gra:	1|2|DET 2|3|NSUBJ 3|15|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|9|CASE 9|3|OBL 10|12|OBJ 11|12|AUX 12|9|ACL 13|15|CASE 14|15|DET 15|12|OBL 16|3|PUNCT
+%eng:	his father-in-law started in the insurance company with something he was doing for the ITT .
+*OSE:	www .
+*MAR:	uhhuh@s . 163063_163696
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	uhhuh
+*MAR:	y él dice xxx exacto . 164337_166282
+%mor:	cconj|y pron|él-Prs-AccNom-S3 verb|decir-Fin-Ind-Pres-S3 adj|exacto-Pos-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%eng:	and he said [...] exactly .
+*MAR:	sí . 166481_166801
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	yes
+*MAR:	me dice +"/. 167211_167640
+%mor:	pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	he told me
+*MAR:	+" no te cuesta ver si alguien lo viene a comprar o no . 167640_170015
+%mor:	adv|no pron|tú-Prs-Dat-S2 verb|costar-Fin-Ind-Pres-S3 verb|ver-Inf-S sconj|si pron|alguien-Ind-S1 pron|él-Prs-Acc-S3 verb|venir-Fin-Ind-Pres-S3 adp|a verb|comprar-Inf-S cconj|o adv|no .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|12|ROOT 4|3|CSUBJ 5|8|MARK 6|8|NSUBJ 7|8|OBJ 8|4|CCOMP 9|10|MARK 10|8|XCOMP 11|12|CC 12|10|CONJ 13|3|PUNCT
+%eng:	it costs you nothing to see if anyone comes to buy it or not .
+*MAR:	bueno yo estaba leyendo la póliza . 174893_176763
+%mor:	adj|buen-Pos-S1 pron|yo-Prs-Nom-S1 aux|estar-Fin-Ind-Imp-S3 verb|leer-Ger-S det|el-Fem-Def-Art noun|póliza-Fem .
+%gra:	1|4|AMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%eng:	well, I was reading the policy .
+*MAR:	y te dan tiempo . 176780_178516
+%mor:	cconj|y pron|tú-Prs-Dat-S2 verb|dar-Fin-Ind-Pres-P3 noun|tiempo-Masc .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%eng:	and they give you time .
+*MAR:	o sea no lo tienes que pagar inmediatamente . 178481_180739
+%mor:	cconj|o noun|sea adv|no pron|él-Prs-Acc-S3 verb|tener-Fin-Ind-Pres-S2 sconj|que verb|pagar-Inf-S adv|inmediatamente .
+%gra:	1|7|ADVMOD 2|1|FIXED 3|7|ADVMOD 4|7|OBJ 5|8|ROOT 6|7|CC 7|5|CONJ 8|7|ADVMOD 9|5|PUNCT
+%eng:	I mean, you don't have to pay it immediately .
+*MAR:	te dan treinta . 181713_182590
+%mor:	intj|the noun|dan noun|Treinta .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%eng:	they give you thirty .
+*MAR:	exacto treinta días a [/] a cuando es due@s o sea . 182562_185331
+%mor:	adj|exacto-Pos-S1 num|treinta noun|día-Masc-Plur adp|a sconj|cuando aux|ser-Fin-Ind-Pres-S3 adj|due-Pos-S1 cconj|o noun|sea .
+%gra:	1|9|ROOT 2|3|NUMMOD 3|1|OBJ 4|7|MARK 5|7|MARK 6|7|COP 7|1|ADVCL 8|7|CC 9|8|FIXED 10|1|PUNCT
+%eng:	exactly thirty days . and, and when it's due, I mean ...
+*MAR:	no no hay que pagarlo instantáneamente y no +/. 185843_187909
+%mor:	adv|no adv|no verb|haber-Fin-Ind-Pres-S3 sconj|que verb|pagar-Inf-S adv|instantáneamente cconj|y adv|no +/.
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|8|CC 8|5|CONJ 9|3|PUNCT
+%eng:	no, there's no need to pay it instantly at all .
+*MAR:	exacto . 189375_190019
+%mor:	adj|exacto-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	exactly .
+%com:	long pause .
+*MAR:	exacto exacto exacto . 206672_208715
+%mor:	noun|exacto-Masc adj|exacto-Pos-S1 adj|exacto-Pos-S1 .
+%gra:	1|3|ROOT 2|1|AMOD 3|1|AMOD 4|1|PUNCT
+%eng:	exactly, exactly, exactly .
+*MAR:	eh bueno <él lo> [/] él [/] él es . 211232_214709
+%mor:	intj|eh adj|buen-Pos-S1 pron|él-Prs-AccNom-S3 aux|ser-Fin-Ind-Pres-S3 .
+%gra:	1|2|DEP 2|4|ROOT 3|4|NSUBJ 4|2|COP 5|2|PUNCT
+%eng:	OK, he is .
+*MAR:	bueno el effective@s date@s es julio . 217504_219408
+%mor:	adj|buen-Pos-S1 det|el-Masc-Def-Art noun|effective noun|date aux|ser-Fin-Ind-Pres-S3 noun|julio .
+%gra:	1|6|AMOD 2|3|DET 3|6|NSUBJ 4|3|COMPOUND 5|6|COP 6|6|ROOT 7|6|PUNCT
+%eng:	well the effective date is July .
+*MAR:	mira aquí xxx el effective@s date@s de tu póliza es julio del ochenta y cinco . 219698_224528
+%mor:	verb|mirar-Fin-Imp-S2 adv|aquí det|el-Masc-Def-Art noun|effective noun|date adp|de det|tu-Def-Prs noun|póliza-Fem aux|ser-Fin-Ind-Pres-S3 noun|julio adp|del num|ochenta cconj|y num|cinco .
+%gra:	1|10|CSUBJ 2|1|ADVMOD 3|4|DET 4|1|OBJ 5|4|COMPOUND 6|8|CASE 7|8|DET 8|4|NMOD 9|10|COP 10|14|ROOT 11|12|CASE 12|10|NUMMOD 13|14|CC 14|12|CONJ 15|10|PUNCT
+%eng:	look here [...] the effective date of your policy was July eighty-five .
+%com:	MAR clears her throat .
+*MAR:	sí sí sí . 231857_232350
+%mor:	intj|sí intj|sí intj|sí .
+%gra:	1|3|ROOT 2|1|ADVCL 3|1|OBJ 4|1|PUNCT
+%eng:	yes, yes, yes .
+*MAR:	pero el [/] el [/] el [//] los pagos si no lo pagas inmediatamente no te lo quitan . 232345_236594
+%mor:	cconj|pero det|el-Masc-Def-Art noun|pago-Masc-Plur sconj|si adv|no pron|él-Prs-Acc-S3 verb|pagar-Fin-Ind-Pres-S2 adv|inmediatamente adv|no pron|tú-Prs-Dat-S2 pron|él-Prs-Acc-S3 verb|quitar-Fin-Ind-Pres-P3 .
+%gra:	1|12|ADVMOD 2|3|DET 3|12|NSUBJ 4|7|MARK 5|7|ADVMOD 6|7|OBJ 7|12|ADVCL 8|12|ADVMOD 9|12|ADVMOD 10|12|OBL-ARG 11|12|OBJ 12|12|ROOT 13|12|PUNCT
+%eng:	but the, the, the payments, if you don't make them immediately, they don't take it from you .
+*MAR:	eh inmediatamente . 237403_239574
+%mor:	intj|eh adv|inmediatamente .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%eng:	immediately
+*MAR:	lo acabo de leer . 239951_240937
+%mor:	pron|él-Prs-Acc-S3 verb|acabar-Fin-Ind-Pres-S1 adp|de verb|leer-Inf-S .
+%gra:	1|4|OBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%eng:	I've just read that .
+*MAR:	pero no sé dónde lo leí . 240903_241889
+%mor:	cconj|pero adv|no verb|saber-Fin-Ind-Pres-S1 adv|dónde pron|él-Prs-Acc-S3 verb|leer-Fin-Ind-Past-S1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|6|ROOT 4|6|ADVMOD 5|6|OBJ 6|3|CCOMP 7|3|PUNCT
+%eng:	but I don't know where I read it .
+*MAR:	no sé dónde lo leí . 241872_242946
+%mor:	adv|no verb|saber-Fin-Ind-Pres-S1 adv|dónde pron|él-Prs-Acc-S3 verb|leer-Fin-Ind-Past-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|ADVMOD 4|5|OBJ 5|2|CCOMP 6|2|PUNCT
+%eng:	I don't know where I read it .
+*MAR:	[- eng] uhhuh . 247574_248364
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	uhhuh
+*MAR:	uhhuh@s me dice +"/. 248265_248898
+%mor:	intj|uhhuh pron|I-Prs-Acc-S1 noun|dice +"/.
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%eng:	uhhuh, he said
+*MAR:	+" bueno está tan cerca de cien mil . 248857_250616
+%mor:	adj|buen-Pos-S1 verb|estar-Fin-Ind-Pres-S3 adv|tanto adv|cerca adp|de num|cien num|mil .
+%gra:	1|7|ROOT 2|1|COP 3|4|ADVMOD 4|1|ADVMOD 5|6|CASE 6|4|OBL 7|6|COMPOUND 8|1|PUNCT
+%eng:	well, it's so close to a hundred thousand
+*MAR:	me dice +". 250593_251307
+%mor:	pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +".
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	he told me
+*MAR:	+" tal vez alguien quiera comprarlo . 251481_253019
+%mor:	noun|tal noun|vez pron|alguien-Ind-S1 verb|querer-Fin-Sub-Pres-S3 verb|comprar-Inf-S .
+%gra:	1|4|ADVMOD 2|1|FIXED 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%eng:	maybe someone might want to buy it .
+*MAR:	le hacen a tu papá un life@s expectancy@s report@s . 253089_255748
+%mor:	pron|él-Prs-Dat-S3 verb|hacer-Fin-Ind-Pres-P3 adp|a det|tu-Def-Prs noun|papá-Masc det|uno-Masc-Ind-Art noun|life noun|expectancy noun|report .
+%gra:	1|2|OBJ 2|9|ROOT 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|7|DET 7|2|OBJ 8|7|COMPOUND 9|7|COMPOUND 10|2|PUNCT
+%eng:	they do a life expectancy report for your dad .
+*MAR:	a ver si basado en la gente de la edad de él cuánta [///] xxx si se mueren etcetera [/] etcetera [/] etcetera . 256303_261168
+%mor:	adp|a verb|ver-Inf-S sconj|si adj|basado-Pos-S1 adp|en det|el-Fem-Def-Art noun|gente-Fem adp|de det|el-Fem-Def-Art noun|edad-Fem adp|de pron|él-Prs-AccNom-S3 sconj|si pron|él-Prs-Acc-S3 verb|morir-Fin-Ind-Pres-P3 noun|etcetera-Fem .
+%gra:	1|2|MARK 2|16|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL-ARG 8|10|CASE 9|10|DET 10|7|NMOD 11|12|CASE 12|10|NMOD 13|15|MARK 14|15|EXPL-PV 15|2|CCOMP 16|15|NSUBJ 17|2|PUNCT
+%eng:	to see if, based on people from within his age-group, how much [...] if they die, etc, etc .
+*MAR:	le digo +"/. 261259_261920
+%mor:	pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S1 +"/.
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	I said to him:
+*MAR:	+" bueno pero eso es lo mismo del [/] del viático . 261642_264138
+%mor:	adj|buen-Pos-S1 cconj|pero pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|mismo-Dem-S1 adp|del noun|viático-Masc .
+%gra:	1|8|ROOT 2|6|CC 3|6|NSUBJ 4|6|COP 5|6|DET 6|1|CONJ 7|8|DET 8|6|NMOD 9|1|PUNCT
+%eng:	well, but that's the same as the Last Rites
+*MAR:	me dice +"/. 264061_264427
+%mor:	pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	he told me
+*MAR:	+" no eso es si a la persona le han dado <dos xxx> [/] dos años de vida o menos . 264296_269027
+%mor:	adv|no pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 sconj|si adp|a det|el-Fem-Def-Art noun|persona-Fem pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Pres-P3 verb|dar-Part-Past-S num|dos noun|año-Masc-Plur adp|de noun|vida-Fem cconj|o adv|menos .
+%gra:	1|2|ADVMOD 2|3|NSUBJ 3|16|ROOT 4|10|MARK 5|7|CASE 6|7|DET 7|10|OBL-ARG 8|10|OBJ 9|10|AUX 10|3|CCOMP 11|12|NUMMOD 12|10|OBJ 13|14|CASE 14|12|NMOD 15|16|CC 16|14|CONJ 17|3|PUNCT
+%eng:	no, that's if the person is expected to live two years or less .
+*MAR:	me dice +"/. 269099_269430
+%mor:	pron|yo-Prs-Dat-S1 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%eng:	and he told me
+*MAR:	no es lo mismo que lo que sería para tu papá . 269430_271647
+%mor:	adv|no aux|ser-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 adj|mismo-Pos-S1 sconj|que pron|él-Prs-Acc-S3 pron|que-Rel-S1 aux|ser-Fin-Cnd-S3 adp|para det|tu-Def-Prs noun|papá-Masc .
+%gra:	1|3|ADVMOD 2|3|COP 3|11|ROOT 4|3|FIXED 5|11|MARK 6|11|DET 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|DET 11|3|ADVCL 12|3|PUNCT
+%eng:	it's not the same as what applies to your dad
+*MAR:	y yo +"/. 271653_271850
+%mor:	cconj|y pron|yo-Prs-Nom-S1 +"/.
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%eng:	and I
+*MAR:	eh bueno okay . 271821_272727
+%mor:	intj|eh adj|buen-Pos-S1 noun|okay .
+%gra:	1|3|DEP 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%eng:	well, OK .
+*MAR:	sí yo lo busco sí . 274642_276673
+%mor:	intj|sí pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|buscar-Fin-Ind-Pres-S1 intj|sí .
+%gra:	1|4|ADVCL 2|4|NSUBJ 3|4|OBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%eng:	yes, I will look for it, yes .
+*MAR:	nueve y media para llegar a las once . 281893_284163
+%mor:	num|nueve cconj|y num|medio adp|para verb|llegar-Inf-S adp|a det|el-Fem-Def-Art num|once .
+%gra:	1|8|ROOT 2|3|CC 3|1|CONJ 4|5|MARK 5|1|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+%eng:	half past nine to be there at eleven
+*MAR:	eso toma +/. 284349_285231
+%mor:	pron|ese-Dem-S1 verb|tomar-Fin-Ind-Pres-S3 +/.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%eng:	that takes
+*MAR:	xxx estás a las once . 285452_286926
+%mor:	verb|estar-Fin-Ind-Pres-S2 adp|a det|el-Fem-Def-Art num|once .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%eng:	[...] will you be there at eleven ?
+*MAR:	no no no . 288043_288426
+%mor:	adv|no adv|no adv|no .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%eng:	no, no, no .
+*MAR:	es a las once . 288403_289210
+%mor:	aux|ser-Fin-Ind-Pres-S3 adp|a det|el-Fem-Def-Art num|once .
+%gra:	1|4|COP 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%eng:	it's at eleven
+*MAR:	[- eng] uhhuh . 294165_294786
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	[- eng] uhhuh . 301557_302120
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	[- eng] uhhuh . 303561_304089
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	okay . 304490_305041
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	OK
+*MAR:	oh no [/] no nos ilusionemos . 308222_310486
+%mor:	intj|oh adv|no pron|yo-Prs-Acc-P1 verb|ilusionar-Fin-Ind-Pres-P1 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%eng:	oh, no, let's not get too excited .
+*MAR:	tú todavía tienes que encontrar todavía alguien que lo quiera comprar . 310840_313243
+%mor:	pron|tú-Prs-Nom-S2 adv|todavía verb|tener-Fin-Ind-Pres-S2 sconj|que verb|encontrar-Inf-S adv|todavía pron|alguien-Ind-S1 pron|que-Rel-S1 pron|él-Prs-Acc-S3 verb|querer-Fin-Sub-Pres-S3 verb|comprar-Inf-S .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|11|ROOT 4|5|CC 5|3|CONJ 6|5|ADVMOD 7|5|OBJ 8|10|NSUBJ 9|10|OBJ 10|7|ACL 11|10|XCOMP 12|3|PUNCT
+%eng:	you still have to find someone still who's interested in buying it .
+*MAR:	bueno pero por lo bueno el xxx dice +"/. 313838_315504
+%mor:	adj|buen-Pos-S1 cconj|pero adp|por pron|él-Prs-Acc-S3 adj|buen-Pos-S1 pron|el-Prs-Acc-S3 verb|decir-Fin-Ind-Pres-S3 +"/.
+%gra:	1|7|ROOT 2|7|CC 3|5|CASE 4|5|DET 5|7|ADVMOD 6|7|OBJ 7|1|CONJ 8|1|PUNCT
+%eng:	well, but for the good [...] he said .
+*MAR:	no te cuesta nada . 315370_316334
+%mor:	adv|no pron|tú-Prs-Dat-S2 verb|costar-Fin-Ind-Pres-S3 pron|nada-Neg-S1 .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%eng:	it costs you nothing .
+*MAR:	pues y si alguien está interesado . 316317_317913
+%mor:	sconj|pues cconj|y sconj|si pron|alguien-Ind-S1 aux|estar-Fin-Ind-Pres-S3 adj|interesado-Pos-S1 .
+%gra:	1|6|MARK 2|6|CC 3|6|MARK 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%eng:	so, if someone is interested .
+*MAR:	ellos son brokers@s . 318139_319283
+%mor:	pron|él-Prs-AccNom-P3 aux|ser-Fin-Ind-Pres-P3 noun|brokers-Masc-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%eng:	they are brokers .
+*MAR:	eso es lo que hacen ellos . 319428_320224
+%mor:	pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|hacer-Fin-Ind-Pres-P3 pron|él-Prs-AccNom-P3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|DET 4|5|OBJ 5|2|CCOMP 6|5|NSUBJ 7|2|PUNCT
+%eng:	that's what they do .
+*MAR:	ellos no son xxx . 320189_320967
+%mor:	pron|él-Prs-AccNom-P3 adv|no aux|ser-Fin-Ind-Pres-P3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%eng:	they're not [...] .
+*MAR:	sí . 321681_322859
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	yes .
+*MAR:	exacto . 322944_323385
+%mor:	adj|exacto-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	exactly .
+*MAR:	xxx yo sé que ellos &~po venden pólizas de seguro también . 323333_325551
+%mor:	pron|yo-Prs-Nom-S1 verb|saber-Fin-Ind-Pres-S1 sconj|que pron|él-Prs-AccNom-P3 verb|vender-Fin-Ind-Pres-P3 noun|póliza-Fem-Plur adp|de noun|seguro-Masc adv|también .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|5|OBJ 7|8|CASE 8|6|NMOD 9|5|ADVMOD 10|2|PUNCT
+%eng:	[...] I know that they sell insurance policies too .
+*MAR:	pero eh ahora están [//] se están metiendo en en xxx también . 325609_328871
+%mor:	cconj|pero intj|eh adv|ahora pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-P3 verb|meter-Ger-S adp|en adp|en adv|también .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|ADVMOD 4|6|EXPL-PV 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|CASE 9|6|ADVMOD 10|6|PUNCT
+%eng:	but now they are also getting involved in [...], too .
+*MAR:	no le puedo decir que no . 332142_333193
+%mor:	adv|no pron|él-Prs-Dat-S3 aux|poder-Fin-Ind-Pres-S1 verb|decir-Inf-S sconj|que adv|no .
+%gra:	1|4|ADVMOD 2|4|OBJ 3|4|AUX 4|6|ROOT 5|6|MARK 6|4|OBJ 7|4|PUNCT
+%eng:	I can't tell him no .
+@End

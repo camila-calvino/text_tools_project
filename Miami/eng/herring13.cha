@@ -1,0 +1,2878 @@
+@UTF8
+@PID:	11312/t-00000022-1
+@Begin
+@Languages:	eng, spa
+@Participants:	VAN Adult, LEA Adult, OSE Adult
+@Options:	multi
+@ID:	spa, eng|Miami|VAN|32;|female|||Adult|||
+@ID:	spa, eng|Miami|LEA||female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
+@Media:	herring13, audio
+@Situation:	Conversation between coworkers
+@Date:	31-MAR-2008
+@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University. Initial translation by Mary Silva
+@Comment:	Researcher: Jon Russell Herring, Bangor University
+@Time Duration:	00:29:54
+*VAN:	okay okay so eso@s these are new right ? 17_3158
+%mor:	intj|okay intj|okay adv|so intj|eso pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|new-Pos-S1 adj|right-Pos-S1 ?
+%gra:	1|8|DISCOURSE 2|8|DISCOURSE 3|8|ADVMOD 4|8|DISCOURSE 5|8|NSUBJ 6|8|COP 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+%eng:	okay okay so that, these are new, right ?
+*LEA:	+< okay . 395_749
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	those are new okay . 3088_4139
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|new-Pos-S1 adj|okay-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*LEA:	this is +//. 4725_5497
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 +//.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*LEA:	alright she left these here for you to I guess process them or whatever . 5474_11319
+%mor:	intj|alright pron|she-Prs-Nom-S3 verb|leave-Fin-Ind-Past-S3 pron|this-Dem-P1 adv|here adp|for pron|you-Prs-Acc-S2 part|to pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 verb|process-Inf-S pron|they-Prs-Acc-P3 cconj|or pron|whatever-Int-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|14|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|CASE 7|3|OBL 8|10|MARK 9|10|NSUBJ 10|3|ADVCL 11|10|CCOMP 12|11|OBJ 13|14|CC 14|12|CONJ 15|3|PUNCT
+*VAN:	+< m:hm . 6895_7765
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	right right . 10353_11317
+%mor:	adv|right adv|right .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*LEA:	whatever her [//] it's [///] she needs to sign it . 11079_14063
+%mor:	pron|whatever-Rel-S1 pron|she-Prs-Nom-S3 verb|need-Fin-Ind-Pres-S3 part|to verb|sign-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|OBJ 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*VAN:	okay . 13629_14273
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	okay ? 14052_15491
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	eh . 15340_16101
+%mor:	intj|eh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	so everything is the same except the finances ? 16709_18951
+%mor:	adv|so pron|everything-Tot-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-Pos-S1 adp|except det|the-Def-Art noun|finances-Plur ?
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|DET 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*LEA:	+< everything is the same porque@s we switched it from (.) Citizens to Universal . 18186_22940
+%mor:	pron|everything-Tot-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-Pos-S1 x|porque pron|we-Prs-Nom-P1 verb|switch-Fin-Ind-Past-P1 pron|it-Prs-Acc-S3 adp|from noun|citizen-Plur adp|to noun|Universal .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|12|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|10|CASE 10|7|OBL 11|12|CASE 12|10|NMOD 13|5|PUNCT
+%eng:	everything is the same because we switched it from (.) Citizens to Universal
+*VAN:	oh yeah okay . 22916_24750
+%mor:	intj|oh intj|yeah intj|okay .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+*LEA:	everything's been switched . 24721_25807
+%mor:	pron|everything-Tot-S1~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S verb|switch-Part-Past-S .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+*VAN:	okay okay . 25611_26174
+%mor:	intj|okay intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*LEA:	[- spa] entonces . 26208_27015
+%mor:	adv|entonces .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	then
+*VAN:	oh that's right uhuh okay . 26516_28034
+%mor:	intj|oh pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|right intj|uhuh adj|okay-Pos-S1 .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DISCOURSE 6|6|ROOT 7|6|PUNCT
+*LEA:	+< this is gonna go with [/] with the application to Universal this is going to go . 27638_32195
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 part|gonna verb|go-Inf-S adp|with det|the-Def-Art noun|application adp|to noun|Universal pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|go-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|14|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|7|NMOD 10|12|NSUBJ 11|12|AUX 12|4|PARATAXIS 13|14|MARK 14|12|XCOMP 15|4|PUNCT
+*VAN:	+< okay . 31655_32230
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	<and then this is> [//] and then we're going to open a new file for finance which is something I think you guys don't have . 32201_37983
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|go-Part-Pres-S part|to verb|open-Inf-S det|a-Ind-Art adj|new-Pos-S1 noun|file adp|for noun|finance pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 noun|guy-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|22|ROOT 6|7|MARK 7|5|XCOMP 8|10|DET 9|10|AMOD 10|7|OBJ 11|12|CASE 12|10|NMOD 13|15|NSUBJ 14|15|COP 15|10|ACL-RELCL 16|17|NSUBJ 17|15|ACL-RELCL 18|19|DET 19|22|NSUBJ 20|22|AUX 21|22|ADVMOD 22|17|CCOMP 23|5|PUNCT
+*VAN:	right no@s . 37292_38157
+%mor:	adv|right intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%eng:	right no
+*VAN:	[- spa] sí todo estaba junto . 38134_39769
+%mor:	intj|sí pron|todo-Tot-S1 aux|estar-Fin-Ind-Imp-S3 adj|junto-Pos-S1 .
+%gra:	1|4|ADVCL 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%eng:	yes everything was together
+*LEA:	+< okay . 38151_39759
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	well everything was together pero@s I [///] for the past couple of things yo@s no@s mandé@s esto@s . 39784_44383
+%mor:	intj|well pron|everything-Tot-S1 aux|be-Fin-Ind-Past-S3 adv|together x|pero adp|for det|the-Def-Art adj|past-Pos-S1 noun|couple adp|of noun|thing-Plur intj|yo intj|no x|mandéodelatlelons x|esto .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|15|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|11|CASE 11|9|NMOD 12|14|DISCOURSE 13|14|DISCOURSE 14|5|PARATAXIS 15|14|FLAT 16|5|PUNCT
+%eng:	well everything was together but I [///] for the past couple of things I did not send that .
+*VAN:	[- spa] yo no mandé el contrato . 44509_46047
+%mor:	pron|yo-Prs-Nom-S1 adv|no verb|mandar-Fin-Ind-Past-S1 det|el-Masc-Def-Art noun|contrato-Masc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%eng:	I did not send the contract
+*LEA:	+< okay . 45339_45995
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	that's why en@s [/] en@s los@s faxes que@s me@s venían@s eso@s like came in . 46046_48879
+%mor:	noun|that~noun|ts noun|why adp|en det|el-Masc-Def-Art noun|fax-Masc-Plur pron|que-Rel-S1 pron|yo-Prs-Dat-S1 verb|venir-Fin-Ind-Imp-P3 pron|ese-Dem-S1 noun|like noun|came adp|in .
+%gra:	1|13|ROOT 2|1|COMPOUND 3|1|COMPOUND 4|6|CASE 5|6|DET 6|1|NMOD 7|9|NSUBJ 8|9|OBL-ARG 9|6|ACL 10|9|NSUBJ 11|10|COMPOUND 12|10|COMPOUND 13|10|COMPOUND 14|1|PUNCT
+%eng:	that's why in [/] in the faxes that I was receiving that like came in
+*LEA:	+< that's why (.) lo@s están@s pidiendo@s . 46046_49442
+%mor:	noun|that~noun|ts noun|why pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-P3 verb|pedir-Ger-S .
+%gra:	1|6|NSUBJ 2|1|COMPOUND 3|1|COMPOUND 4|6|OBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+%eng:	that's why (.) they are requesting them
+*VAN:	[- spa] exacto . 48879_49430
+%mor:	adj|exacto-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	exactly
+*LEA:	so we're gonna open new files . 51432_53713
+%mor:	adv|so pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|gonna verb|open-Inf-S adj|new-Pos-S1 noun|file-Plur .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|AMOD 7|5|OBJ 8|5|PUNCT
+*VAN:	m:hm . 51432_53713
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	okay he only has one [/] one thing so we would do him en@s los@s folders más@s finitos@s . 53338_58765
+%mor:	intj|okay pron|he-Prs-Nom-S3 adv|only verb|have-Fin-Ind-Pres-S3 num|one noun|thing adv|so pron|we-Prs-Nom-P1 aux|would-Fin-S verb|do-Inf-S pron|he-Prs-Acc-S3 x|en noun|Los noun|folder-Plur x|más x|finitos .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|16|ROOT 5|6|NUMMOD 6|4|OBJ 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|4|PARATAXIS 11|10|IOBJ 12|14|COMPOUND 13|14|COMPOUND 14|10|OBJ 15|16|CASE 16|14|NMOD 17|4|PUNCT
+%eng:	okay he only has one [/] one thing so we would do him in the thinner folders .
+*VAN:	+< m:hm . 55433_56141
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay . 58821_59158
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	and the blue ones that you gave me there right ? 59058_61096
+%mor:	cconj|and det|the-Def-Art adj|blue-Pos-S1 noun|one-Plur pron|that-Rel-S1 pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Past-S2 pron|I-Prs-Acc-S1 adv|there adv|right ?
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|10|ROOT 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|IOBJ 9|7|ADVMOD 10|7|ADVMOD 11|4|PUNCT
+*LEA:	+< not &~nes [///] we don't have to do the blue . 60578_62029
+%mor:	part|not pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|have-Inf-S part|to verb|do-Inf-S det|the-Def-Art noun|blue .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT
+*LEA:	we can do +/. 61858_62758
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*VAN:	+< oh any . 61948_62708
+%mor:	intj|oh det|any-Def .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*LEA:	yeah she [/] she just said yeah pa(ra)@s empezar@s . 62746_64700
+%mor:	intj|yeah pron|she-Prs-Nom-S3 adv|just verb|say-Fin-Ind-Past-S3 intj|yeah x|para x|empezar .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|4|DISCOURSE 6|4|OBJ 7|4|OBJ 8|4|PUNCT
+%eng:	yeah she [/] she just said yeah to start .
+*VAN:	+< okay (.) okay . 62746_64796
+%mor:	intj|okay intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*LEA:	so what you do is (.) you put the policy on the right and the correspondence on the left . 65006_71860
+%mor:	adv|so pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 det|the-Def-Art noun|policy adp|on det|the-Def-Art noun|right cconj|and det|the-Def-Art noun|correspondence adp|on det|the-Def-Art noun|left .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ-OUTER 3|4|NSUBJ 4|2|ACL-RELCL 5|7|COP 6|7|NSUBJ 7|18|ROOT 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|15|CC 14|15|DET 15|9|CONJ 16|18|CASE 17|18|DET 18|15|NMOD 19|7|PUNCT
+*VAN:	+< m:hm . 65009_65717
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	+< m:hm . 70125_70636
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay . 71756_72325
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	so ya@s tú@s sabes@s aquí@s está@s (.) todo@s junto@s . 72536_75588
+%mor:	x|so adv|ya pron|tú-Prs-Nom-S2 verb|saber-Fin-Ind-Pres-S2 adv|aquí verb|estar-Fin-Ind-Pres-S3 pron|todo-Tot-S1 adj|junto-Pos-S1 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|4|ADVMOD 6|4|CCOMP 7|8|NSUBJ 8|4|OBJ 9|4|PUNCT
+%eng:	so there you are, you know here it is (.) all together .
+*VAN:	m:hm . 75629_76122
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	sí@s sí@s que@s a@s la@s hora@s de@s buscar@s it's okay . 75981_78379
+%mor:	intj|sí intj|sí sconj|que adp|a det|el-Fem-Def-Art noun|hora-Fem adp|de verb|buscar-Inf-S noun|it~noun|ts noun|okay .
+%gra:	1|11|ROOT 2|1|ADVCL 3|1|FIXED 4|1|CASE 5|6|DET 6|1|NMOD 7|8|MARK 8|6|ACL 9|8|OBJ 10|9|COMPOUND 11|9|COMPOUND 12|1|PUNCT
+%eng:	yes yes, when it is time to look for it, it's okay
+*LEA:	+< we're not . 76260_77235
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|not .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*LEA:	we're [///] and now it's going to be individual@s . 77967_80149
+%mor:	cconj|and adv|now pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adj|individual-Pos-S1 .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|MARK 7|8|COP 8|5|XCOMP 9|5|PUNCT
+%eng:	we're [///] and now it's going to be individual .
+*VAN:	+< alright . 79708_80469
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay okay . 81084_81676
+%mor:	intj|okay intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*LEA:	okay ? 81790_82492
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	so that [/] that'll work . 82421_83722
+%mor:	adv|so pron|that-Dem-S1~aux|will-Fin-S verb|work-Inf-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*VAN:	right . 83610_84219
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	y@s entonces@s okay so then we'll do that . 84159_86684
+%mor:	intj|y aux|entonce-Fin-Ind-Past-S3 intj|okay adv|so adv|then pron|we-Prs-Nom-P1~aux|will-Fin-S verb|do-Inf-S pron|that-Dem-S1 .
+%gra:	1|2|DISCOURSE 2|9|ROOT 3|2|DISCOURSE 4|8|ADVMOD 5|8|ADVMOD 6|8|NSUBJ 7|8|AUX 8|2|PARATAXIS 9|8|OBJ 10|2|PUNCT
+%eng:	and then okay so then we'll do that .
+*LEA:	so +... 84188_84588
+%mor:	adv|so +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	so I'll [/] I'll put everything together and make a copy of everything . 86644_89569
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|will-Fin-S verb|put-Inf-S pron|everything-Tot-S1 adv|together cconj|and verb|make-Inf-S det|a-Ind-Art noun|copy adp|of pron|everything-Tot-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|4|OBJ 6|4|ADVMOD 7|8|CC 8|4|CONJ 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|4|PUNCT
+*LEA:	+< m:hm . 88976_89574
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	y@s después@s esto@s va@s a@s ir@s separado@s que@s es@s en@s otro@s folder . 89552_91827
+%mor:	cconj|y adv|después pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adp|a verb|ir-Inf-S adj|separar-Pos-S1 sconj|que aux|ser-Fin-Ind-Pres-S3 adp|en det|otro-Masc-Def-Ind noun|folder .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|12|ROOT 5|6|MARK 6|4|XCOMP 7|4|XCOMP 8|12|MARK 9|12|COP 10|12|CASE 11|12|DET 12|4|ADVCL 13|4|PUNCT
+%eng:	and then this is going to be separate because it's in another folder .
+*LEA:	right . 91792_92285
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	which is gonna be a finance folder . 92369_93893
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 part|gonna aux|be-Inf-S det|a-Ind-Art noun|finance noun|folder .
+%gra:	1|7|NSUBJ 2|7|AUX 3|7|ADVMOD 4|7|COP 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+*VAN:	a finance okay . 93812_95054
+%mor:	det|a-Ind-Art noun|finance adj|okay-Pos-S1 .
+%gra:	1|3|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*LEA:	you know so that's how this one is gonna be . 94938_98212
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|so pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|how det|this-Def-Dem noun|one aux|be-Fin-Ind-Pres-S3 part|gonna aux|be-Inf-S .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|6|ADVMOD 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|8|DET 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|COP 12|2|PUNCT
+*VAN:	+< so I'm gonna leave that out there okay . 96504_98118
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|leave-Inf-S pron|that-Dem-S1 adv|out adv|there adj|okay-Pos-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|8|ADVMOD 8|5|ADVMOD 9|5|ADVMOD 10|5|PUNCT
+*VAN:	so pretty much yo@s creo@s que@s todas@s era@s [///] esto@s +/. 98238_100217
+%mor:	noun|so noun|pretty noun|much pron|yo-Prs-Nom-S1 verb|creer-Fin-Ind-Pres-S1 sconj|que det|todo-Fem-Def-Tot pron|este-Dem-S1 +/.
+%gra:	1|5|NSUBJ 2|1|COMPOUND 3|1|COMPOUND 4|5|NSUBJ 5|8|ROOT 6|8|MARK 7|8|DET 8|5|OBJ 9|5|PUNCT
+%eng:	so pretty much I think that was all this .
+*LEA:	+< okay . 99015_99375
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	[- spa] este se formó +... 99941_101125
+%mor:	pron|este-Dem-S1 pron|él-Prs-Acc-S3 verb|formar-Fin-Ind-Past-S3 +...
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%eng:	this was formed +...
+*VAN:	+< [- spa] tremendo lío . 101132_102618
+%mor:	adj|tremendo-Pos-S1 noun|lío-Masc .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%eng:	horrible mess
+*LEA:	[- spa] tremenda lío . 102072_103065
+%mor:	adj|tremendo-Pos-S1 noun|lío-Masc .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%eng:	horrible mess
+*VAN:	really ? 102867_103581
+%mor:	adv|really ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	big time yeah . 103245_104301
+%mor:	adj|big-Pos-S1 noun|time intj|yeah .
+%gra:	1|2|AMOD 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*LEA:	[- spa] pero bueno eso [/] eso [/] eso es y después te lo +//. 104244_106723
+%mor:	cconj|pero adj|buen-Pos-S1 pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 cconj|y adv|después pron|tú-Prs-Acc-S2 pron|él-Prs-Acc-S3 +//.
+%gra:	1|3|ADVMOD 2|3|AMOD 3|8|ROOT 4|3|COP 5|8|CC 6|8|ADVMOD 7|8|EXPL-PV 8|3|CONJ 9|3|PUNCT
+%eng:	but well that [/] that [/] that is and then I will +//.
+*VAN:	m:hm &=laugh . 106639_107562
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	+, [- spa] te lo cuento . 107278_108137
+%mor:	pron|tú-Prs-Acc-S2 pron|él-Prs-Acc-S3 verb|contar-Fin-Ind-Pres-S1 .
+%gra:	1|3|OBL-ARG 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	+, I will tell you .
+*LEA:	[- spa] entonces también este [/] este se va a tener que abrir in@s a@s commercial@s folder@s . 108073_112474
+%mor:	adv|entonces adv|también pron|este-Dem-S1 pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|tener-Inf-S sconj|que verb|abrir-Inf-S adp|in noun|a noun|commercial noun|folder .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|7|EXPL-PV 5|13|ROOT 6|7|MARK 7|5|XCOMP 8|9|CC 9|7|CONJ 10|9|ADVMOD 11|10|FIXED 12|10|FIXED 13|10|FIXED 14|5|PUNCT
+%eng:	then this also [/] this will have to be opened in a commercial folder .
+*VAN:	+< m:hm . 110128_110685
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay . 111707_112258
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	okay ? 112308_112656
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	which the commercials are different as well right ? 112645_114338
+%mor:	pron|which-Rel-S1 det|the-Def-Art noun|commercial-Plur aux|be-Fin-Ind-Pres-P3 adj|different-Pos-S1 adv|as adv|well adv|right ?
+%gra:	1|5|OBL 2|3|DET 3|5|NSUBJ 4|5|COP 5|8|ROOT 6|5|ADVMOD 7|6|FIXED 8|5|ADVMOD 9|5|PUNCT
+*LEA:	yeah pero@s [//] but if it's like como@s ese@s que@s es@s just a GO lo@s hacemos@s en@s el@s finito@s para@s no@s coger@s the +/. 114277_119571
+%mor:	noun|yeah noun|but noun|if noun|it~noun|ts noun|like sconj|como pron|ese-Dem-S1 pron|que-Rel-S1 aux|ser-Fin-Ind-Pres-S3 noun|just adp|a noun|GO pron|él-Prs-Acc-S3 verb|hacer-Fin-Ind-Pres-P1 adp|en det|el-Masc-Def-Art noun|finito-Masc adp|para adv|no verb|coger-Inf-S noun|the +/.
+%gra:	1|15|NSUBJ 2|1|COMPOUND 3|1|COMPOUND 4|1|COMPOUND 5|1|COMPOUND 6|1|COMPOUND 7|8|CASE 8|1|NMOD 9|11|NSUBJ 10|11|COP 11|1|ACL 12|13|CASE 13|11|NMOD 14|15|OBJ 15|22|ROOT 16|18|CASE 17|18|DET 18|15|OBL 19|21|MARK 20|21|ADVMOD 21|15|ADVCL 22|21|OBJ 23|15|PUNCT
+%eng:	yeah but, but if it's like that one, which is just a GO, we do it at the end so as not to get the ...
+*VAN:	+< oh yeah . 118108_118787
+%mor:	intj|oh intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	+< sí@s pero@s no@s los@s big ones . 119066_120018
+%mor:	intj|sí cconj|pero adv|no det|el-Masc-Def-Art noun|big noun|one .
+%gra:	1|6|ROOT 2|5|CC 3|5|ADVMOD 4|5|DET 5|1|CONJ 6|5|COMPOUND 7|1|PUNCT
+%eng:	+< yes, but not the big ones .
+*LEA:	right . 119937_120314
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay . 119937_120314
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	sí@s únicamente@s que@s they have like everything like homeowners insurance &=mumble whatever flood . 120311_124760
+%mor:	x|sí x|únicamente x|que pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 adp|like pron|everything-Tot-S1 adp|like noun|homeowner-Plur noun|insurance det|whatever-Def-Int noun|flood .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|5|DISCOURSE 4|5|NSUBJ 5|12|ROOT 6|7|CASE 7|5|OBL 8|10|CASE 9|10|COMPOUND 10|7|NMOD 11|12|DET 12|7|NMOD 13|5|PUNCT
+%eng:	yes only that they have like everything like homeowners insurance, dadada, whatever flood .
+*LEA:	+< then we do the big one . 124035_125004
+%mor:	adv|then pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 det|the-Def-Art adj|big-Pos-S1 noun|one .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*LEA:	yeah . 124981_125346
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay . 125230_125857
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	&-um okay what else ? 125805_127123
+%mor:	intj|okay pron|what-Int-S1 adv|else ?
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*VAN:	entonces@s nada@s xxx es@s Julia Pérez . 127024_129131
+%mor:	adv|entonces pron|nada-Neg-S1 aux|ser-Fin-Ind-Pres-S3 noun|Julia noun|Pérez .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|FLAT 6|4|PUNCT
+%eng:	then nothing [...] is Julia Pérez .
+*LEA:	+< okay . 129090_129473
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	Morales Muñoz we just redid again . 129473_133038
+%mor:	noun|Morales noun|Muñoz pron|we-Prs-Nom-P1 adv|just verb|redid-Fin-Ind-Past-P1 adv|again .
+%gra:	1|5|VOCATIVE 2|1|FLAT 3|5|NSUBJ 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*VAN:	+< [- spa] pero &~e +... 129537_130425
+%mor:	cconj|pero +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	+< but ...
+*VAN:	+< [- spa] ajá . 130744_131226
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah
+*LEA:	so este@s es@s signature and the processing of the thing . 134212_138722
+%mor:	adv|so x|este x|es noun|signature cconj|and det|the-Def-Art noun|processing adp|of det|the-Def-Art noun|thing .
+%gra:	1|10|ROOT 2|1|GOESWITH 3|4|COMPOUND 4|1|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|1|PUNCT
+%eng:	so this is signature and the processing of the thing .
+*VAN:	okay . 138449_138977
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	so todo@s está@s en@s finance . 138803_140011
+%mor:	pron|se-Prs-S1 pron|todo-Tot-S1 verb|estar-Fin-Ind-Pres-S3 adp|en noun|finance .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%eng:	so all is in finance .
+*LEA:	+< yes . 139656_140162
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay . 140144_141090
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	so . 141070_141599
+%mor:	adv|so .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	and these are all like renewals that came in or ? 142609_145280
+%mor:	cconj|and pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|all-Def adp|like noun|renewal-Plur pron|that-Rel-S1 verb|come-Fin-Ind-Past-P3 adv|in cconj|or ?
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|CASE 6|10|ROOT 7|8|NSUBJ 8|6|ACL-RELCL 9|8|ADVMOD 10|8|CC 11|6|PUNCT
+*VAN:	oh xxx +/. 145201_146136
+%mor:	intj|oh +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	[- spa] estos [/] estos son los [/] los problemáticos . 145820_147897
+%mor:	pron|este-Dem-P1 aux|ser-Fin-Ind-Pres-P3 det|el-Masc-Def-Art noun|problemático-Masc-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%eng:	these [/] these are the [/] the problematic ones .
+*VAN:	ah que@s tuvieron@s que@s rescribirlos@s . 147882_149681
+%mor:	intj|ah pron|que-Rel-S1 verb|tener-Fin-Ind-Past-P3 sconj|que verb|rescribir-Inf-S .
+%gra:	1|3|DEP 2|5|NSUBJ 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+%eng:	ah so they had to rewrite them .
+*VAN:	[- spa] todo ? 149681_150616
+%mor:	pron|todo-Tot-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	all ?
+*LEA:	+< because she forgot this xxx . 150115_151990
+%mor:	sconj|because pron|she-Prs-Nom-S3 verb|forget-Fin-Ind-Past-S3 pron|this-Dem-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*VAN:	really ? 152659_153396
+%mor:	adv|really ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	+< cuando@s se@s hizo@s [/] cuando@s [/] cuando@s se@s arregló@s el@s problema@s she forgot normally . 153178_157417
+%mor:	sconj|cuando pron|él-Prs-Acc-S3 sconj|cuando pron|él-Prs-Acc-S3 verb|arreglar-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|problema-Masc noun|she noun|forgot noun|normally .
+%gra:	1|5|MARK 2|5|EXPL-PASS 3|5|MARK 4|5|EXPL-PASS 5|10|ROOT 6|7|DET 7|5|NSUBJ 8|7|APPOS 9|8|FLAT 10|8|FLAT 11|5|PUNCT
+%eng:	+< when it was done [/] when [/] when the problem was fixed she forgot normally .
+*VAN:	[- spa] ajá . 155077_155959
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah .
+*LEA:	[- spa] y pasó un mes . 157330_158654
+%mor:	cconj|y verb|pasar-Fin-Ind-Past-S3 det|uno-Masc-Ind-Art noun|mes-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBL 5|2|PUNCT
+%eng:	and a month went by .
+*LEA:	[- spa] todo el mundo cogió cancelación . 158642_160401
+%mor:	det|todo-Masc-Def-Tot det|el-Masc-Def-Art noun|mundo-Masc verb|coger-Fin-Ind-Past-S3 noun|cancelación-Fem .
+%gra:	1|2|DET 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%eng:	everybody took cancellation .
+*VAN:	[- spa] y [/] y la [///] y no tenían la explicación en xxx ? 159914_162735
+%mor:	cconj|y cconj|y adv|no verb|tener-Fin-Ind-Imp-P3 det|el-Fem-Def-Art noun|explicación-Fem adp|en ?
+%gra:	1|4|ADVMOD 2|4|CC 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT 8|4|PUNCT
+%eng:	and [/] and the [///] and they did not have the explanation in [...] ?
+*VAN:	+< oh my god what a mess [=! laugh] . 162544_164924
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|god pron|what-Int-S1 det|a-Ind-Art noun|mess .
+%gra:	1|6|DISCOURSE 2|3|NMOD-POSS 3|6|DISCOURSE 4|6|DET-PREDET 5|6|DET 6|6|ROOT 7|6|PUNCT
+*LEA:	[- spa] no . 162735_163060
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	no .
+*LEA:	[- spa] no había nada nada nada nada nada . 163060_164610
+%mor:	adv|no verb|haber-Fin-Ind-Imp-S3 pron|nada-Neg-S1 pron|nada-Neg-S1 pron|nada-Neg-S1 pron|nada-Neg-S1 pron|nada-Neg-S1 .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|2|OBJ 4|3|NMOD 5|2|OBJ 6|7|DET 7|2|OBJ 8|2|PUNCT
+%eng:	there was nothing, nothing, nothing, nothing, nothing .
+*LEA:	+< <yeah yeah> [?] so imagínate@s viernes@s aquí@s . 165531_167481
+%mor:	intj|yeah intj|yeah intj|so verb|imagínate-Fin-Imp-S x|viernes x|aquítckamastagrelopment .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|DISCOURSE 4|6|ROOT 5|4|GOESWITH 6|4|OBJ 7|4|PUNCT
+%eng:	+< yeah yeah so imagine Friday here .
+*VAN:	holy &~ʃ shoot . 167567_169215
+%mor:	adj|holy-Pos-S1 noun|shoot .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*LEA:	+< [- spa] cómo fue la +//? 168388_169949
+%mor:	pron|cómo-Ind-S1 aux|ser-Fin-Ind-Past-S3 det|el-Fem-Def-Art +//?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%eng:	+< how was the +//?
+*LEA:	okay what [///] this is [///] what did we do here ? 169577_171614
+%mor:	intj|okay pron|this-Dem-S1 pron|what-Int-S1 aux|do-Fin-Ind-Past-P1 pron|we-Prs-Nom-P1 verb|do-Inf-S adv|here ?
+%gra:	1|6|DISCOURSE 2|6|OBJ 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+*VAN:	entonces@s these are for the contracts to do that . 171907_174780
+%mor:	x|entonces pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 adp|for det|the-Def-Art noun|contract-Plur part|to verb|do-Inf-S pron|that-Dem-S1 .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|9|ROOT 7|8|MARK 8|6|ACL 9|8|OBJ 10|6|PUNCT
+%eng:	then these are for the contracts to do that .
+*LEA:	okay . 174786_175442
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	this is new . 175369_176565
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|new-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*VAN:	m:hm . 177459_178179
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	okay . 178217_179036
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	this is new . 179018_180574
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|new-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*VAN:	xxx . 180518_181441
+*LEA:	right . 182788_183391
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	and he paid it off or ? 182826_184480
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|pay-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|off cconj|or ?
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|CC 7|3|PUNCT
+*LEA:	+< he paid it off . 183731_184376
+%mor:	pron|he-Prs-Nom-S3 verb|pay-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+*LEA:	yes . 184449_184652
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	so a@s este@s no@s más@s hay@s que@s hacerle@s copia@s . 184658_185657
+%mor:	x|so adp|a pron|este-Dem-S1 adv|no adv|más verb|haber-Fin-Ind-Pres-S3 sconj|que verb|hacer-Inf-S noun|copia-Fem .
+%gra:	1|8|ADVMOD 2|3|CASE 3|8|OBL-ARG 4|8|ADVMOD 5|8|ADVMOD 6|9|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|6|PUNCT
+%eng:	so this one only has to be copied .
+*LEA:	[- spa] y mandarlo de nuevo . 185661_186491
+%mor:	cconj|y verb|mandar-Inf-S adp|de adj|nuevo-Pos-S1 .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|ADVMOD 4|3|FIXED 5|2|PUNCT
+%eng:	and send it again .
+*VAN:	okay perfect . 185886_187297
+%mor:	intj|okay adj|perfect-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*LEA:	okay another thing . 187101_188513
+%mor:	intj|okay det|another-Def noun|thing .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*VAN:	m:hm . 188513_189349
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	I need to know if anything new has been done within the last (.) two weeks . 190817_195385
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 part|to verb|know-Inf-S sconj|if pron|anything-Ind-S1 adj|new-Pos-S1 aux|have-Fin-Ind-Pres-S3 aux|be-Part-Past-S verb|do-Part-Past-S adp|within det|the-Def-Art adj|last-Pos-S1 num|two noun|week-Plur .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|4|MARK 4|2|XCOMP 5|10|MARK 6|10|NSUBJ-PASS 7|6|AMOD 8|10|AUX 9|10|AUX-PASS 10|4|CCOMP 11|15|CASE 12|15|DET 13|15|AMOD 14|15|NUMMOD 15|10|OBL 16|2|PUNCT
+*VAN:	m:hm . 195090_196024
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	+< so we can keep track of it in the binder book . 195362_197301
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|keep-Inf-S noun|track adp|of pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|binder noun|book .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|11|CASE 9|11|DET 10|11|COMPOUND 11|4|OBL 12|4|PUNCT
+*VAN:	+< okay . 196785_197163
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	alright yeah I've been writing them here . 197310_199771
+%mor:	intj|alright intj|yeah pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 aux|be-Part-Past-S verb|write-Part-Pres-S pron|they-Prs-Acc-P3 adv|here .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|8|ROOT 7|6|OBJ 8|6|ADVMOD 9|6|PUNCT
+*LEA:	+< you've been doing them here ? 199284_200310
+%mor:	pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 aux|be-Part-Past-S verb|do-Part-Pres-S pron|they-Prs-Acc-P3 adv|here ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*LEA:	okay . 200316_200513
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	yeah . 200409_200676
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	yeah I've been writing them here . 200745_202539
+%mor:	intj|yeah pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 aux|be-Part-Past-S verb|write-Part-Pres-S pron|they-Prs-Acc-P3 adv|here .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*LEA:	okay but how do you know if it's new ? 202574_203810
+%mor:	intj|okay cconj|but adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|new-Pos-S1 ?
+%gra:	1|6|DISCOURSE 2|6|CC 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|10|ROOT 7|10|MARK 8|10|NSUBJ 9|10|COP 10|6|CCOMP 11|6|PUNCT
+*VAN:	+< like . 202723_203275
+%mor:	intj|like .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	right that's what I'm saying . 203635_204791
+%mor:	adv|right pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|say-Part-Pres-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|4|PUNCT
+*VAN:	I'll have to find [//] figure out if it's new . 204739_206219
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|have-Inf-S part|to verb|figure-Inf-S adp|out sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|new-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|10|MARK 8|10|NSUBJ 9|10|COP 10|5|CCOMP 11|3|PUNCT
+*VAN:	I know this one was new . 206299_207472
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|this-Def-Dem noun|one aux|be-Fin-Ind-Past-S3 adj|new-Pos-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|2|PUNCT
+*LEA:	m:hm . 207425_207745
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	Mayra o@s Tina . 207724_209674
+%mor:	noun|Mayra cconj|o noun|Tina .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%eng:	Mayra or Tina .
+*VAN:	[- spa] estos no eran nuevos . 209663_210644
+%mor:	pron|este-Dem-P1 adv|no aux|ser-Fin-Ind-Imp-P3 adj|nuevo-Pos-P1 .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|COP 4|4|ROOT 5|4|PUNCT
+%eng:	these were not new .
+*LEA:	[- spa] hubo algunos que se pusieron +... 210624_212586
+%mor:	verb|haber-Fin-Ind-Past-S3 pron|alguno-Ind-P1 pron|que-Rel-S1 pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Past-P3 +...
+%gra:	1|5|ROOT 2|1|OBJ 3|5|NSUBJ 4|5|EXPL-PV 5|2|ACL 6|1|PUNCT
+%eng:	there were some that were put +...
+*VAN:	m:hm . 212551_212986
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	background noise .
+*LEA:	[- spa] aquí . 214973_215629
+%mor:	adv|aquí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	here .
+*VAN:	&=laugh . 214973_215629
+*LEA:	so we'll see here cause we have an idea . 215647_218358
+%mor:	adv|so pron|we-Prs-Nom-P1~aux|will-Fin-S verb|see-Inf-S adv|here sconj|cause pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|idea .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|ADVMOD 6|8|MARK 7|8|NSUBJ 8|4|ADVCL 9|10|DET 10|8|OBJ 11|4|PUNCT
+*VAN:	+< ah okay . 217121_217673
+%mor:	intj|ah intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	m:hm . 218277_218985
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	long pause and someone from the office talks to the speakers and they laugh . The mobile phone of one of the speaker rings .
+*OSE:	www . 221755_223496
+*VAN:	xxx . 225691_228419
+*VAN:	[- spa] xxx teléfono ese . 229245_230569
+%mor:	noun|teléfono-Masc pron|ese-Dem-S1 .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+%eng:	[...] that telephone .
+*LEA:	okay . 230422_231403
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	the last new . 231247_232501
+%mor:	det|the-Def-Art adj|last-Pos-S1 adj|new-Pos-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*LEA:	okay wait . 232490_233541
+%mor:	intj|okay verb|wait-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*LEA:	Ricardo Hernández . 233535_235300
+%mor:	noun|Ricardo noun|Hernández .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*VAN:	m:hm . 234713_235299
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	we did . 235253_236054
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*LEA:	is he there ? 236106_236786
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 adv|there ?
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|ADVMOD 4|1|PUNCT
+*VAN:	+< sí@s Ricardo Hernandez is here somewhere on here . 236285_239205
+%mor:	noun|sí noun|Ricardo noun|Hernandez aux|be-Fin-Ind-Pres-S3 adv|here adv|somewhere adp|on adv|here .
+%gra:	1|5|NSUBJ 2|5|NSUBJ 3|2|FLAT 4|5|COP 5|8|ROOT 6|5|ADVMOD 7|8|CASE 8|6|OBL 9|5|PUNCT
+%eng:	+< yes Ricardo Hernandez is here somewhere on here .
+*LEA:	+< nope . 238492_238892
+%mor:	intj|nope .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	+< he's not . 238875_239601
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*LEA:	because Ricardo Hernández we did under me . 240464_242699
+%mor:	sconj|because noun|Ricardo noun|Hernández pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Past-P1 adp|under pron|I-Prs-Acc-S1 .
+%gra:	1|5|MARK 2|5|NSUBJ 3|2|FLAT 4|5|NSUBJ 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*VAN:	oh . 242705_244237
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] y yo no lo escribí . 244066_245047
+%mor:	cconj|y pron|yo-Prs-Nom-S1 adv|no pron|él-Prs-Acc-S3 verb|escribir-Fin-Ind-Past-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|ADVMOD 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+%eng:	and I did not write it .
+*LEA:	+< I don't know this is under what still ? 244666_246628
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adp|under pron|what-Rel-S1 adv|still ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|8|NSUBJ 6|8|COP 7|8|CASE 8|4|CCOMP 9|8|ADVMOD 10|4|PUNCT
+*LEA:	this is under +... 246535_247696
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|under +...
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*VAN:	Ana ? 247638_248265
+%mor:	noun|Ana ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	yeah . 248254_248741
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	xxx . 248463_249432
+*LEA:	okay . 249350_249814
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	then we did Kelly Flores . 249797_250911
+%mor:	adv|then pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Past-P1 noun|Kelly noun|Flores .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|4|FLAT 6|3|PUNCT
+*VAN:	m:hm . 250900_251709
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	no but I don't have that here . 252170_254225
+%mor:	intj|no cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S pron|that-Dem-S1 adv|here .
+%gra:	1|6|DISCOURSE 2|6|CC 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|6|OBJ 8|6|ADVMOD 9|6|PUNCT
+*VAN:	unless it's [///] pero@s qué@s +/. 254282_255786
+%mor:	noun|unless cconj|pero pron|qué-Int-S1 +/.
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%eng:	unless it's [///] but what+/.
+*LEA:	+< which was three five . 255119_256269
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Past-S3 num|three num|five .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|NMOD-TMOD 5|3|PUNCT
+*LEA:	I wonder <if it's Col> [/] if it's Colleen no ? 256274_258230
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|Colleen intj|no ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|6|MARK 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|2|DISCOURSE 8|2|PUNCT
+*VAN:	ah no perdón@s . 258721_259313
+%mor:	intj|ah adv|no noun|perdón-Masc .
+%gra:	1|3|DEP 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%eng:	ah no sorry .
+*VAN:	pero@s three five is here . 259249_260538
+%mor:	noun|pero num|three num|five aux|be-Fin-Ind-Pres-S3 adv|here .
+%gra:	1|5|NSUBJ 2|3|COMPOUND 3|1|NUMMOD 4|5|COP 5|5|ROOT 6|5|PUNCT
+%eng:	but three five is here .
+*VAN:	[- spa] mira . 260530_260832
+%mor:	verb|mirar-Fin-Imp-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	look
+*LEA:	okay . 260803_261151
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] mira Ricardo Hernández . 261105_261987
+%mor:	verb|mirar-Fin-Imp-S2 noun|Ricardo noun|Hernández .
+%gra:	1|3|ROOT 2|1|OBJ 3|2|FLAT 4|1|PUNCT
+%eng:	look Ricardo Hernández .
+*VAN:	[- spa] ya lo tenía . 261924_262545
+%mor:	adv|ya pron|él-Prs-Acc-S3 verb|tener-Fin-Ind-Imp-S3 .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	I already had him
+*LEA:	+< Ricardo Hernández . 262545_263102
+%mor:	noun|Ricardo noun|Hernández .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*VAN:	ahhah . 263131_263590
+%mor:	noun|ahhah-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] y cuál era el otro ? 263498_264287
+%mor:	cconj|y pron|cuál-Int-S1 aux|ser-Fin-Ind-Imp-S3 det|el-Masc-Def-Art pron|otro-Ind-S1 ?
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%eng:	and which was the other one ?
+*LEA:	okay . 263537_263880
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	Kelly Flores ? 264258_265100
+%mor:	noun|Kelly noun|Flores ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*LEA:	Kelly Flores . 265043_266093
+%mor:	noun|Kelly noun|Flores .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%com:	background noise .
+*VAN:	ah that one I don't see here . 266230_268743
+%mor:	intj|ah det|that-Def-Dem noun|one pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S adv|here .
+%gra:	1|3|DISCOURSE 2|3|DET 3|8|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|7|ADVMOD 9|3|PUNCT
+*LEA:	+< no . 267646_268581
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	Rosa María Salgado . 268639_269898
+%mor:	noun|Rosa noun|María noun|Salgado .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*VAN:	that one +... 270083_271163
+%mor:	det|that-Def-Dem num|one +...
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*LEA:	is there . 271488_272150
+%mor:	aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*VAN:	yes Salgado right there . 272196_273377
+%mor:	intj|yes noun|Salgado adv|right adv|there .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*LEA:	+< &~e: Catalina Loango ? 273198_275788
+%mor:	noun|Catalina noun|Loango ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*VAN:	sí@s esa@s está@s ahí@s Catalina . 275660_277901
+%mor:	intj|sí pron|ese-Dem-S1 aux|estar-Fin-Ind-Pres-S3 adv|ahí noun|Catalina .
+%gra:	1|3|ADVCL 2|3|NSUBJ 3|5|ROOT 4|3|ADVMOD 5|3|NSUBJ 6|3|PUNCT
+%eng:	yes that one is there, Catalina .
+*LEA:	okay . 277287_277740
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	ah . 278454_279133
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	background noise, people talking
+*LEA:	that's it . 281499_282323
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*VAN:	m:hm . 282712_283414
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	after that that's it . 283333_284169
+%mor:	adp|after sconj|that pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|5|MARK 2|5|MARK 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*VAN:	+< so Kelly Flores xxx . 283993_286012
+%mor:	adv|so noun|Kelly noun|Flores .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*LEA:	yeah so we need to find out . 285073_286669
+%mor:	intj|yeah adv|so pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 part|to verb|find-Inf-S adp|out .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|4|PUNCT
+*OSE:	www . 286019_286773
+*LEA:	bye . 286715_287209
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 286875_290109
+*LEA:	+< thank you . 288193_290109
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*LEA:	[- spa] sí verdad . 290117_291000
+%mor:	intj|sí noun|verdad-Fem .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%eng:	yes, really
+*VAN:	+< [- spa] hasta luego . 290117_291000
+%mor:	adp|hasta adv|luego .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%eng:	goodbye
+*OSE:	www . 292184_294419
+%com:	LEA and VAN laugh .
+*LEA:	so anything <under Cata> [//] after Catalina because maybe some of those are renewals . 298813_303263
+%mor:	adv|so pron|anything-Ind-S1 adp|after noun|Catalina sconj|because adv|maybe det|some-Def adp|of pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|renewal-Plur .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|4|CASE 4|2|NMOD 5|11|MARK 6|11|ADVMOD 7|11|NSUBJ 8|9|CASE 9|7|NMOD 10|11|COP 11|2|ADVCL 12|2|PUNCT
+*VAN:	+< okay . 299360_300056
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	+< [- spa] ajá . 301383_301853
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah
+*LEA:	I'm not sure . 303205_303850
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*VAN:	[- spa] sí sí . 303205_303850
+%mor:	intj|sí intj|sí .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%eng:	yes, yes
+*VAN:	[- spa] sí , no todos son nuevos . 304202_305286
+%mor:	intj|sí cm|cm adv|no pron|todo-Tot-P1 aux|ser-Fin-Ind-Pres-P3 adj|nuevo-Pos-P1 .
+%gra:	1|6|ADVCL 2|1|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%eng:	yes, not all are new .
+*VAN:	they're not all new . 305239_307167
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not adv|all adj|new-Pos-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*OSE:	www . 305994_307167
+*LEA:	you're very welcome . 307126_308612
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|very adj|welcome-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*VAN:	are you better feeling better ? 308362_309756
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|good-Cmp-S1 verb|feel-Part-Pres-S adj|good-Cmp-S1 ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*OSE:	+< www . 309303_311178
+*LEA:	yes . 309644_310312
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	well you don't look better &=laugh . 310922_312548
+%mor:	intj|well pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|look-Inf-S adj|good-Cmp-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|XCOMP 7|5|PUNCT
+*LEA:	no you shoulda seen her Friday . 312525_313825
+%mor:	intj|no pron|you-Prs-Nom-S2 aux|shoulda-Fin-Ind-Pres-S2 verb|see-Part-Past-S pron|her-Prs-Acc-S3 noun|Friday .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|OBL-TMOD 7|4|PUNCT
+*OSE:	www . 313215_313999
+*OSE:	www . 313935_315526
+*VAN:	+< oh my god . 314049_314786
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|god .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*LEA:	ay@s thank you . 314497_315526
+%mor:	intj|ay verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%eng:	oh thank you .
+*VAN:	I know they're very nice . 315485_316786
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|very adj|nice-Pos-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|2|CCOMP 7|2|PUNCT
+*LEA:	+< yes they're brown . 315485_316786
+%mor:	intj|yes pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|brown-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*OSE:	www . 316786_317981
+*VAN:	they're super xxx . 317888_318557
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|super .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*VAN:	[- spa] como se están usando los zapatos esos así . 318526_320460
+%mor:	sconj|como pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-P3 verb|usar-Ger-S det|el-Masc-Def-Art noun|zapato-Masc-Plur pron|ese-Dem-P1 adv|así .
+%gra:	1|4|MARK 2|4|EXPL-PASS 3|4|AUX 4|8|ROOT 5|6|DET 6|4|NSUBJ 7|6|APPOS 8|7|ADVMOD 9|4|PUNCT
+%eng:	the way those shoes are being used .
+*LEA:	yeah . 320436_320830
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	gorgeous right ? 320787_322186
+%mor:	adj|gorgeous-Pos-S1 noun|right ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*LEA:	+< I got these at Banana_republic on sale . 321607_323360
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 pron|this-Dem-P1 adp|at noun|Bananarepublic adp|on noun|sale .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|7|CASE 7|2|OBL 8|2|PUNCT
+*VAN:	really ? 323313_323900
+%mor:	adv|really ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	on like a clearance . 323859_324875
+%mor:	adp|on adp|like det|a-Ind-Art noun|clearance .
+%gra:	1|4|CASE 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+*VAN:	+< you know oh my god when I was in Orlando I went to the premium outlets . 324219_326947
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 intj|oh pron|my-Prs-Gen-S1 noun|god adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adp|in noun|Orlando pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1 adp|to det|the-Def-Art noun|premium noun|outlet-Plur .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|12|DISCOURSE 4|5|NMOD-POSS 5|12|DISCOURSE 6|10|ADVMOD 7|10|NSUBJ 8|10|COP 9|10|CASE 10|12|ADVCL 11|12|NSUBJ 12|2|CCOMP 13|16|CASE 14|16|DET 15|16|AMOD 16|12|OBL 17|2|PUNCT
+*LEA:	m:hm . 326936_327528
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	and we went to Banana_republic . 327528_329041
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1 adp|to noun|Bananarepublic .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*VAN:	oh my god the men's shirts were like seven dollars . 329327_332369
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|god det|the-Def-Art noun|man-Plur~part|s noun|shirt-Plur aux|be-Fin-Ind-Past-P3 adp|like num|seven noun|dollar-Plur .
+%gra:	1|11|DISCOURSE 2|3|NMOD-POSS 3|11|DISCOURSE 4|5|DET 5|7|NMOD-POSS 6|5|CASE 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|NUMMOD 11|11|ROOT 12|11|PUNCT
+*VAN:	the [//] las@s camisetas@s de@s mujeres@s diez@s dólares@s . 332375_334558
+%mor:	det|el-Fem-Def-Art noun|camiseta-Fem-Plur adp|de noun|mujer-Fem-Plur num|diez noun|dólar .
+%gra:	1|2|DET 2|6|ROOT 3|4|CASE 4|2|NMOD 5|6|NUMMOD 6|2|APPOS 7|2|PUNCT
+%eng:	the, the women's T-shirts ten dollars .
+*LEA:	+< m:hm . 334330_334748
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	oh my god I was like loving life &=laugh . 334590_336877
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|god pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adp|like verb|love-Ger-S noun|life .
+%gra:	1|7|DISCOURSE 2|3|NMOD-POSS 3|7|DISCOURSE 4|7|NSUBJ-OUTER 5|7|COP 6|7|DISCOURSE 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+*LEA:	+< [- spa] sí . 335635_336215
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	+< yes .
+*LEA:	&=squeal ! 336779_338265
+*VAN:	they were super ni(ce) . 337820_339067
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 adv|super adj|nice-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*VAN:	man that [///] <I had> [//] I had never been to that l@l outlet pero@s qué@s nice . 338987_341807
+%mor:	noun|man pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1 adv|never aux|be-Part-Past-S adp|to det|that-Def-Dem noun|l noun|outlet x|pero x|qué x|nice .
+%gra:	1|12|ROOT 2|10|NSUBJ 3|10|AUX 4|10|ADVMOD 5|10|COP 6|10|CASE 7|10|DET 8|9|COMPOUND 9|10|COMPOUND 10|1|APPOS 11|1|APPOS 12|11|FLAT 13|1|PUNCT
+%eng:	man that [///] <I had> [//] I had never been to that l outlet but how nice .
+*OSE:	www . 341666_345601
+*VAN:	+< really ? 343082_343552
+%mor:	adv|really ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	&~ʧ Coach they had the Coach . 345015_347186
+%mor:	noun|coach pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3 det|the-Def-Art noun|coach .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*OSE:	www . 346086_348211
+*LEA:	did you go to the Coach ? 347412_348289
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|go-Inf-S adp|to det|the-Def-Art noun|coach ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*VAN:	+< oh my god I was dying . 348271_349438
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|god pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|die-Part-Pres-S .
+%gra:	1|6|DISCOURSE 2|3|NMOD-POSS 3|6|DISCOURSE 4|6|NSUBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+*LEA:	+< did you buy anything ? 348820_349558
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|buy-Inf-S pron|anything-Ind-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*VAN:	no but I was dying . 349552_350870
+%mor:	intj|no cconj|but pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|die-Part-Pres-S .
+%gra:	1|5|DISCOURSE 2|5|CC 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*VAN:	pero@s es@s que@s tú@s sabes@s no@s era@s tan@s barato@s como@s you know ? 350748_354457
+%mor:	cconj|pero aux|ser-Fin-Ind-Pres-S3 sconj|que pron|tú-Prs-Nom-S2 verb|saber-Fin-Ind-Pres-S2 adv|no aux|ser-Fin-Ind-Imp-S3 adv|tanto adj|barato-Pos-S1 sconj|como noun|you noun|know ?
+%gra:	1|2|ADVMOD 2|12|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|9|ADVMOD 7|9|COP 8|9|ADVMOD 9|2|CCOMP 10|11|MARK 11|9|OBL 12|11|COMPOUND 13|2|PUNCT
+%eng:	but you know it was not that cheap like you know ?
+*OSE:	www . 350748_354457
+*LEA:	no it's not that cheap because they're still like two hundred a hundred and eighty . 353839_357895
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|that adj|cheap-Pos-S1 sconj|because pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|still intj|like num|two num|hundred det|a-Ind-Art num|hundred cconj|and num|eighty .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|17|ROOT 7|13|MARK 8|13|NSUBJ 9|13|COP 10|13|ADVMOD 11|13|DISCOURSE 12|13|COMPOUND 13|6|ADVCL 14|15|DET 15|13|CONJ 16|17|CC 17|15|CONJ 18|6|PUNCT
+*OSE:	+< www . 355910_357872
+*VAN:	+< exactly . 357069_357812
+%mor:	adv|exactly .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	they're still up there . 357719_358798
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|still adv|up adv|there .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*VAN:	+< but you know that I saw your little coin purse the little one you showed me . 358050_361365
+%mor:	cconj|but pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 sconj|that pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1 pron|your-Prs-Gen-S2 adj|little-Pos-S1 noun|coin noun|purse det|the-Def-Art adj|little-Pos-S1 noun|one pron|you-Prs-Nom-S2 verb|show-Fin-Ind-Past-S2 pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|16|ROOT 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|10|NMOD-POSS 8|10|AMOD 9|10|COMPOUND 10|6|OBJ 11|13|DET 12|13|AMOD 13|6|OBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|15|IOBJ 17|3|PUNCT
+*OSE:	www . 361110_361760
+*VAN:	it was nineteen dollars . 361702_362868
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 num|nineteen noun|dollar-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*OSE:	www . 362845_364122
+*OSE:	www . 364053_365730
+*VAN:	they were so cute yeah . 364053_365730
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 adv|so adj|cute-Pos-S1 intj|yeah .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*LEA:	+< which one ? 365173_365614
+%mor:	det|which-Def-Int num|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*OSE:	www . 365562_367559
+*VAN:	a little coin purse . 366333_367581
+%mor:	det|a-Ind-Art adj|little-Pos-S1 noun|coin noun|purse .
+%gra:	1|4|DET 2|4|AMOD 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*OSE:	www . 367595_369829
+*OSE:	www . 369399_371071
+*VAN:	ah porque@s estaba@s ahí@s guardado@s . 370557_373332
+%mor:	intj|ah sconj|porque aux|estar-Fin-Ind-Imp-S3 adv|ahí adj|guardado-Pos-S1 .
+%gra:	1|5|DEP 2|5|MARK 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%eng:	ah because it was there reserved .
+*OSE:	www . 372130_375486
+*LEA:	[- spa] ay qué cómica . 374202_375293
+%mor:	intj|ay det|qué-Def-Int noun|cómico-Fem .
+%gra:	1|3|DEP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%eng:	oh how funny you are .
+*OSE:	www . 375468_376873
+*VAN:	mira@s they're super cute . 376844_378516
+%mor:	intj|mira pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|super adj|cute-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%eng:	look they're super cute .
+*LEA:	oh ! 377435_378602
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] yo la vi en negra . 378405_379433
+%mor:	pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|ver-Fin-Ind-Past-S1 adp|en noun|negra-Fem .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%eng:	I saw it in black .
+*VAN:	[- spa] en este color no lo tenía . 379352_381140
+%mor:	adp|en det|este-Masc-Def-Dem noun|color-Masc adv|no pron|él-Prs-Acc-S3 verb|tener-Fin-Ind-Imp-S3 .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|ADVMOD 5|6|OBJ 6|6|ROOT 7|6|PUNCT
+%eng:	in this color they did not have .
+*OSE:	www . 379793_381511
+*VAN:	yeah yeah . 381337_382475
+%mor:	intj|yeah intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*OSE:	www . 382250_383887
+*LEA:	where did you buy that one ? 382436_383562
+%mor:	adv|where aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|buy-Inf-S det|that-Def-Dem noun|one ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*OSE:	www . 383633_385902
+*VAN:	+< but you bought that in an outlet too right ? 385630_387248
+%mor:	cconj|but pron|you-Prs-Nom-S2 verb|buy-Fin-Ind-Past-S2 pron|that-Dem-S1 adp|in det|a-Ind-Art noun|outlet adv|too adv|right ?
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|ADVMOD 9|3|ADVMOD 10|3|PUNCT
+*LEA:	+< you know (.) you know that they have an outlet in Sawgrass ? 385749_389034
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 sconj|that pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|outlet adp|in noun|Sawgrass ?
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|9|DET 9|7|OBJ 10|11|CASE 11|9|NMOD 12|2|PUNCT
+*OSE:	+< www . 386829_389029
+*VAN:	which outlet ? 388953_389696
+%mor:	det|which-Def-Int noun|outlet ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*VAN:	here ? 389690_390509
+%mor:	adv|here ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 389997_391042
+*VAN:	oh in Orlando . 390757_391669
+%mor:	intj|oh adp|in noun|Orlando .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*LEA:	but they have +//. 391519_392372
+%mor:	cconj|but pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 +//.
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*OSE:	www . 391589_395228
+@Comment:	another person talks
+*LEA:	they have a Sawgrass outlet . 395308_397009
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|Sawgrass noun|outlet .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*VAN:	[- spa] claro . 395331_395784
+%mor:	adj|claro-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	of course .
+*VAN:	yeah I've got enough I've got enough . 396428_398292
+%mor:	intj|yeah pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S adv|enough pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S adj|enough-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|ADVMOD 6|8|NSUBJ 7|8|AUX 8|5|ADVCL-RELCL 9|8|XCOMP 10|4|PUNCT
+*LEA:	did you know that ? 396783_397973
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*VAN:	they have a what ? 398903_399530
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art pron|what-Rel-S1 ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*VAN:	an outlet ? 399308_400033
+%mor:	det|a-Ind-Art noun|outlet ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*LEA:	an outlet in Sawgrass . 399704_400743
+%mor:	det|a-Ind-Art noun|outlet adp|in noun|Sawgrass .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*VAN:	of the Coach outlet ? 400894_401782
+%mor:	adp|of det|the-Def-Art noun|coach noun|outlet ?
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*VAN:	really ? 401759_402839
+%mor:	adv|really ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 402350_402791
+*VAN:	yo@s hace@s años@s que@s no@s voy@s a@s Sawgrass because it's so far for me now . 402842_405901
+%mor:	pron|yo-Prs-Nom-S1 verb|hacer-Fin-Ind-Pres-S3 noun|año-Masc-Plur sconj|que adv|no verb|ir-Fin-Ind-Pres-S1 adp|a noun|Sawgrass noun|because noun|it~noun|ts noun|so noun|far noun|for noun|yo noun|now .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|2|OBJ 4|6|MARK 5|6|ADVMOD 6|2|CCOMP 7|8|CASE 8|6|OBL 9|8|FLAT 10|8|FLAT 11|8|FLAT 12|8|FLAT 13|8|FLAT 14|8|FLAT 15|8|FLAT 16|8|FLAT 17|2|PUNCT
+%eng:	it has been years since I have gone to Sawgrass because it's so far for me now .
+*LEA:	I've never been there . 405367_406092
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never aux|be-Part-Past-S adv|there .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|COP 5|5|ROOT 6|5|PUNCT
+*LEA:	I've been there once or twice . 406075_407084
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 aux|be-Part-Past-S adv|there adv|once cconj|or adv|twice .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|7|ROOT 5|4|ADVMOD 6|7|CC 7|5|CONJ 8|4|PUNCT
+*OSE:	www . 406510_408223
+*VAN:	I used to work around there . 406975_408281
+%mor:	pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Past-S1 part|to verb|work-Inf-S adp|around adv|there .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+*VAN:	so yo@s iba@s for lunch . 408252_409262
+%mor:	adv|so pron|your-Prs-Gen-S2 noun|iba adp|for noun|lunch .
+%gra:	1|3|ADVMOD 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%eng:	so I used to go for lunch .
+*VAN:	it was like something common . 409308_410295
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|like pron|something-Ind-S1 adj|common-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|5|ROOT 5|4|AMOD 6|4|PUNCT
+*LEA:	+< m:hm . 409744_410255
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	y@s después@s que@s me@s mudé@s forget it that's it . 410400_412489
+%mor:	cconj|y adv|después sconj|que pron|yo-Prs-Acc-S1 verb|moder-Fin-Ind-Past-S1 noun|forget noun|it noun|that~noun|ts noun|it .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|MARK 4|5|EXPL-PV 5|10|ROOT 6|5|OBJ 7|6|FLAT 8|6|COMPOUND 9|6|FLAT 10|6|COMPOUND 11|5|PUNCT
+%eng:	and after I moved forget it that's it .
+*VAN:	it's been more than a year . 412121_413224
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S adj|more-Cmp-S1 adp|than det|a-Ind-Art noun|year .
+%gra:	1|7|NSUBJ 2|7|AUX 3|7|COP 4|7|ADVMOD 5|4|FIXED 6|7|DET 7|7|ROOT 8|7|PUNCT
+*OSE:	www . 413162_414485
+*VAN:	I know I know . 413163_419438
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*OSE:	www . 414491_415252
+*OSE:	www . 419032_421011
+*OSE:	+< www . 421017_421783
+*OSE:	www . 421371_424575
+*LEA:	I have a gazillion Coach purses . 424404_427040
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art adj|gazillion-Pos-S1 noun|coach noun|purse-Plur .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+*LEA:	<I need > [/] <I need> [/] I need to like alternate them . 426953_429129
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 part|to intj|like verb|alternate-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|MARK 4|5|DISCOURSE 5|2|XCOMP 6|5|OBJ 7|2|PUNCT
+*OSE:	www . 427106_429754
+*LEA:	because cuando@s [///] I have a lot of them . 429719_430989
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|lot adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+%eng:	because when [///] I have a lot of them .
+*LEA:	but cuando@s la@s cojo@s con@s una@s that's the one that I wear for like &~i: . 430931_433793
+%mor:	cconj|but x|cuando x|la x|cojo x|con x|una pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|one pron|that-Rel-S1 pron|I-Prs-Nom-S1 verb|wear-Fin-Ind-Pres-S1 adp|for intj|like .
+%gra:	1|10|CC 2|10|NSUBJ 3|2|FLAT 4|2|NMOD 5|2|NMOD 6|2|NMOD 7|10|NSUBJ 8|10|COP 9|10|DET 10|15|ROOT 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|11|CASE 15|10|DISCOURSE 16|10|PUNCT
+%eng:	but when I take one that's the one that I wear for like ih .
+*VAN:	+< [- spa] yo también (.) yo también . 433148_434814
+%mor:	pron|yo-Prs-Nom-S1 adv|también pron|yo-Prs-Nom-S1 adv|también .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|1|APPOS 4|1|ADVMOD 5|1|PUNCT
+%eng:	+< me too (.) me too .
+*OSE:	www . 433148_434814
+*VAN:	pero@s you know what it is for me ? 435532_436948
+%mor:	x|pero pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|CASE 8|6|OBL 9|3|PUNCT
+%eng:	but you know what it is for me ?
+*VAN:	at least I find que@s in my closet they're not organized so that I can actually change them . 436734_441274
+%mor:	adp|at adj|least-Sup-S1 pron|I-Prs-Nom-S1 verb|find-Fin-Ind-Pres-S1 noun|que adp|in pron|my-Prs-Gen-S1 noun|closet pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not verb|organize-Part-Past-S sconj|so sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S adv|actually verb|change-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|ADVMOD 2|1|FIXED 3|4|NSUBJ 4|19|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|12|NSUBJ-PASS 10|12|AUX-PASS 11|12|ADVMOD 12|4|CCOMP 13|18|MARK 14|13|FIXED 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|12|ADVCL 19|18|OBJ 20|4|PUNCT
+%eng:	at least I find that in my closet they're not organized so that I can actually change them .
+*VAN:	you know I have to take down the box change my purse entonces@s ya@s no@s me@s da@s ganas@s de@s cambiarla@s . 441233_445714
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|take-Inf-S adp|down det|the-Def-Art noun|box verb|change-Inf-S pron|my-Prs-Gen-S1 noun|purse x|entonces x|you intj|no pron|I-Prs-Acc-S1 x|da x|ganas x|de x|cambiarla .
+%gra:	1|2|NSUBJ 2|20|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|6|XCOMP 11|12|NMOD-POSS 12|10|OBJ 13|10|OBJ 14|10|OBJ 15|16|DISCOURSE 16|6|PARATAXIS 17|16|FLAT 18|16|FLAT 19|18|CASE 20|16|NMOD 21|2|PUNCT
+%eng:	you know I have to take down the box change my purse then I don't feel like changing it .
+*LEA:	+< I bought &-um un@s little estante@s de@s esos@s de@s like Tupperware that has two drawers . 445322_450790
+%mor:	pron|I-Prs-Nom-S1 verb|buy-Fin-Ind-Past-S1 noun|un adj|little-Pos-S1 x|estante x|de x|esos x|de adp|like noun|Tupperware pron|that-Rel-S1 verb|have-Fin-Ind-Pres-S3 num|two noun|drawer-Plur .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|5|COMPOUND 4|5|AMOD 5|2|OBJ 6|5|FLAT 7|5|FLAT 8|5|NMOD 9|10|CASE 10|5|NMOD 11|12|NSUBJ 12|5|ACL-RELCL 13|14|NUMMOD 14|12|OBJ 15|2|PUNCT
+%eng:	+< I bought um a little bookshelf those like Tupperware that has two drawers .
+*VAN:	[- spa] ajá . 450644_451184
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah
+*LEA:	and then I shoved them there . 450737_452008
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1 verb|shove-Fin-Ind-Past-S1 pron|they-Prs-Acc-P3 adv|there .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*LEA:	but still and I look at the damn thing everyday . 451986_454476
+%mor:	cconj|but adv|still cconj|and pron|I-Prs-Nom-S1 verb|look-Fin-Ind-Pres-S1 adp|at det|the-Def-Art adj|damn-Pos-S1 noun|thing noun|everyday .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|CC 4|2|CONJ 5|10|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|5|OBL-TMOD 11|5|PUNCT
+*VAN:	&=laugh . 454081_455416
+*OSE:	+< www . 454401_455859
+*LEA:	and I'm like +... 454482_455503
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +...
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*LEA:	yes yesterday I was looking for something . 455677_457291
+%mor:	intj|yes noun|yesterday pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|look-Part-Pres-S adp|for pron|something-Ind-S1 .
+%gra:	1|5|DISCOURSE 2|5|OBL-TMOD 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*LEA:	and I said +"/. 457088_457349
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1 +"/.
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*LEA:	+" oh look I'm going to bring this one tomorrow . 457233_458906
+%mor:	intj|oh verb|look-Fin-Imp-S pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|bring-Inf-S det|this-Def-Dem noun|one noun|tomorrow .
+%gra:	1|2|DISCOURSE 2|10|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|7|OBL-TMOD 11|2|PUNCT
+*LEA:	and look I brought the same one . 458876_460194
+%mor:	cconj|and verb|look-Fin-Imp-S pron|I-Prs-Nom-S1 verb|bring-Fin-Ind-Past-S1 det|the-Def-Art adj|same-Pos-S1 noun|one .
+%gra:	1|2|CC 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|DET 6|7|AMOD 7|4|OBJ 8|2|PUNCT
+*VAN:	[- spa] no yo soy igual . 460247_461494
+%mor:	adv|no pron|yo-Prs-Nom-S1 aux|ser-Fin-Ind-Pres-S1 adj|igual-Pos-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%eng:	no, I am the same .
+*VAN:	yo@s cuando@s la@s cojo@s con@s uno@s forget it . 461470_462770
+%mor:	pron|yo-Prs-Nom-S1 sconj|cuando pron|él-Prs-Acc-S3 verb|cojo-Fin-Ind-Pres-S1 adp|con det|uno-Masc-Ind-Art noun|forget noun|it .
+%gra:	1|4|NSUBJ 2|4|MARK 3|4|OBJ 4|8|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|7|COMPOUND 9|4|PUNCT
+%eng:	I, when I choose one forget it .
+*LEA:	+< yeah . 462480_462886
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 463039_464525
+*VAN:	oh I never take off my earrings . 464525_466435
+%mor:	intj|oh pron|I-Prs-Nom-S1 adv|never verb|take-Fin-Ind-Pres-S1 adp|off pron|my-Prs-Gen-S1 noun|earring-Plur .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|4|COMPOUND-PRT 6|7|NMOD-POSS 7|4|OBJ 8|4|PUNCT
+*OSE:	www . 464525_466435
+*LEA:	m:hm . 466345_467059
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	+< right . 466486_466922
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 468827_473210
+*OSE:	www . 473192_474533
+*VAN:	right . 474513_475802
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 475279_477230
+*OSE:	www . 477180_479085
+*OSE:	www . 479213_481366
+*LEA:	yeah . 481086_481539
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	yeah I never take mine off ever ever ever . 481517_484267
+%mor:	intj|yeah pron|I-Prs-Nom-S1 adv|never verb|take-Fin-Ind-Pres-S1 pron|mine-Prs-S1 adv|off adv|ever adv|ever adv|ever .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|9|ADVMOD 8|9|ADVMOD 9|4|ADVMOD 10|4|PUNCT
+*OSE:	www . 481517_484007
+*LEA:	no me neither . 483719_484712
+%mor:	intj|no pron|I-Prs-Acc-S1 det|neither-Def-Art .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*VAN:	never . 484689_485194
+%mor:	adv|never .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	oh yeah speaking of did [/] did you go pick up your bracelet at the place ? 485487_488349
+%mor:	intj|oh intj|yeah verb|speak-Ger-S adp|of aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|go-Inf-S verb|pick-Inf-S adp|up pron|your-Prs-Gen-S2 noun|bracelet adp|at det|the-Def-Art noun|place ?
+%gra:	1|7|DISCOURSE 2|3|DISCOURSE 3|7|ADVCL 4|3|OBL 5|7|AUX 6|7|NSUBJ 7|14|ROOT 8|7|XCOMP 9|8|COMPOUND-PRT 10|11|NMOD-POSS 11|8|OBJ 12|14|CASE 13|14|DET 14|8|OBL 15|7|PUNCT
+*VAN:	+< no they didn't call me yet . 487814_488731
+%mor:	intj|no pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3~part|not verb|call-Inf-S pron|I-Prs-Acc-S1 adv|yet .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*VAN:	I wasn't sure . 488697_489498
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3~part|not adj|sure-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*LEA:	oh . 489440_489869
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	I have to call today . 489782_491228
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|call-Inf-S noun|today .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBL-TMOD 6|2|PUNCT
+*VAN:	he called you ? 491307_492450
+%mor:	pron|he-Prs-Nom-S3 verb|call-Fin-Ind-Past-S3 pron|you-Prs-Acc-S2 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*LEA:	no but I remembered . 492415_493733
+%mor:	intj|no cconj|but pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Past-S1 .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*LEA:	and I was like I wonder if she went ? 493414_494656
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 sconj|like pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 sconj|if pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 ?
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|9|MARK 8|9|NSUBJ 9|6|CCOMP 10|3|PUNCT
+*VAN:	[- spa] no porque como +... 493961_495117
+%mor:	adv|no sconj|porque sconj|como +...
+%gra:	1|3|ROOT 2|1|MARK 3|1|MARK 4|1|PUNCT
+%eng:	no because like +...
+*VAN:	no@s yo@s tengo@s el@s tiquecito@s . 495122_496278
+%mor:	adv|no pron|yo-Prs-Nom-S1 verb|tener-Fin-Ind-Pres-S1 det|el-Masc-Def-Art noun|tiquecito-Masc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%eng:	no I have the little ticket, we're gonna go maybe this afternoon .
+*VAN:	we're gonna go maybe this afternoon . 496260_497357
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|gonna verb|go-Inf-S adv|maybe det|this-Def-Dem noun|afternoon .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|ADVMOD 6|7|DET 7|4|OBL-TMOD 8|4|PUNCT
+*VAN:	you said it was by one fifty second right ? 497697_499281
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|by num|one num|fifty adj|second-Pos-S1 adv|right ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|NUMMOD 7|8|NUMMOD 8|2|CCOMP 9|8|ADVMOD 10|2|PUNCT
+*VAN:	I have the address and everything like that . 499252_500936
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|the-Def-Art noun|address cconj|and pron|everything-Tot-S1 adp|like pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|4|CONJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+*LEA:	+< yeah yeah yeah yeah yeah . 499848_501792
+%mor:	intj|yeah intj|yeah intj|yeah intj|yeah intj|yeah .
+%gra:	1|5|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|DISCOURSE 5|1|DISCOURSE 6|1|PUNCT
+*VAN:	[- spa] sí no yo lo pensé el otro día . 500844_502992
+%mor:	intj|sí adv|no pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|pensar-Fin-Ind-Past-S1 det|el-Masc-Def-Art det|otro-Masc-Def-Ind noun|día-Masc .
+%gra:	1|5|ADVCL 2|5|ADVMOD 3|5|NSUBJ 4|5|OBJ 5|8|ROOT 6|8|DET 7|6|DET 8|5|OBL 9|5|PUNCT
+%eng:	yes, no, I thought about it the other day .
+*VAN:	and I was going to ask you . 502621_503439
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|go-Part-Pres-S part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|4|PUNCT
+*VAN:	and then I forgot . 503451_504194
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Past-S1 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*LEA:	mm . 504606_504925
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	so I thought maybe he was gonna call here you know ? 504861_507202
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1 adv|maybe pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 part|gonna verb|call-Inf-S adv|here pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|11|ROOT 4|8|ADVMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|8|ADVMOD 10|11|NSUBJ 11|3|PARATAXIS 12|3|PUNCT
+*VAN:	pero@s since I wasn't here &=laugh . 506771_509209
+%mor:	x|pero sconj|since pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3~part|not adv|here .
+%gra:	1|6|ROOT 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|1|ADVCL 7|1|PUNCT
+%eng:	but since I wasn't here .
+*LEA:	yeah . 508500_509127
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	so +... 509723_510107
+%mor:	adv|so +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	alright so [/] so anything under Catalina Loango +... 509944_513311
+%mor:	intj|alright adv|so pron|anything-Ind-S1 adp|under noun|Catalina noun|Loango +...
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|6|ROOT 4|5|CASE 5|3|NMOD 6|5|FLAT 7|3|PUNCT
+*LEA:	+< alright so then we need to figure out who's new from there on . 511517_514791
+%mor:	intj|alright adv|so adv|then pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 part|to verb|figure-Inf-S adp|out pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 adj|new-Pos-S1 adp|from adv|there adv|on .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|14|ROOT 6|7|MARK 7|5|XCOMP 8|7|COMPOUND-PRT 9|11|NSUBJ 10|11|COP 11|7|CCOMP 12|13|CASE 13|11|OBL 14|11|ADVMOD 15|5|PUNCT
+*LEA:	and then just put it in here so we have a record . 514640_517612
+%mor:	cconj|and adv|then adv|just verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in adv|here adv|so pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|record .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|ADVMOD 4|12|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|10|ADVMOD 9|10|NSUBJ 10|4|PARATAXIS 11|12|DET 12|10|OBJ 13|4|PUNCT
+*VAN:	m:hm . 517617_518116
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	and then whatever [//] whatever's Ana I [/] I did her initials (.) so [/] so that we know . 517638_522630
+%mor:	cconj|and adv|then pron|whatever-Rel-S1~aux|be-Fin-Ind-Pres-S3 noun|Ana pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 pron|her-Prs-Gen-S3 noun|initial-Plur sconj|so sconj|that pron|we-Prs-Nom-P1 verb|know-Fin-Ind-Pres-P1 .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|NSUBJ-OUTER 4|5|COP 5|3|NSUBJ 6|7|NSUBJ 7|13|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|13|MARK 11|10|FIXED 12|13|NSUBJ 13|7|ADVCL 14|7|PUNCT
+*VAN:	+< ah okay okay . 520692_522051
+%mor:	intj|ah intj|okay intj|okay .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+*VAN:	okay okay . 522376_523125
+%mor:	intj|okay intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*LEA:	you know it's that or whatever . 522625_524222
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 cconj|or pron|whatever-Int-S1 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|CC 7|5|CONJ 8|2|PUNCT
+*VAN:	so esto@s no@s más@s que@s es@s nuevo@s ? 523725_525008
+%mor:	adv|so pron|este-Dem-S1 part|no adv|más sconj|que aux|ser-Fin-Ind-Pres-S3 adj|nuevo-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|7|ROOT 3|7|ADVMOD 4|7|ADVMOD 5|4|FIXED 6|7|COP 7|2|ACL 8|2|PUNCT
+%eng:	so this is the only new one ?
+*LEA:	esto@s es@s only new . 525030_526945
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 noun|only noun|new .
+%gra:	1|2|NSUBJ 2|3|COP 3|4|ROOT 4|3|FIXED 5|3|PUNCT
+%eng:	this is only new .
+*VAN:	+< only new ? 525244_526075
+%mor:	adv|only adj|new-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*LEA:	I don't put (.) homeowner renewals in here . 526911_530516
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|put-Inf-S noun|homeowner noun|renewal-Plur adp|in adv|here .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|COMPOUND 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+*VAN:	okay . 530485_531234
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	I don't . 531193_531698
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*LEA:	If it's an auto renewal and we do it then yes . 531669_534606
+%mor:	sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|auto noun|renewal cconj|and pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 pron|it-Prs-Acc-S3 adv|then intj|yes .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|COMPOUND 6|12|ROOT 7|9|CC 8|9|NSUBJ 9|6|CONJ 10|9|OBJ 11|9|ADVMOD 12|6|DISCOURSE 13|6|PUNCT
+*VAN:	+< m:hm . 533915_534897
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay . 534840_535472
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	but other than that it's just new new stuff or commercial and whatever . 535576_539326
+%mor:	cconj|but adj|other-Pos-S1 adp|than sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just adj|new-Pos-S1 adj|new-Pos-S1 noun|stuff cconj|or adj|commercial-Pos-S1 cconj|and pron|whatever-Int-S1 .
+%gra:	1|10|CC 2|10|ADVMOD 3|4|CASE 4|10|MARK 5|10|NSUBJ 6|10|COP 7|10|ADVMOD 8|10|AMOD 9|10|AMOD 10|14|ROOT 11|12|CC 12|10|CONJ 13|14|CC 14|10|CONJ 15|10|PUNCT
+*VAN:	+< sí@s nada@s más@s okay . 536446_538037
+%mor:	intj|sí noun|nada adv|más noun|okay .
+%gra:	1|4|ROOT 2|1|FIXED 3|1|ADVMOD 4|1|FIXED 5|1|PUNCT
+%eng:	+< yes nothing more okay .
+*VAN:	okay . 538512_538924
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	so esto@s yo@s lo@s +... 538912_540404
+%mor:	x|so pron|este-Dem-S1 pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 +...
+%gra:	1|2|PUNCT 2|4|NSUBJ 3|2|APPOS 4|4|ROOT 5|4|PUNCT
+%eng:	so this I will +...
+*LEA:	+< okay so yes . 539591_540329
+%mor:	intj|okay intj|so intj|yes .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+*VAN:	so I'll figure that out then . 540302_542247
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|will-Fin-S verb|figure-Inf-S pron|that-Dem-S1 adp|out adv|then .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|PUNCT
+*LEA:	so we gotta keep this out yeah . 540337_542351
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|gotta-Fin-S verb|keep-Inf-S pron|this-Dem-S1 adp|out intj|yeah .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|DISCOURSE 8|4|PUNCT
+*VAN:	[- spa] ajá . 542310_542676
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah
+*VAN:	[- spa] y lo pongo esto aquí para hacer eso . 542670_545021
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Pres-S1 pron|este-Dem-S1 adv|aquí adp|para verb|hacer-Inf-S pron|ese-Dem-S1 .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|8|ROOT 4|3|NSUBJ 5|3|ADVMOD 6|7|MARK 7|3|ADVCL 8|7|OBJ 9|3|PUNCT
+%eng:	and I put this here to do that .
+*LEA:	+< then what else ? 543483_546054
+%mor:	adv|then pron|what-Int-S1 adv|else ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*VAN:	so entonces@s these things are new . 544950_546367
+%mor:	adv|so adv|entonces det|this-Def-Dem noun|thing-Plur aux|be-Fin-Ind-Pres-P3 adj|new-Pos-S1 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%eng:	so then these things are new .
+*VAN:	and I just have to make sure to make copies of the things . 546355_548892
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|just verb|have-Fin-Ind-Pres-S1 part|to verb|make-Inf-S adj|sure-Pos-S1 part|to verb|make-Inf-S noun|copy-Plur adp|of det|the-Def-Art noun|thing-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|13|ROOT 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|4|PUNCT
+*VAN:	and then I'll put the [/] the contracts to the side the finance contracts . 549037_553059
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1~aux|will-Fin-S verb|put-Inf-S det|the-Def-Art noun|contract-Plur adp|to det|the-Def-Art noun|side det|the-Def-Art noun|finance noun|contract-Plur .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|13|DET 12|13|COMPOUND 13|5|OBJ 14|5|PUNCT
+*VAN:	and then we'll do that new . 553059_554197
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1~aux|will-Fin-S verb|do-Inf-S pron|that-Dem-S1 adj|new-Pos-S1 .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*LEA:	yes . 554127_554760
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay y@s eso@s ya@s creo@s que@s estaba@s aquí@s yes ? 554882_557109
+%mor:	intj|okay cconj|y pron|ese-Dem-S1 adv|ya verb|creer-Fin-Ind-Pres-S1 sconj|que verb|estar-Fin-Ind-Imp-S3 adv|aquí intj|yes ?
+%gra:	1|5|DEP 2|3|CC 3|5|NSUBJ 4|5|ADVMOD 5|9|ROOT 6|7|MARK 7|5|CCOMP 8|7|ADVMOD 9|7|ADVMOD 10|5|PUNCT
+%eng:	okay and that one I think was already here yes ?
+*LEA:	+< yes . 556622_557132
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] esto xxx . 557056_558398
+%mor:	pron|este-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	this .
+*VAN:	no . 558188_558611
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	+< I don't know . 558588_559151
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*VAN:	there was something here . 558588_559662
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3 pron|something-Ind-S1 adv|here .
+%gra:	1|2|EXPL 2|4|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|2|PUNCT
+*LEA:	+< I have to go pee . 559308_560597
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|go-Inf-S noun|pee .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%com:	speakers talk very low in volumne and laugh .
+*VAN:	[- spa] &~em (.) este xxx yo lo vi por aquí también . 563871_567262
+%mor:	pron|este-Dem-S1 pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|ver-Fin-Ind-Past-S1 adp|por adv|aquí adv|también .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|OBJ 4|7|ROOT 5|6|CASE 6|4|ADVMOD 7|4|ADVMOD 8|4|PUNCT
+%eng:	this [...] I saw it here also .
+*VAN:	[- spa] déjame ver cuál es el &=laugh +... 567242_569448
+%mor:	verb|déjamar-Fin-Ind-Pres-S2 verb|ver-Inf-S pron|cuál-Int-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art +...
+%gra:	1|5|ROOT 2|1|XCOMP 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|1|PUNCT
+%eng:	let me see which is the ...
+*OSE:	www . 569204_570254
+*VAN:	[- spa] un empleado nuevo . 570225_571706
+%mor:	det|uno-Masc-Ind-Art noun|empleado-Masc adj|nuevo-Pos-S1 .
+%gra:	1|2|DET 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+%eng:	a new employee .
+*OSE:	www . 570707_571433
+*VAN:	&=laugh look that's Leah's husband . 571893_574680
+%mor:	verb|look-Fin-Imp-S pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|Leah~part|s noun|husband .
+%gra:	1|6|ROOT 2|6|NSUBJ 3|6|COP 4|6|NMOD-POSS 5|4|CASE 6|1|CCOMP 7|1|PUNCT
+*OSE:	www . 573833_576087
+*OSE:	www . 575994_577213
+*VAN:	how are you ? 577056_578135
+%mor:	adv|how aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*VAN:	[- spa] está ahí coloreando . 579220_581171
+%mor:	aux|estar-Fin-Ind-Pres-S3 adv|ahí verb|colorear-Ger-S .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|CCOMP 4|1|PUNCT
+%eng:	he is here coloring .
+*OSE:	www . 580944_582907
+*OSE:	www . 582757_583942
+*OSE:	www . 583814_584719
+*VAN:	<he's a> [//] he's [/] he [//] él@s encanta@s &~m pintar@s . 586274_588996
+%mor:	pron|él-Prs-AccNom-S3 verb|encantar-Fin-Ind-Pres-S3 verb|pintar-Inf-S .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%eng:	he loves to paint .
+%com:	[m] here is a syllabic 'm'
+*VAN:	he paints really really nice . 588700_589988
+%mor:	pron|he-Prs-Nom-S3 verb|paint-Fin-Ind-Pres-S3 adv|really adv|really adj|nice-Pos-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|ADVMOD 4|5|ADVMOD 5|2|XCOMP 6|2|PUNCT
+*OSE:	www . 589629_590604
+*VAN:	yeah . 589971_590772
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	he's really really nice . 591225_591927
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|really adv|really adj|nice-Pos-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*VAN:	entonces@s dejáme@s ver@s what else I need to do . 593469_598305
+%mor:	x|entonces x|dejáme intj|ver pron|what-Rel-S1 adv|else pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 part|to verb|do-Inf-S .
+%gra:	1|9|ROOT 2|1|VOCATIVE 3|4|DISCOURSE 4|2|PARATAXIS 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|1|PUNCT
+%eng:	then let me see what else I need to do .
+*OSE:	+< www . 598128_600792
+*OSE:	+< www . 600618_603683
+*OSE:	www . 603549_604588
+*OSE:	www . 604586_605871
+*OSE:	www . 605671_609810
+*OSE:	www . 609616_611659
+*OSE:	www . 611322_613226
+*OSE:	www . 612747_616190
+*OSE:	www . 616010_617461
+*VAN:	[- spa] he estado once minutos hablando . 616543_619260
+%mor:	aux|haber-Fin-Ind-Pres-S1 verb|estar-Part-Past-S num|once noun|minuto-Masc-Plur verb|hablar-Ger-S .
+%gra:	1|2|AUX 2|5|ROOT 3|4|NUMMOD 4|2|OBL 5|2|ADVCL 6|2|PUNCT
+%eng:	I have been talking for eleven minutes .
+*OSE:	www . 618883_619644
+*VAN:	[- spa] yo &=laugh . 619614_620938
+%mor:	pron|your-Prs-Acc-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	I .
+*OSE:	www . 620445_621612
+*VAN:	yeah . 621246_621577
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	eleven minutes . 621556_623193
+%mor:	num|eleven noun|minute-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*OSE:	www . 623170_625887
+*VAN:	but yeah this is hers ? 625629_627364
+%mor:	cconj|but intj|yeah pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|hers-Prs-S3 ?
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*OSE:	www . 625629_627364
+*VAN:	yeah . 627248_627695
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	+< www . 627400_632479
+*VAN:	so what did you guys do on the weekend ? 629064_630712
+%mor:	adv|so pron|what-Int-S1 aux|do-Fin-Ind-Past-S3 pron|you-Prs-Nom-S2 noun|guy-Plur verb|do-Inf-S adp|on det|the-Def-Art noun|weekend ?
+%gra:	1|6|ADVMOD 2|6|OBJ 3|6|AUX 4|5|DEP 5|6|NSUBJ 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*VAN:	uhuh . 631782_632804
+%mor:	intj|uhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 632354_633468
+*VAN:	wow . 633451_634171
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 634298_639610
+*VAN:	+< oh I love it . 635400_636770
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*OSE:	www . 639640_642449
+*VAN:	wow . 642071_642460
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	what two sides ? 642350_643981
+%mor:	det|what-Def-Int num|two noun|side-Plur ?
+%gra:	1|3|DET 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*OSE:	www . 643650_645363
+*OSE:	www . 645296_648135
+*VAN:	+< yeah . 647519_648238
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 648187_648895
+*OSE:	www . 651246_652564
+*OSE:	www . 652546_654514
+*VAN:	you know él [/] él [/] él@s tiene@s la@s cosa@s esa@s negra@s ahí@s . 653413_655428
+%mor:	noun|you noun|know pron|él-Prs-AccNom-S3 verb|tener-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|cosa-Fem det|ese-Fem-Def-Dem noun|negra-Fem adv|ahí .
+%gra:	1|4|NSUBJ 2|1|COMPOUND 3|4|NSUBJ 4|9|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|4|OBJ 9|4|ADVMOD 10|4|PUNCT
+%eng:	you know he [/] he [/] he has that black thing there .
+*OSE:	+< www . 654596_655643
+*VAN:	they were &-um pretending to be football players . 655433_658371
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 verb|pretend-Part-Pres-S part|to aux|be-Inf-S noun|football noun|player-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|MARK 5|7|COP 6|7|COMPOUND 7|3|XCOMP 8|3|PUNCT
+*OSE:	www . 655533_656938
+*OSE:	www . 656944_658778
+*OSE:	www . 658637_659764
+*OSE:	www . 659433_660913
+*VAN:	they would pretend to be football players . 659464_660904
+%mor:	pron|they-Prs-Nom-P3 aux|would-Fin-S verb|pretend-Inf-S part|to aux|be-Inf-S noun|football noun|player-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|MARK 5|7|COP 6|7|COMPOUND 7|3|XCOMP 8|3|PUNCT
+*VAN:	but of course they did it with permanent marker . 660917_662978
+%mor:	cconj|but adv|of noun|course pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Past-P3 pron|it-Prs-Acc-S3 adp|with adj|permanent-Pos-S1 noun|marker .
+%gra:	1|5|CC 2|5|ADVMOD 3|2|FIXED 4|5|NSUBJ 5|9|ROOT 6|5|OBJ 7|9|CASE 8|9|AMOD 9|5|OBL 10|5|PUNCT
+*OSE:	+< www . 661511_662347
+*OSE:	www . 663161_664322
+*OSE:	www . 664252_665285
+*OSE:	www . 665274_666475
+*VAN:	that's crazy . 666475_667735
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|crazy-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*VAN:	yo@s traté@s I was like rubbing it pero@s no@s . 667744_670809
+%mor:	pron|your-Prs-Gen-S2 noun|traté pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 sconj|like verb|rub-Ger-S pron|it-Prs-Acc-S3 x|pero intj|no .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ-OUTER 3|6|NSUBJ-OUTER 4|6|COP 5|6|MARK 6|9|ROOT 7|6|OBJ 8|6|ADVMOD 9|6|DISCOURSE 10|6|PUNCT
+%eng:	I tried I was like rubbing it but no .
+*OSE:	www . 668615_670559
+*OSE:	www . 670405_672832
+*OSE:	www . 673082_676007
+*VAN:	so no@s no@s va@s él@s . 675989_677005
+%mor:	adv|so adv|no adv|no verb|ir-Fin-Ind-Pres-S3 pron|él-Prs-AccNom-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+%eng:	so no no he goes .
+*OSE:	www . 676924_678538
+*VAN:	baseball players and football players and +... 677925_679829
+%mor:	noun|baseball noun|player-Plur cconj|and noun|football noun|player-Plur cconj|and +...
+%gra:	1|2|COMPOUND 2|6|ROOT 3|5|CC 4|5|COMPOUND 5|2|CONJ 6|2|CONJ 7|2|PUNCT
+*OSE:	www . 679755_680719
+*VAN:	and there was three of them porque@s era@s él@s el@s hermano@s y@s Selina's son . 680619_684781
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3 num|three adp|of pron|they-Prs-Acc-P3 x|porque x|era x|él x|el x|hermano x|y noun|Selina~part|s noun|son .
+%gra:	1|3|CC 2|3|EXPL 3|15|ROOT 4|3|NSUBJ 5|6|CASE 6|4|NMOD 7|6|FLAT 8|6|FLAT 9|6|FLAT 10|11|FLAT 11|15|NMOD-POSS 12|15|NMOD-POSS 13|15|NMOD-POSS 14|13|CASE 15|3|OBL 16|3|PUNCT
+%eng:	and there was three of them because it was him the brother and Selina's son .
+*OSE:	www . 684674_685783
+*OSE:	www . 685777_686677
+*VAN:	I know that one is super cute . 686436_688032
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 sconj|that num|one aux|be-Fin-Ind-Pres-S3 adv|super adj|cute-Pos-S1 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|7|MARK 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|2|CCOMP 8|2|PUNCT
+*OSE:	www . 686520_688447
+*OSE:	www . 688111_689010
+*OSE:	www . 688999_691640
+*VAN:	yeah . 691216_692290
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 691216_692290
+*OSE:	www . 692273_694049
+*VAN:	yes . 693840_694356
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 693841_696807
+*VAN:	so these are all the new ones . 694321_696080
+%mor:	adv|so pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|all-Def det|the-Def-Art adj|new-Pos-S1 noun|one-Plur .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|7|DET-PREDET 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*VAN:	+< [- spa] ajá exacto . 696145_697555
+%mor:	intj|ajá adj|exacto-Pos-S1 .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%eng:	+< ahhah exactly .
+*VAN:	[- spa] sí yo lo voy a hacer las copias . 697563_698979
+%mor:	intj|sí pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S1 adp|a verb|hacer-Inf-S det|el-Fem-Def-Art noun|copia-Fem-Plur .
+%gra:	1|4|ADVCL 2|4|NSUBJ 3|6|OBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+%eng:	yes I am going to make the copies .
+*VAN:	I'm going to check the [/] the [///] before I send anything out I'm +/. 699160_702027
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|check-Inf-S sconj|before pron|I-Prs-Nom-S1 verb|send-Fin-Ind-Pres-S1 pron|anything-Ind-S1 adp|out pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|5|MARK 5|3|XCOMP 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|8|OBJ 10|8|COMPOUND-PRT 11|12|NSUBJ 12|3|PARATAXIS 13|3|PUNCT
+*OSE:	www . 699843_704341
+*VAN:	+< exactly exactly . 702962_704088
+%mor:	adv|exactly adv|exactly .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*VAN:	[- spa] dale por eso te pregun(to) +/. 704317_705594
+%mor:	verb|daler-Fin-Imp-S2 adp|por pron|ese-Dem-S1 pron|tú-Prs-Acc-S2 verb|preguntar-Fin-Ind-Pres-S1 +/.
+%gra:	1|5|CSUBJ 2|3|CASE 3|1|OBL 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+%eng:	you see that it is why I am asking you +/.
+*OSE:	www . 704330_706936
+*VAN:	okay . 706472_707012
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 706965_708910
+*VAN:	and no that's why I had asked you if Sabrina called because I had left her a message for &-um the pictures . 707647_713330
+%mor:	cconj|and intj|no pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|why pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1 verb|ask-Part-Past-S pron|you-Prs-Acc-S2 sconj|if noun|Sabrina verb|call-Fin-Ind-Past-S3 sconj|because pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1 verb|leave-Part-Past-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|message adp|for det|the-Def-Art noun|picture-Plur .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|22|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ADVCL-RELCL 9|8|IOBJ 10|12|MARK 11|12|NSUBJ 12|8|ADVCL 13|16|MARK 14|16|NSUBJ 15|16|AUX 16|8|ADVCL 17|16|IOBJ 18|19|DET 19|16|OBJ 20|22|CASE 21|22|DET 22|19|NMOD 23|5|PUNCT
+*VAN:	I need the pictures for that Ricardo Hernández guy . 713162_715937
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|the-Def-Art noun|picture-Plur adp|for det|that-Def-Dem noun|Ricardo noun|Hernández noun|guy .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|9|CASE 6|9|DET 7|9|COMPOUND 8|7|FLAT 9|4|NMOD 10|2|PUNCT
+*OSE:	www . 715821_716070
+*VAN:	+< we got the payment on the credit card . 715919_717660
+%mor:	pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1 det|the-Def-Art noun|payment adp|on det|the-Def-Art noun|credit noun|card .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|2|PUNCT
+*VAN:	[- spa] pero &~aiʃ +/. 717777_718920
+%mor:	cconj|pero +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	but +/.
+*OSE:	www . 718535_719312
+*VAN:	yes yeah it's [/] it's mailed out . 719556_721106
+%mor:	intj|yes intj|yeah pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|mail-Part-Past-S adp|out .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*VAN:	and then Citizens sent me that fax thing that they sent . 720816_723678
+%mor:	cconj|and adv|then noun|citizen-Plur verb|send-Fin-Ind-Past-P3 pron|I-Prs-Acc-S1 det|that-Def-Dem noun|fax noun|thing pron|that-Rel-S1 pron|they-Prs-Nom-P3 verb|send-Fin-Ind-Past-P3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|11|ROOT 5|4|IOBJ 6|8|DET 7|8|COMPOUND 8|4|OBJ 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|4|PUNCT
+*VAN:	so they needed the pictures . 723657_724812
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Past-P3 det|the-Def-Art noun|picture-Plur .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*VAN:	and they needed &-um her phone number . 724870_727297
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Past-P3 pron|her-Prs-Gen-S3 noun|phone noun|number .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|NMOD-POSS 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*OSE:	www . 726456_729091
+*VAN:	so I put the phone number on the mismo@s papel@s . 727347_729715
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 det|the-Def-Art noun|phone noun|number adp|on det|the-Def-Art x|mismo x|papel .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|9|FLAT 11|3|PUNCT
+%eng:	so I put the phone number on the same piece of paper .
+*VAN:	[- spa] pero le tengo que mandar la foto . 729558_731584
+%mor:	cconj|pero pron|él-Prs-Dat-S3 verb|tener-Fin-Ind-Pres-S1 sconj|que verb|mandar-Inf-S det|el-Fem-Def-Art noun|foto-Fem .
+%gra:	1|5|ADVMOD 2|5|OBJ 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+%eng:	but I have to send the picture to them .
+*LEA:	+< xxx . 732475_734089
+%com:	It looks as if it is LEA talking to somebody else at the back .
+*VAN:	and that's the message that I left her . 732475_734089
+%mor:	cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|message sconj|that pron|I-Prs-Nom-S1 verb|leave-Fin-Ind-Past-S1 pron|her-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|9|ROOT 6|8|MARK 7|8|NSUBJ 8|5|ACL-RELCL 9|8|OBJ 10|5|PUNCT
+*OSE:	www . 733793_735279
+*VAN:	exactly porque@s eso@s es@s lo@s del@s mensaje@s so she's aware of it . 735279_738733
+%mor:	noun|exactly sconj|porque pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 adp|del noun|mensaje-Masc noun|so noun|she~aux|ser-Fin-Ind-Pres-S3 noun|aware noun|of noun|it .
+%gra:	1|11|DEP 2|5|MARK 3|5|NSUBJ 4|11|COP 5|11|DET 6|5|CASE 7|5|NMOD 8|7|APPOS 9|8|COMPOUND 10|11|COP 11|13|ROOT 12|11|COMPOUND 13|11|COMPOUND 14|11|PUNCT
+%eng:	exactly because that is the message so she's aware of it .
+*VAN:	yeah (.) so +... 740061_741860
+%mor:	intj|yeah intj|so +...
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*OSE:	www . 741945_742891
+*LEA:	did you guys make up already ? 743004_744920
+%mor:	aux|do-Fin-Ind-Past-S3 pron|you-Prs-Nom-S2 noun|guy-Plur verb|make-Inf-S adp|up adv|already ?
+%gra:	1|4|AUX 2|3|DEP 3|4|NSUBJ 4|6|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|PUNCT
+%com:	It sounds as if LEA is talking to somebody else at the back .
+*VAN:	so that's that . 744856_745941
+%mor:	adv|so pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*LEA:	did you guys make up ? 746282_747820
+%mor:	aux|do-Fin-Ind-Past-S3 pron|you-Prs-Nom-S2 noun|guy-Plur verb|make-Inf-S adp|up ?
+%gra:	1|4|AUX 2|3|DEP 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*VAN:	entonces@s esto@s I have to figure out what this is . 748038_751440
+%mor:	x|entonces x|esto pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|figure-Inf-S adp|out pron|what-Rel-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|10|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|PARATAXIS 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|6|OBJ 9|8|NSUBJ 10|8|ACL-RELCL 11|1|PUNCT
+%eng:	then this I have to figure out what this is .
+*VAN:	where it's coming from . 751423_753901
+%mor:	adv|where pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|from .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBL 6|4|PUNCT
+*OSE:	www . 752810_754209
+*VAN:	a sharpener ? 754364_756686
+%mor:	det|a-Ind-Art noun|sharpener ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*VAN:	no idea papi@s . 756628_758312
+%mor:	adv|no noun|idea-Fem noun|papi .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|NMOD 4|2|PUNCT
+%eng:	no idea honey .
+*VAN:	let me see . 761245_763636
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*VAN:	[- spa] no creo papi . 763381_766034
+%mor:	adv|no verb|creer-Fin-Ind-Pres-S1 noun|papi-Masc .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%eng:	I don't think so honey .
+*OSE:	www . 765918_766910
+*OSE:	www . 766701_767456
+*VAN:	I don't think I have a sharpener here . 767056_769888
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|sharpener adv|here .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|4|PUNCT
+*LEA:	[- spa] ya almorzaron ? 768983_770626
+%mor:	adv|ya verb|almorzar-Fin-Ind-Past-P3 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%eng:	did you already eat lunch ?
+*LEA:	[- spa] bueno pero van [/] van a venir <a una> [/] a una hora decente ? 770684_776622
+%mor:	adj|buen-Pos-S1 cconj|pero verb|ir-Fin-Ind-Pres-P3 adp|a verb|venir-Inf-S adp|a det|uno-Fem-Ind-Art noun|hora-Fem adj|decente-Pos-S1 ?
+%gra:	1|9|ROOT 2|3|CC 3|1|CONJ 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|3|OBL 9|8|AMOD 10|1|PUNCT
+%eng:	well but you are coming [/] you are coming <at a> [/] at a decent ?
+*VAN:	let me check but I don't think I do . 772361_774991
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|check-Inf-S cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 .
+%gra:	1|10|ROOT 2|1|OBJ 3|1|XCOMP 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|1|CONJ 9|10|NSUBJ 10|8|CCOMP 11|1|PUNCT
+*OSE:	www . 774143_777534
+*VAN:	you have to go ? 778413_779452
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|go-Inf-S ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*OSE:	www . 779348_780468
+*VAN:	you have to go ? 780688_781750
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|go-Inf-S ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*OSE:	www . 782041_784386
+*LEA:	ah xxx okay . 782440_783984
+%mor:	intj|ah intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	yeah . 783957_786912
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	alright . 784595_786633
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	well . 787325_787894
+%mor:	intj|well .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 787854_789178
+*LEA:	+< twelve fifty . 788655_790002
+%mor:	num|twelve num|fifty .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*OSE:	www . 789985_792530
+%com:	long pause .
+*OSE:	www . 799484_802195
+*VAN:	[- spa] xxx las cuatro . 801521_802896
+%mor:	det|el-Fem-Def-Art num|cuatro .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%eng:	four o'clock .
+*OSE:	www . 805316_807614
+*VAN:	no@s tenemos@s black ? 807556_809565
+%mor:	adv|no verb|tener-Fin-Ind-Pres-P1 noun|black ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%eng:	don't we have black ?
+*OSE:	www . 809378_812530
+*VAN:	ah no@s sé@s . 813512_815027
+%mor:	intj|ah adv|no verb|saber-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%eng:	ah I don't know .
+*OSE:	www . 816970_822908
+*VAN:	no . 825503_826687
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 826687_829613
+*VAN:	no <this is> [/] this is a black one . 829276_830780
+%mor:	intj|no pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|black-Pos-S1 noun|one .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*VAN:	pero@s you have to be careful . 830481_831688
+%mor:	x|pero pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to aux|be-Inf-S adj|careful-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|3|PUNCT
+%eng:	but you have to be careful .
+*VAN:	[- spa] no lo apretes mucho abajo . 831700_833134
+%mor:	adv|no pron|él-Prs-Acc-S3 verb|apretar-Fin-Ind-Pres-P1 adv|mucho adv|abajo .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%eng:	don't squeeze it much at the bottom .
+*LEA:	xxx . 835144_835916
+*LEA:	[- spa] ajá . 838270_839152
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah
+*OSE:	www . 838881_843937
+*LEA:	+< oh okay . 842030_843377
+%mor:	intj|oh intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*OSE:	www . 843771_846279
+*OSE:	www . 846448_848114
+*VAN:	+< yeah . 847393_848037
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 848420_849059
+*LEA:	+< oh okay . 850587_852277
+%mor:	intj|oh intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	okay mamá@s . 851710_854635
+%mor:	intj|okay noun|mamá-Fem .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%eng:	okay mom
+*LEA:	okay okay . 859576_861990
+%mor:	intj|okay intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	you did it ? 864321_865123
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*VAN:	cool . 864914_865628
+%mor:	adj|cool-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 865659_867372
+*VAN:	yeah . 867286_868279
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	[- spa] no no tampoco así pero bueno . 867372_870370
+%mor:	adv|no adv|no adv|tampoco adv|así cconj|pero adj|buen-Pos-S1 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|6|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+%eng:	no no not like that but never mind .
+*LEA:	okay (.) okay that's fine . 870405_872169
+%mor:	intj|okay intj|okay pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|fine-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*LEA:	okay bye bye . 872135_874491
+%mor:	intj|okay intj|bye intj|bye .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*VAN:	alright so what are we doing now ? 877902_881025
+%mor:	intj|alright adv|so pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|do-Part-Pres-S adv|now ?
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+*OSE:	www . 883590_885210
+*LEA:	okay . 885564_886133
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] bueno ya . 886481_887996
+%mor:	adj|buen-Pos-S1 adv|ya .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%eng:	that's it then .
+*LEA:	+< so what else ? 886481_887996
+%mor:	adv|so pron|what-Int-S1 adv|else ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*VAN:	no ya@s . 887558_887988
+%mor:	adv|no adv|ya .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%eng:	no, that's it
+*VAN:	so ya@s . 887970_888574
+%mor:	adv|so intj|ya .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%eng:	so that's it
+*VAN:	I already figured it out . 888551_889276
+%mor:	pron|I-Prs-Nom-S1 adv|already verb|figure-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*VAN:	I'm just gonna go through this . 889224_890234
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just adv|gonna verb|go-Inf-S adp|through pron|this-Dem-S1 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*VAN:	make sure we have everything . 890054_890960
+%mor:	verb|make-Fin-Imp-S adj|sure-Pos-S1 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 pron|everything-Tot-S1 .
+%gra:	1|5|ROOT 2|1|XCOMP 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|1|PUNCT
+*VAN:	make the copies . 890944_891960
+%mor:	verb|make-Fin-Imp-S det|the-Def-Art noun|copy-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*VAN:	separate the [/] the finance agreements . 892239_895257
+%mor:	verb|separate-Fin-Imp-S det|the-Def-Art noun|finance noun|agreement-Plur .
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*LEA:	+< okay . 893704_894255
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	and then you know put them back there . 895230_897703
+%mor:	cconj|and adv|then pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|put-Fin-S pron|they-Prs-Acc-P3 adv|back adv|there .
+%gra:	1|4|CC 2|5|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|4|CCOMP 6|5|OBJ 7|8|ADVMOD 8|5|ADVMOD 9|4|PUNCT
+*VAN:	y@s este@s I'll have to see what the heck . 897255_900018
+%mor:	intj|y intj|este pron|I-Prs-Nom-S1~aux|will-Fin-S verb|have-Inf-S part|to verb|see-Inf-S pron|what-Rel-S1 det|the-Def-Art noun|heck .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|10|DET 10|7|CCOMP 11|5|PUNCT
+%eng:	and this I'll have to see what the heck .
+*LEA:	okay . 899908_900436
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	and then I asked her +//. 900432_901866
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Past-S1 pron|her-Prs-Acc-S3 +//.
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|IOBJ 6|4|PUNCT
+*VAN:	+< m:hm . 901605_902226
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	[- spa] porque abajo de ahí yo me había encontrado todo xxx +//. 902226_904935
+%mor:	sconj|porque adv|abajo adp|de adv|ahí pron|yo-Prs-Nom-S1 pron|yo-Prs-Dat-S1 aux|haber-Fin-Ind-Imp-S3 verb|encontrar-Part-Past-S pron|todo-Tot-S1 +//.
+%gra:	1|8|MARK 2|8|ADVMOD 3|4|CASE 4|2|ADVMOD 5|8|NSUBJ 6|8|OBL-ARG 7|8|AUX 8|9|ROOT 9|8|OBJ 10|8|PUNCT
+%eng:	because under there I had found everything .
+*VAN:	+< m:hm . 904394_905148
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	there's xxx a little more stuff down there . 904858_907737
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-Pos-S1 adj|more-Cmp-S1 noun|stuff adv|down adv|there .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|5|OBL-NPMOD 5|6|AMOD 6|2|NSUBJ 7|8|ADVMOD 8|2|ADVMOD 9|2|PUNCT
+*VAN:	[- spa] &~yə yo esto también estaba aquí . 907495_909225
+%mor:	pron|yo-Prs-Nom-S1 pron|este-Dem-S1 adv|también verb|estar-Fin-Ind-Imp-S3 adv|aquí .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%eng:	that was also here .
+*LEA:	yes . 909243_909777
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] esto . 909637_910253
+%mor:	pron|este-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	this
+*LEA:	+< all this yeah . 910256_911574
+%mor:	det|all-Def det|this-Def-Dem intj|yeah .
+%gra:	1|2|DET-PREDET 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*VAN:	this was all here . 911830_912718
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Past-S3 adv|all adv|here .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*LEA:	+< so it's that new stuff ? 911853_912985
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|new-Pos-S1 noun|stuff ?
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*LEA:	is it old stuff ? 912851_914047
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|old-Pos-S1 noun|stuff ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*LEA:	what is it ? 914047_915051
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*VAN:	+< <this is pretty new stu(ff)> [//] this is pretty new things that I have opened up . 914387_918472
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|pretty adj|new-Pos-S1 noun|thing-Plur pron|that-Rel-S1 pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|open-Part-Past-S adp|up .
+%gra:	1|5|NSUBJ 2|5|COP 3|4|ADVMOD 4|5|AMOD 5|10|ROOT 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|9|COMPOUND-PRT 11|5|PUNCT
+*LEA:	okay . 918437_919122
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	yeah pero@s bueno@s esos@s son@s premiums too . 918845_922061
+%mor:	noun|yeah cconj|pero adj|buen-Pos-S1 pron|ese-Dem-P1 aux|ser-Fin-Ind-Pres-P3 noun|premiums noun|too .
+%gra:	1|6|DEP 2|3|CC 3|1|CONJ 4|6|NSUBJ 5|6|COP 6|7|ROOT 7|6|COMPOUND 8|6|PUNCT
+%eng:	yeah but well those are premiums too .
+*VAN:	mira@s Fra [//] el@s Francisco ese@s que@s <that was> [//] that's the file that's there . 922110_925346
+%mor:	x|mira noun|el noun|Francisco x|ese x|que pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|file pron|that-Rel-S1~aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|9|VOCATIVE 2|1|FLAT 3|1|FLAT 4|5|CASE 5|1|NMOD 6|9|NSUBJ 7|9|COP 8|9|DET 9|12|ROOT 10|12|NSUBJ 11|12|COP 12|9|ACL-RELCL 13|9|PUNCT
+%eng:	look Fra [//] the Francisco that one that <that was> [//] that's the file that's there
+*LEA:	okay . 925335_925846
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	but I have to figure out what it is . 926582_928265
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|figure-Inf-S adp|out pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|5|CCOMP 8|7|NSUBJ 9|7|ACL-RELCL 10|3|PUNCT
+*LEA:	+< (be)cause I wasn't sure . 926582_928265
+%mor:	sconj|because pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3~part|not adj|sure-Pos-S1 .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*LEA:	yeah . 928521_928939
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	and then this thing this &~f nightmare that just doesn't go away . 929099_933623
+%mor:	cconj|and adv|then det|this-Def-Dem noun|thing det|this-Def-Dem noun|nightmare pron|that-Rel-S1 adv|just aux|do-Fin-Ind-Pres-S3~part|not verb|go-Inf-S adv|away .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|12|ROOT 5|6|DET 6|4|NSUBJ 7|11|NSUBJ 8|11|ADVMOD 9|11|AUX 10|11|ADVMOD 11|6|ACL-RELCL 12|11|ADVMOD 13|4|PUNCT
+*VAN:	+< m:hm . 931133_931945
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	oh sí@s el@s de@s Luz . 933588_934999
+%mor:	intj|oh intj|sí det|el-Masc-Def-Art adp|de noun|Luz .
+%gra:	1|5|ROOT 2|1|ADVCL 3|1|DEP 4|3|CASE 5|3|DEP 6|1|PUNCT
+%eng:	oh yes the one relating to Luz .
+*LEA:	yeah here's the thing . 934942_936237
+%mor:	intj|yeah adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|thing .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*VAN:	m:hm . 935935_936829
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	oh wait this is mine . 936251_940373
+%mor:	intj|oh verb|wait-Fin-Imp-S pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|mine-Prs-S1 .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*LEA:	this says x@l . 940810_942174
+%mor:	pron|this-Dem-S1 verb|say-Fin-Ind-Pres-S3 noun|x .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*VAN:	right . 942151_943016
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	okay <it does> [//] it's not giving me a base flood zone . 943272_946151
+%mor:	intj|okay pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|give-Part-Pres-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|base noun|flood noun|zone .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|IOBJ 7|10|DET 8|10|COMPOUND 9|10|COMPOUND 10|5|OBJ 11|5|PUNCT
+*VAN:	+< but it wants it . 943375_944571
+%mor:	cconj|but pron|it-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*VAN:	mm . 946371_946923
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	so I don't know what numbers esta@s [/] esta@s otra@s mujer@s puso@s allá@s adentro@s . 947263_951257
+%mor:	x|so cconj|I noun|don~noun|t noun|know noun|what noun|numbers det|este-Fem-Def-Dem det|otro-Fem-Def-Ind noun|mujer-Fem verb|poner-Fin-Ind-Past-S3 adv|allá adv|adentro .
+%gra:	1|2|PUNCT 2|11|NSUBJ 3|2|FLAT 4|2|FLAT 5|2|FLAT 6|2|FLAT 7|2|FLAT 8|10|DET 9|8|DET 10|11|NSUBJ 11|13|ROOT 12|11|ADVMOD 13|11|ADVMOD 14|11|PUNCT
+%eng:	so I don't know what numbers this [/] this other woman put in there .
+*LEA:	so then . 951239_952132
+%mor:	adv|so adv|then .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*VAN:	+< sí@s porque@s entonces@s how do we know it's gonna be the same amount right ? 951915_954434
+%mor:	x|sí x|porque x|entonces adv|how aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|know-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|gonna aux|be-Inf-S det|the-Def-Art adj|same-Pos-S1 noun|amount adv|right ?
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|COMPOUND-PRT 4|7|ADVMOD 5|7|AUX 6|7|NSUBJ 7|2|PARATAXIS 8|14|NSUBJ 9|14|AUX 10|14|ADVMOD 11|14|COP 12|14|DET 13|14|AMOD 14|7|CCOMP 15|14|ADVMOD 16|2|PUNCT
+%eng:	+< yes because then how do we know it's gonna be the same amount right ?
+*LEA:	+< exactly . 954179_954812
+%mor:	adv|exactly .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	and then also &~e: the lender's requesting flood insurance even though property is in x@l zone . 954598_960275
+%mor:	cconj|and adv|then adv|also det|the-Def-Art noun|lender~part|s verb|request-Ger-S noun|flood noun|insurance adv|even sconj|though noun|property aux|be-Fin-Ind-Pres-S3 adp|in noun|x noun|zone .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|ADVMOD 4|5|DET 5|7|NSUBJ 6|5|CASE 7|16|ROOT 8|9|COMPOUND 9|7|OBJ 10|16|ADVMOD 11|16|MARK 12|16|NSUBJ 13|16|COP 14|16|CASE 15|16|COMPOUND 16|7|ADVCL 17|7|PUNCT
+*VAN:	m:hm . 959612_960309
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	pero@s (.) why if it's in I [/] I don't understand if it's in you know +... 960284_965710
+%mor:	intj|pero adv|why sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|understand-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in pron|you-Prs-Acc-S2 verb|know-Fin-Ind-Pres-S2 +...
+%gra:	1|10|DISCOURSE 2|10|ADVMOD 3|6|MARK 4|6|NSUBJ 5|6|COP 6|10|ADVCL 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|16|ROOT 11|16|MARK 12|16|NSUBJ 13|16|COP 14|16|CASE 15|16|COMPOUND 16|10|CCOMP 17|10|PUNCT
+%eng:	but (.) why if it's in I [/] I don't understand if it's in you know +...
+*VAN:	+< m:hm . 964839_965565
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	right . 966152_966704
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	why ? 966222_966988
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	and then +/. 967615_968265
+%mor:	cconj|and adv|then +/.
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*VAN:	+< like he's doing it like a precaution . 967833_969238
+%mor:	sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S pron|it-Prs-Acc-S3 adp|like det|a-Ind-Art noun|precaution .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*VAN:	pero@s how do we know that ? 969168_970718
+%mor:	intj|pero adv|how aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|know-Inf-S pron|that-Dem-S1 ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%eng:	but how do we know that ?
+*LEA:	exactly . 970527_970951
+%mor:	adv|exactly .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	and then what's the value ? 970857_973423
+%mor:	cconj|and adv|then pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|value ?
+%gra:	1|3|CC 2|3|ADVMOD 3|6|ROOT 4|3|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*VAN:	+< what's the charge on it right ? 971350_972783
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|charge adp|on pron|it-Prs-Acc-S3 adv|right ?
+%gra:	1|7|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|6|CASE 6|4|NMOD 7|1|ADVMOD 8|1|PUNCT
+*VAN:	we need the appraisal no ? 973882_975850
+%mor:	pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 det|the-Def-Art noun|appraisal intj|no ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|DISCOURSE 6|2|PUNCT
+*LEA:	+< what's the xxx amount ? 974346_975350
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|amount ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*LEA:	yeah . 975820_976284
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	+< we don't know . 976161_976706
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*LEA:	+< we don't . 976653_977124
+%mor:	pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*LEA:	I mean +/. 977043_977542
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 +/.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*VAN:	+< [- spa] sí porque supuestamente nosotros teníamos un code@s o algo que fue lo que nosotros le mandamos . 977101_981326
+%mor:	intj|sí sconj|porque adv|supuestamente pron|yo-Prs-AccNom-P1 verb|tener-Fin-Ind-Imp-P1 det|uno-Masc-Ind-Art noun|code-Masc cconj|o pron|algo-Ind-S1 pron|que-Rel-S1 aux|ser-Fin-Ind-Past-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 pron|yo-Prs-AccNom-P1 pron|él-Prs-Dat-S3 verb|mandar-Fin-Ind-Pres-P1 .
+%gra:	1|5|ADVCL 2|5|MARK 3|5|ADVMOD 4|5|NSUBJ 5|16|ROOT 6|7|DET 7|5|OBJ 8|9|CC 9|7|CONJ 10|11|NSUBJ 11|9|ACL 12|16|DET 13|16|OBJ 14|16|NSUBJ 15|16|OBJ 16|11|CCOMP 17|5|PUNCT
+%eng:	+< yes because supposedly we had a code or something which was what what we sent them .
+*VAN:	[- spa] o esto . 981106_981802
+%mor:	cconj|o pron|este-Dem-S1 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%eng:	or this .
+*LEA:	+< exactly . 981216_981924
+%mor:	adv|exactly .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	[- spa] pero adónde está ? 981819_983317
+%mor:	cconj|pero adv|adónde verb|estar-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%eng:	but where is it ?
+*LEA:	because that was from +//. 983498_984322
+%mor:	sconj|because pron|that-Dem-S1 aux|be-Fin-Ind-Past-S3 adp|from +//.
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*LEA:	I don't know if that's still in the computer . 984299_985918
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|still adp|in det|the-Def-Art noun|computer .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|11|MARK 6|11|NSUBJ 7|11|COP 8|11|ADVMOD 9|11|CASE 10|11|DET 11|4|CCOMP 12|4|PUNCT
+*LEA:	I doubt very much . 985889_987004
+%mor:	pron|I-Prs-Nom-S1 verb|doubt-Fin-Ind-Pres-S1 adv|very adv|much .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*VAN:	[- spa] sí yo lo dudo . 986904_988094
+%mor:	intj|sí pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|dor-Fin-Ind-Pres-S1 .
+%gra:	1|4|ADVCL 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+%eng:	yes I doubt it .
+*VAN:	[- spa] y era na(da) más que twenty@s eight@s thousand@s building@s ? 987972_990154
+%mor:	cconj|y aux|ser-Fin-Ind-Imp-S3 pron|nada-Neg-S1 adv|más sconj|que noun|twenty noun|eight noun|thousand noun|building ?
+%gra:	1|3|ADVMOD 2|3|COP 3|9|ROOT 4|3|ADVMOD 5|6|MARK 6|3|OBL 7|6|COMPOUND 8|6|COMPOUND 9|6|COMPOUND 10|3|PUNCT
+%eng:	and it was only a twenty eight thousand building ?
+@Comment:	Please check main tier and translation.
+*LEA:	yeah . 990283_991473
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	if [/] if you do a quote without those numbers and only that building would it come up too at one eighty eight or ? 994208_999095
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 det|a-Ind-Art noun|quote adp|without det|that-Def-Dem noun|number-Plur cconj|and adv|only det|that-Def-Dem noun|building aux|would-Fin-S pron|it-Prs-Nom-S3 verb|come-Inf-S adp|up adv|too adp|at num|one num|eighty num|eight cconj|or ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|15|ADVCL 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|12|CC 10|12|ADVMOD 11|12|DET 12|8|CONJ 13|15|AUX 14|15|NSUBJ 15|22|ROOT 16|15|COMPOUND-PRT 17|15|ADVMOD 18|20|CASE 19|20|COMPOUND 20|15|OBL 21|20|NUMMOD 22|15|CC 23|15|PUNCT
+*LEA:	the only thing that I'm thinking is that she did that preferred que@s the preferred is in an x@l zone . 998887_1005876
+%mor:	det|the-Def-Art adj|only-Pos-S1 noun|thing pron|that-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|think-Part-Pres-S aux|be-Fin-Ind-Pres-S3 sconj|that pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3 pron|that-Dem-S1 verb|prefer-Part-Past-S noun|que det|the-Def-Art verb|prefer-Part-Past-S aux|be-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|x noun|zone .
+%gra:	1|3|DET 2|3|AMOD 3|21|NSUBJ-OUTER 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|21|COP 9|11|MARK 10|11|NSUBJ 11|21|CSUBJ 12|11|OBJ 13|11|XCOMP 14|16|CASE 15|16|DET 16|13|XCOMP 17|21|COP 18|21|CASE 19|21|DET 20|21|COMPOUND 21|21|ROOT 22|21|PUNCT
+*VAN:	+< m:hm . 1003414_1004006
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	[- spa] entonces no te piden elevación . 1006014_1007831
+%mor:	adv|entonces adv|no pron|tú-Prs-Dat-S2 verb|pedir-Fin-Ind-Pres-P3 noun|elevación-Fem .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBL-ARG 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%eng:	then they don't ask you for the elevation .
+*VAN:	oh . 1006159_1006647
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	that's the only thing . 1008145_1009259
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-Pos-S1 noun|thing .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*LEA:	[- spa] pero que +... 1009236_1010014
+%mor:	cconj|pero sconj|que +...
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%eng:	but
+*VAN:	and we can do that or ? 1010072_1011163
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S pron|that-Dem-S1 cconj|or ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|CC 7|4|PUNCT
+*LEA:	+< yeah [/] yeah . 1010904_1011322
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	we can do that ourselves so we don't need that . 1011322_1013000
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S pron|that-Dem-S1 pron|ourselves-Prs-Acc-P1 adv|so pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|need-Inf-S pron|that-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|OBJ 5|3|OBL-NPMOD 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|3|PARATAXIS 11|10|OBJ 12|3|PUNCT
+*LEA:	when [/] when you go in on basic standard it says standard quotes . 1013028_1018007
+%mor:	adv|when pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adv|in adp|on adj|basic-Pos-S1 noun|standard pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 adj|standard-Pos-S1 noun|quote-Plur .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|9|ADVCL 4|3|ADVMOD 5|7|CASE 6|7|AMOD 7|3|OBL 8|9|NSUBJ 9|11|ROOT 10|11|AMOD 11|9|OBJ 12|9|PUNCT
+*LEA:	I think this one it says preferred something or the other . 1018124_1021370
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|this-Def-Dem noun|one pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 verb|prefer-Fin-Ind-Past-S3 pron|something-Ind-S1 cconj|or det|the-Def-Art adj|other-Pos-S1 .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|DET 4|7|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|2|CCOMP 8|7|OBJ 9|11|CC 10|11|DET 11|8|CONJ 12|2|PUNCT
+*VAN:	en@s el@s mismo@s U_S_Security no ? 1021352_1023529
+%mor:	adp|en det|el-Masc-Def-Art det|mismo-Masc-Def-Dem noun|USSecurity adv|no ?
+%gra:	1|4|CASE 2|4|DET 3|2|DET 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%eng:	in the same U_S_Security no ?
+*LEA:	+< yeah . 1022484_1023018
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	yeah yeah . 1023616_1024155
+%mor:	intj|yeah intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	it's down here . 1024476_1025405
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|down adv|here .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*LEA:	yeah because I checked this already xxx to Us_security (.) so [?] . 1025324_1028116
+%mor:	intj|yeah sconj|because pron|I-Prs-Nom-S1 verb|check-Fin-Ind-Past-S1 pron|this-Dem-S1 adv|already adp|to noun|Ussecurity adv|so .
+%gra:	1|4|DISCOURSE 2|4|MARK 3|4|NSUBJ 4|9|ROOT 5|4|OBJ 6|4|ADVMOD 7|8|CASE 8|4|OBL 9|4|ADVMOD 10|4|PUNCT
+*VAN:	+< ah verdad@s verdad@s verdad@s . 1026990_1028111
+%mor:	intj|ah noun|verdad-Fem noun|verdad-Fem noun|verdad-Fem .
+%gra:	1|2|AMOD 2|4|ROOT 3|2|NMOD 4|2|APPOS 5|2|PUNCT
+%eng:	ah true true true .
+*VAN:	you're exactly right . 1028248_1029270
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|exactly adj|right-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*VAN:	xxx three three three . 1029142_1031883
+%mor:	num|three num|three num|three .
+%gra:	1|3|ROOT 2|1|DEP 3|1|DEP 4|1|PUNCT
+*VAN:	xxx . 1037346_1040359
+*VAN:	now xxx ? 1045950_1048580
+%mor:	adv|now ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	okay now go to where it says quote [?] . 1048377_1051882
+%mor:	intj|okay adv|now verb|go-Fin-Imp-S adp|to adv|where pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 noun|quote .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|8|ROOT 4|5|CASE 5|3|OBL 6|7|NSUBJ 7|5|ADVCL-RELCL 8|7|OBJ 9|3|PUNCT
+*LEA:	no okay . 1051884_1053301
+%mor:	adv|no noun|okay .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*LEA:	the PRP application the second one there . 1053425_1056698
+%mor:	det|the-Def-Art noun|PRP noun|application det|the-Def-Art adj|second-Pos-S1 noun|one adv|there .
+%gra:	1|3|DET 2|3|COMPOUND 3|7|ROOT 4|6|DET 5|6|AMOD 6|3|NMOD-NPMOD 7|6|ADVMOD 8|3|PUNCT
+*VAN:	+< PRP oh . 1055821_1058282
+%mor:	noun|PRP intj|oh .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	preferred no xxx ? 1058294_1059565
+%mor:	verb|prefer-Fin-Past-S intj|no ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*LEA:	m:hm . 1059339_1059902
+%mor:	noun|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	preferred something preferred risk . 1059895_1061822
+%mor:	verb|prefer-Fin-Ind-Past-S1 pron|something-Ind-S1 verb|prefer-Fin-Past-S noun|risk .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*LEA:	[- spa] no sé qué más . 1061916_1064843
+%mor:	adv|no verb|saber-Fin-Ind-Pres-S1 pron|qué-Int-S1 adv|más .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|OBJ 4|3|ADVMOD 5|2|PUNCT
+%eng:	I don't know what more .
+%com:	phone rings .
+*VAN:	entonces@s ahí@s does I [///] does xxx answer all of the questions ? 1064691_1066775
+%mor:	x|entonces x|ahí aux|do-Fin-Ind-Pres-S3 aux|do-Fin-Ind-Pres-S3 verb|answer-Inf-S det|all-Def adp|of det|the-Def-Art noun|question-Plur ?
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|9|ROOT 6|5|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|5|PUNCT
+%eng:	so there does I [///] does [...] answer all the questions ?
+*LEA:	+< yeah just put right do that . 1066514_1068180
+%mor:	intj|yeah adv|just verb|put-Fin-Imp-S adv|right verb|do-Fin-Imp-S pron|that-Dem-S1 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|6|ROOT 4|5|ADVMOD 5|3|PARATAXIS 6|5|OBJ 7|3|PUNCT
+*VAN:	okay . 1068110_1068656
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	and then just figure out how to . 1068644_1070142
+%mor:	cconj|and adv|then adv|just verb|figure-Fin-Imp-S adp|out adv|how part|to .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|ADVMOD 4|7|ROOT 5|4|COMPOUND-PRT 6|4|OBJ 7|4|PUNCT 8|4|PUNCT
+%com:	phone rings .
+*LEA:	yeah . 1070194_1070902
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	phone rings .
+*VAN:	insurance (.) hello . 1070750_1074407
+%mor:	noun|insurance noun|hello .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+*VAN:	yes she's right here . 1074276_1075820
+%mor:	intj|yes pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|right adv|here .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*VAN:	hold on one second . 1075773_1076551
+%mor:	verb|hold-Fin-Imp-S adp|on num|one noun|second .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|NUMMOD 4|1|OBJ 5|1|PUNCT
+*VAN:	it's your mom . 1076639_1078044
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|mom .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*VAN:	[- spa] ya si quieres vete si ya yo lo hago sola . 1078120_1080644
+%mor:	adv|ya sconj|si verb|querer-Fin-Ind-Pres-S2 verb|vetir-Fin-Ind-Pres-S3 sconj|si adv|ya pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|hacer-Fin-Ind-Pres-S1 adj|solo-Pos-S1 .
+%gra:	1|4|ADVMOD 2|3|MARK 3|4|ADVCL 4|10|ROOT 5|9|MARK 6|9|ADVMOD 7|9|NSUBJ 8|9|OBJ 9|4|CCOMP 10|9|XCOMP 11|4|PUNCT
+%eng:	now if you want leave yes now I can do it alone .
+*LEA:	no no no I don't mind . 1079169_1080916
+%mor:	intj|no intj|no intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|mind-Inf-S .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|DISCOURSE 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+*VAN:	[- spa] ya después yo lo hago sola o sea ya no ya no más una xxx . 1081235_1084975
+%mor:	adv|ya adv|después pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|hacer-Fin-Ind-Pres-S1 adj|solo-Pos-S1 cconj|o noun|sea adv|ya adv|no adv|ya adv|no adv|más pron|uno-Ind-S1 .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|OBJ 5|14|ROOT 6|5|XCOMP 7|14|CC 8|7|FIXED 9|11|ADVMOD 10|11|ADVMOD 11|14|ADVMOD 12|14|ADVMOD 13|14|ADVMOD 14|5|CONJ 15|5|PUNCT
+%eng:	now later I do it alone I mean now no now no more one [...] .
+*LEA:	[- spa] ajá ? 1084986_1085880
+%mor:	noun|ajá ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah ?
+*VAN:	[- spa] faltan dos minuticos . 1085747_1087980
+%mor:	verb|faltar-Fin-Ind-Pres-P3 num|dos noun|minutico-Masc-Plur .
+%gra:	1|3|ROOT 2|3|NUMMOD 3|1|NSUBJ 4|1|PUNCT
+%eng:	two little minutes remain
+*VAN:	two minutes I'll do it myself &=laugh . 1087550_1089390
+%mor:	num|two noun|minute-Plur pron|I-Prs-Nom-S1~aux|will-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 pron|myself-Prs-Acc-S1 .
+%gra:	1|2|NUMMOD 2|5|OBL-TMOD 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|OBL-NPMOD 8|5|PUNCT
+*VAN:	alright so property address is what ? 1092254_1099127
+%mor:	intj|alright adv|so noun|property noun|address aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 ?
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|4|COMPOUND 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+*LEA:	+< oh you want Ana to go deposit at Ocean Bank first ? 1094762_1098099
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 noun|Ana part|to verb|go-Inf-S noun|deposit adp|at noun|Ocean noun|Bank adv|first ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|XCOMP 8|10|CASE 9|10|COMPOUND 10|7|NMOD 11|6|ADVMOD 12|3|PUNCT
+%com:	talking to another person .
+*LEA:	+< it's &~a: just a little bit down the street . 1099165_1101905
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art adj|little-Pos-S1 noun|bit adp|down det|the-Def-Art noun|street .
+%gra:	1|9|NSUBJ 2|9|COP 3|9|ADVMOD 4|6|DET 5|6|AMOD 6|9|NMOD-NPMOD 7|9|CASE 8|9|DET 9|9|ROOT 10|9|PUNCT
+%com:	talking to another person .
+*LEA:	+< it's [/] it's [/] <it's by> [/] it's by Bank United . 1101841_1105440
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|by noun|Bank noun|United .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%com:	talking to another person .
+*VAN:	on west eleventh street . 1102410_1105376
+%mor:	adp|on adj|west-Pos-S1 adj|eleventh-Pos-S1 noun|street .
+%gra:	1|4|CASE 2|4|AMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*LEA:	okay ? 1105144_1106462
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	talking to another person .
+*VAN:	property city (.) Miami . 1106088_1111126
+%mor:	noun|property noun|city noun|Miami .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*LEA:	+< okay okay let me get it ready for you . 1106088_1109896
+%mor:	intj|okay intj|okay verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|get-Inf-S pron|it-Prs-Acc-S3 adj|ready-Pos-S1 adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|9|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|5|XCOMP 8|9|CASE 9|7|OBL 10|3|PUNCT
+%com:	talking to another person .
+*LEA:	+< okay thanks bye . 1109890_1111242
+%mor:	intj|okay noun|thanks intj|bye .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|VOCATIVE 4|2|PUNCT
+%com:	talking to another person .
+*VAN:	property state (.) shoot . 1113109_1125520
+%mor:	noun|property noun|state noun|shoot .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*OSE:	+< www . 1113109_1125520
+*VAN:	alright let's see xxx [?] . 1128494_1130886
+%mor:	intj|alright verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*OSE:	www . 1133202_1135826
+*VAN:	+< let's try it again . 1133469_1134822
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|try-Inf-S pron|it-Prs-Acc-S3 adv|again .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|ADVMOD 6|1|PUNCT
+*VAN:	xxx address . 1141451_1143070
+%mor:	noun|address .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1143739_1147193
+*VAN:	+< northwest eleventh street . 1145701_1147768
+%mor:	adj|northwest-Pos-S1 adj|eleventh-Pos-S1 noun|street .
+%gra:	1|3|AMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*VAN:	Miami Florida . 1150742_1151804
+%mor:	noun|Miami noun|Florida .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*VAN:	is building located in xxx ? 1161180_1162885
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|building verb|locate-Part-Past-S adp|in ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|4|ROOT 4|3|OBL 5|3|PUNCT
+*VAN:	no . 1162839_1163698
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	do any of the following conditions arise to the xxx ? 1163847_1167847
+%mor:	verb|do-Fin-Imp-S det|any-Def adp|of det|the-Def-Art verb|follow-Ger-S noun|condition-Plur verb|arise-Fin-Ind-Pres-P3 adp|to det|the-Def-Art ?
+%gra:	1|9|ROOT 2|7|NSUBJ 3|6|CASE 4|6|DET 5|6|AMOD 6|2|NMOD 7|1|CCOMP 8|9|CASE 9|7|OBL 10|1|PUNCT
+*OSE:	+< www . 1164007_1168169
+*VAN:	no . 1167704_1168400
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	xxx . 1170054_1173415
+*OSE:	+< www . 1171553_1173852
+%com:	people talking at the back
+*VAN:	last name Villegas . 1176417_1179122
+%mor:	adj|last-Pos-S1 noun|name noun|Villegas .
+%gra:	1|2|AMOD 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+*VAN:	Villegas . 1180385_1182672
+%mor:	noun|Villegas .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	first name is what ? 1184294_1186662
+%mor:	adj|first-Pos-S1 noun|name aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 ?
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*LEA:	+< xxx . 1184796_1186218
+%com:	people talking at the back .
+*VAN:	xxx . 1193476_1196250
+%com:	people talking at the back . Difficult to detect who is speaking .
+*VAN:	xxx number . 1204710_1206091
+%mor:	noun|number .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	people talking at the back . Difficult to detect who is speaking .
+*VAN:	[- spa] el teléfono dónde está ? 1212450_1214435
+%mor:	det|el-Masc-Def-Art noun|teléfono-Masc adv|dónde verb|estar-Fin-Ind-Pres-S3 ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%eng:	where is the telephone ?
+%com:	phone rings .
+*LEA:	[- spa] aló . 1217847_1219275
+%mor:	noun|aló-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	hello
+*VAN:	[- spa] el teléfono . 1219259_1221296
+%mor:	det|el-Masc-Def-Art noun|teléfono-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%eng:	the telephone
+%com:	people talking at the back . Difficult to detect who is speaking .
+*VAN:	xxx . 1226934_1228995
+*VAN:	&=grunt I don't have his number . 1232897_1235643
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S pron|his-Prs-Gen-S3 noun|number .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*LEA:	uhuh xxx . 1235374_1237533
+%mor:	intj|uhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	xxx . 1237854_1240426
+*LEA:	yeah you know what &~a somebody else [?] xxx . 1239660_1243958
+%mor:	intj|yeah pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|somebody-Ind-S1 adj|else-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|4|ACL-RELCL 6|5|AMOD 7|3|PUNCT
+*VAN:	no yeah xxx . 1241978_1243312
+%mor:	intj|no intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*LEA:	xxx . 1244095_1246016
+%com:	still there are back noise from people .
+*VAN:	xxx of property . 1245590_1247708
+%mor:	adp|of noun|property .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*VAN:	m:hm loan number . 1248679_1252330
+%mor:	intj|mhm noun|loan noun|number .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*VAN:	xxx first first bank account number . 1255048_1259561
+%mor:	adj|first-Pos-S1 adj|first-Pos-S1 noun|bank noun|account noun|number .
+%gra:	1|5|AMOD 2|3|AMOD 3|4|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*LEA:	xxx . 1255558_1258193
+*VAN:	first bank account number . 1260778_1265304
+%mor:	adj|first-Pos-S1 noun|bank noun|account noun|number .
+%gra:	1|2|AMOD 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%com:	phone rings, the speaker is reading aloud what she is doing, a lot of noise at the back .
+*VAN:	insurance . 1270699_1272626
+%mor:	noun|insurance .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	the speaker starts a conversation by phone .
+*VAN:	[- spa] buenas tardes . 1273465_1274760
+%mor:	adj|buen-Pos-P1 noun|tarde-Fem-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%eng:	good afternoon .
+*VAN:	[- spa] sí . 1277721_1280879
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	yes
+*VAN:	okay . 1280847_1286635
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] no &~em espérese . 1291061_1293400
+%mor:	adv|no verb|espéresar-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%eng:	no, wait a minute please .
+*VAN:	[- spa] y cuál es el apellido ? 1293172_1293961
+%mor:	cconj|y pron|cuál-Int-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|apellido-Masc ?
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%eng:	and what is the last name ?
+*VAN:	Medina ? 1294061_1294879
+%mor:	noun|Medina ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] y la carta dice dígame otra vez ? 1295740_1300361
+%mor:	cconj|y det|el-Fem-Def-Art noun|carta-Fem verb|decir-Fin-Ind-Pres-S3 verb|dígamir-Fin-Ind-Pres-S3 det|otro-Fem-Def-Ind noun|vez-Fem ?
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|4|XCOMP 6|7|DET 7|5|OBL 8|4|PUNCT
+%eng:	and the letter says, could you tell me again ?
+*VAN:	&~a . 1301413_1302301
+*VAN:	[- spa] &~e usted tenía una cancelación pendiente o algo porque eso quiere decir que ya se está [/] está bien como que ya se reinstaló no [/] no [/] no va a cancelar . 1303647_1313877
+%mor:	pron|tú-Prs-AccNom-S2 verb|tener-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art noun|cancelación-Fem adj|pendiente-Pos-S1 cconj|o pron|algo-Ind-S1 sconj|porque pron|ese-Dem-S1 verb|querer-Fin-Ind-Pres-S3 noun|decir sconj|que adv|ya pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 adv|bien sconj|como sconj|que adv|ya pron|él-Prs-Acc-S3 verb|reinstalar-Fin-Ind-Past-S3 adv|no verb|ir-Fin-Ind-Pres-S3 adp|a verb|cancelar-Inf-S .
+%gra:	1|2|NSUBJ 2|25|ROOT 3|4|DET 4|2|OBJ 5|4|AMOD 6|7|CC 7|4|CONJ 8|10|MARK 9|10|NSUBJ 10|2|ADVCL 11|10|COMPOUND 12|16|MARK 13|16|ADVMOD 14|16|EXPL-PASS 15|16|COP 16|10|CCOMP 17|23|MARK 18|21|MARK 19|21|ADVMOD 20|21|EXPL-PASS 21|23|ADVCL 22|23|ADVMOD 23|16|ADVCL 24|25|MARK 25|23|XCOMP 26|2|PUNCT
+%eng:	you have a pending cancellation or something because that means that it is [/] it's good like it has been reinstated no [/] no [/] it is not going to be cancelled .
+*VAN:	[- spa] sí exacto . 1315467_1317569
+%mor:	intj|sí adj|exacto-Pos-S1 .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%eng:	yes exactly .
+*VAN:	[- spa] sí rescission@s como <que ya está> [///] que esto sabe que [/] que si estaba en cancelación que ya lo [/] lo arreglaron lo que +... 1320675_1326753
+%mor:	intj|sí noun|rescission-Fem sconj|como sconj|que pron|este-Dem-S1 verb|saber-Fin-Ind-Pres-S3 sconj|que sconj|si aux|estar-Fin-Ind-Imp-S3 adp|en noun|cancelación-Fem pron|que-Rel-S1 adv|ya pron|él-Prs-Acc-S3 verb|arreglar-Fin-Ind-Past-P3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 +...
+%gra:	1|2|ADVCL 2|17|ROOT 3|6|MARK 4|6|MARK 5|6|NSUBJ 6|2|ACL 7|11|MARK 8|11|MARK 9|11|COP 10|11|CASE 11|6|CCOMP 12|15|NSUBJ 13|15|ADVMOD 14|15|OBJ 15|11|ACL 16|17|DET 17|15|NSUBJ 18|2|PUNCT
+%eng:	yes rescission like that, you know, if it was in cancellation that they fixed that the ...
+*LEA:	okay la@s dirección@s is for two thousand and four Northwest Franklin Street . 1326686_1334900
+%mor:	intj|okay noun|la x|dirección aux|be-Fin-Ind-Pres-S3 adp|for num|two num|thousand cconj|and num|four noun|Northwest noun|Franklin noun|Street .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|2|GOESWITH 4|7|COP 5|7|CASE 6|7|COMPOUND 7|12|ROOT 8|12|CC 9|12|NUMMOD 10|12|COMPOUND 11|12|COMPOUND 12|7|CONJ 13|7|PUNCT
+%eng:	okay the address is for two thousand and four Northwest Franklin Street .
+%com:	LEA talks to someone on the phone .
+*LEA:	okay xxx . 1334747_1337336
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	LEA talks to someone on the phone .
+*VAN:	+< pero@s dice@s notice of rescission no@s ? 1335472_1339065
+%mor:	cconj|pero verb|decir-Fin-Ind-Pres-S3 noun|notice noun|of noun|rescission adv|no ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|OBJ 4|3|COMPOUND 5|3|COMPOUND 6|2|ADVMOD 7|2|PUNCT
+%eng:	+< but it says notice of rescission no ?
+*VAN:	that &~de deme@s un@s segundito@s . 1338765_1340089
+%mor:	sconj|that noun|deme noun|un x|segundito .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%eng:	that, give me a little second .
+*VAN:	déjeme@s &~migar [//] mirar@s aquí@s un@s momentico@s okay ? 1339869_1342423
+%mor:	verb|déjemir-Fin-Ind-Pres-S1 verb|mirar-Inf-S adv|aquí det|uno-Masc-Ind-Art noun|momentico noun|okay ?
+%gra:	1|6|ROOT 2|1|XCOMP 3|2|ADVMOD 4|5|DET 5|2|OBJ 6|5|COMPOUND 7|1|PUNCT
+%eng:	let me look here a moment okay ?
+*VAN:	[- spa] déjame buscarlo espérese . 1342156_1344769
+%mor:	verb|déjamar-Fin-Ind-Pres-S2 verb|buscar-Inf-S adj|espérese-Pos-S1 .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+%eng:	let me look for it, a moment please .
+*VAN:	okay . 1344830_1349723
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	[- spa] en total que van a sacar son ciento dieciséis cincuenta . 1349533_1354907
+%mor:	adp|en noun|total pron|que-Rel-S1 verb|ir-Fin-Ind-Pres-P3 adp|a verb|sacar-Inf-S aux|ser-Fin-Ind-Pres-P3 num|ciento num|dieciséis num|cincuenta .
+%gra:	1|2|CASE 2|4|AMOD 3|4|NSUBJ 4|8|CSUBJ 5|6|MARK 6|4|XCOMP 7|8|COP 8|10|ROOT 9|10|NUMMOD 10|8|NSUBJ 11|8|PUNCT
+%eng:	in total what they are going to take out is one hundred and sixteen fifty .
+%com:	talking to someone else .
+*VAN:	three zero nine five four seven . 1351882_1354047
+%mor:	num|three num|zero num|nine num|five num|four num|seven .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|6|NUMMOD 5|6|NUMMOD 6|6|ROOT 7|6|PUNCT
+*LEA:	yeah . 1355929_1357508
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	I can't find it . 1364442_1367414
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|find-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*OSE:	www . 1367411_1371208
+*OSE:	www . 1371566_1373168
+*VAN:	xxx . 1371781_1373012
+*VAN:	[- spa] cuál es el número de la póliza en el papel ? 1375866_1380539
+%mor:	pron|cuál-Int-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|número-Masc adp|de det|el-Fem-Def-Art noun|póliza-Fem adp|en det|el-Masc-Def-Art noun|papel-Masc ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|10|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CASE 9|10|DET 10|4|NMOD 11|4|PUNCT
+%eng:	what is the policy number on the paper ?
+*LEA:	[- spa] cero seis (.) tres nueve . 1380536_1384733
+%mor:	noun|cero-Masc num|seis num|tres num|nueve .
+%gra:	1|4|ROOT 2|1|NUMMOD 3|1|APPOS 4|1|APPOS 5|1|PUNCT
+%eng:	zero six (.) three nine .
+*VAN:	+, [- spa] ajá . 1382799_1383554
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah
+*LEA:	xxx okay . 1384679_1387437
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	y@s el@s account number ? 1387431_1389886
+%mor:	cconj|y det|el-Masc-Def-Art noun|account noun|number ?
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%eng:	and the account number ?
+%com:	LEA continues talking to another person .
+*VAN:	okay . 1389080_1390009
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] dame un segundito . 1389775_1391574
+%mor:	verb|damar-Fin-Ind-Pres-S2 det|uno-Masc-Ind-Art noun|segundito-Masc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%eng:	give me a moment
+*LEA:	okay . 1391522_1393345
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	LEA continues talking to another person .
+*LEA:	+< [- spa] muy bien . 1393353_1394798
+%mor:	adv|mucho adv|bien .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%eng:	very good
+%com:	LEA continues talking to another person .
+*LEA:	[- spa] ajá . 1395477_1396197
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	ahhah
+%com:	LEA continues talking to another person .
+*VAN:	xxx . 1405538_1412481
+*VAN:	&~am Ana ? 1414400_1415120
+%mor:	noun|Ana ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1415108_1416078
+*VAN:	what does this mean ? 1416372_1417463
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|this-Dem-S1 verb|mean-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*VAN:	notice of rescission . 1417336_1418543
+%mor:	noun|notice adp|of noun|rescission .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*OSE:	www . 1418283_1423867
+*VAN:	Antonio García . 1421590_1423256
+%mor:	noun|Antonio noun|García .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*VAN:	dice@s que@s no@s recibieron@s el@s down payment . 1426271_1428773
+%mor:	verb|decir-Fin-Ind-Pres-S3 sconj|que adv|no verb|recibir-Fin-Ind-Past-P3 det|el-Masc-Def-Art noun|down noun|payment .
+%gra:	1|7|ROOT 2|4|MARK 3|4|ADVMOD 4|1|CCOMP 5|6|DET 6|4|OBJ 7|6|COMPOUND 8|1|PUNCT
+%eng:	he says they did not receive the down payment .
+*OSE:	www . 1432491_1437576
+*VAN:	cool . 1435944_1436716
+%mor:	adj|cool-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	people talking at the back .
+*LEA:	+< did you get what you were looking for ? 1436159_1437842
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|get-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2 verb|look-Part-Pres-S adp|for ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|3|PUNCT
+*VAN:	[- spa] &~e porque él me está llamando porque recibió esa carta . 1437886_1439877
+%mor:	sconj|porque pron|él-Prs-AccNom-S3 pron|yo-Prs-Dat-S1 aux|estar-Fin-Ind-Pres-S3 verb|llamar-Ger-S sconj|porque verb|recibir-Fin-Ind-Past-S3 det|ese-Fem-Def-Dem noun|carta-Fem .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|OBJ 4|5|AUX 5|9|ROOT 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+%eng:	because he was calling me because he received that letter
+*VAN:	pero@s what is +/. 1439926_1440460
+%mor:	intj|pero pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%eng:	but what is
+*OSE:	www . 1440199_1440918
+*VAN:	yeah . 1440872_1441615
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	what does that mean ? 1441580_1442433
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|that-Dem-S1 verb|mean-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*OSE:	www . 1442362_1444899
+*VAN:	okay . 1444905_1445758
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay I'll get his number . 1445314_1447218
+%mor:	intj|okay pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S pron|his-Prs-Gen-S3 noun|number .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*OSE:	+< www . 1446143_1448691
+*VAN:	okay . 1447734_1448268
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	señor@s Medina ? 1448597_1450112
+%mor:	noun|señor-Masc noun|Medina ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%eng:	Mr . Medina ?
+*VAN:	[- spa] deme su número . 1450269_1451087
+%mor:	verb|demer-Fin-Ind-Pres-S3 det|su-Def-Prs noun|número-Masc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%eng:	give me your number .
+*VAN:	[- spa] déjeme llamar a la compañía a ver de qué se trata exactamente . 1451041_1453914
+%mor:	verb|déjemir-Fin-Ind-Pres-S1 verb|llamar-Inf-S adp|a det|el-Fem-Def-Art noun|compañía-Fem adp|a verb|ver-Inf-S adp|de pron|qué-Int-S1 pron|él-Prs-Acc-S3 verb|tratar-Fin-Ind-Pres-S3 adv|exactamente .
+%gra:	1|12|ROOT 2|1|XCOMP 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|7|MARK 7|2|XCOMP 8|9|CASE 9|11|OBL 10|11|EXPL-IMPERS 11|7|CCOMP 12|11|ADVMOD 13|1|PUNCT
+%eng:	let me call the company to see what exactly it is about .
+*VAN:	[- spa] y yo lo llamo . 1453688_1457403
+%mor:	cconj|y pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|llamar-Fin-Ind-Pres-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+%eng:	and I'll call you .
+*VAN:	oh . 1457211_1462198
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] claro claro sí yo lo veo aquí . 1462024_1464410
+%mor:	adv|claro adj|claro-Pos-S1 intj|sí pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|ver-Fin-Ind-Pres-S1 adv|aquí .
+%gra:	1|2|ADVMOD 2|6|OBJ 3|6|ADVCL 4|6|NSUBJ 5|6|OBJ 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%eng:	of course of course yes I see it here .
+*VAN:	[- spa] no sé por qué le habrá mandado eso . 1463910_1465958
+%mor:	adv|no verb|saber-Fin-Ind-Pres-S1 adp|por pron|qué-Int-S1 pron|él-Prs-Dat-S3 aux|haber-Fin-Ind-Fut-S3 verb|mandar-Part-Past-S pron|ese-Dem-S1 .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|4|CASE 4|7|OBL 5|7|OBJ 6|7|AUX 7|2|CCOMP 8|7|OBJ 9|2|PUNCT
+%eng:	I don't know why they will have sent you that .
+*OSE:	www . 1465962_1466961
+*VAN:	[- spa] &~de deme un número dónde yo le puedo regresar la llamada . 1466006_1468391
+%mor:	verb|demer-Fin-Ind-Pres-S1 det|uno-Masc-Ind-Art noun|número-Masc adv|dónde pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 aux|poder-Fin-Ind-Pres-S1 verb|regresar-Inf-S det|el-Fem-Def-Art adj|llamado-Pos-S1 .
+%gra:	1|10|ROOT 2|3|DET 3|1|OBJ 4|8|ADVMOD 5|8|NSUBJ 6|8|OBJ 7|8|AUX 8|3|ACL 9|10|DET 10|8|OBJ 11|1|PUNCT
+%eng:	and give me a number where I can return the call .
+*VAN:	[- spa] y déjame llamar a la compañía directamente . 1468314_1471973
+%mor:	cconj|y verb|déjamar-Fin-Ind-Pres-S2 verb|llamar-Inf-S adp|a det|el-Fem-Def-Art noun|compañía-Fem adv|directamente .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|2|PUNCT
+%eng:	and let me call the company directly .
+*VAN:	okay . 1471857_1474533
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	tres@s dos@s uno@s m:hm . 1474533_1478034
+%mor:	num|tres num|dos det|uno-Masc-Ind-Art noun|mhm-Masc .
+%gra:	1|4|NUMMOD 2|1|COMPOUND 3|4|DET 4|4|ROOT 5|4|PUNCT
+%eng:	three two one m:hm .
+*VAN:	okay señor@s Medina . 1478143_1480488
+%mor:	intj|okay noun|señor-Masc noun|Medina .
+%gra:	1|2|DEP 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%eng:	okay Mr . Medina .
+*VAN:	m:hm ? 1480471_1482137
+%mor:	noun|mhm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] que tienes que hacer el pago . 1484039_1488236
+%mor:	sconj|que verb|tener-Fin-Ind-Pres-S2 sconj|que verb|hacer-Inf-S det|el-Masc-Def-Art noun|pago-Masc .
+%gra:	1|4|MARK 2|6|ROOT 3|4|CC 4|2|CONJ 5|6|DET 6|4|OBJ 7|2|PUNCT
+%eng:	that you have to do the payment .
+*VAN:	[- spa] no lo has recibido . 1490021_1493109
+%mor:	adv|no pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-S2 verb|recibir-Part-Past-S .
+%gra:	1|4|ADVMOD 2|4|OBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%eng:	you have not received it .
+*VAN:	okay . 1494559_1495134
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] no . 1495123_1495645
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	no
+*VAN:	[- spa] sí . 1495633_1496649
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	yes
+*VAN:	[- spa] déjame averiguar . 1496549_1497320
+%mor:	verb|déjamar-Fin-Ind-Pres-S2 verb|averiguar-Inf-S .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%eng:	let me find out
+*VAN:	y@s si@s es@s usted@s tiene@s acceso@s al@s fax ? 1497454_1501802
+%mor:	cconj|y sconj|si aux|ser-Fin-Ind-Pres-S3 pron|tú-Prs-AccNom-S2 verb|tener-Fin-Ind-Pres-S3 noun|acceso-Masc det|al-Masc-Def-Art noun|fax-Masc ?
+%gra:	1|5|ADVMOD 2|5|MARK 3|5|ADVCL 4|5|NSUBJ 5|8|ROOT 6|5|OBJ 7|8|DET 8|6|NMOD 9|5|PUNCT
+%eng:	and if it is do you have access to fax ?
+*VAN:	okay cualquier@s cosa@s usted@s me@s da@s el@s número@s . 1503689_1505489
+%mor:	intj|okay det|cualquiera-Def-Ind noun|cosa-Fem pron|tú-Prs-AccNom-S2 pron|yo-Prs-Dat-S1 verb|dar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|número-Masc .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|NSUBJ 5|6|OBL-ARG 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%eng:	okay anything else you give me the number .
+*VAN:	[- spa] y yo le mando los cupones directamente . 1505546_1508165
+%mor:	cconj|y pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 verb|mandar-Fin-Ind-Pres-S1 det|el-Masc-Def-Art noun|cupón-Masc-Plur adv|directamente .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%eng:	and I will send you the coupons right away .
+*VAN:	okay ? 1508014_1508379
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] yo [///] deme un ratico . 1508327_1509644
+%mor:	verb|demer-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|ratico-Masc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%eng:	I give me a moment .
+*VAN:	[- spa] y yo le averiguo de qué está pasando . 1509517_1511014
+%mor:	cconj|y pron|yo-Prs-Nom-S1 pron|él-Prs-Dat-S3 verb|averiguar-Fin-Ind-Pres-S1 adp|de pron|qué-Int-S1 aux|estar-Fin-Ind-Pres-S3 verb|pasar-Ger-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBL-ARG 4|8|ROOT 5|6|CASE 6|8|OBL 7|8|AUX 8|4|CCOMP 9|4|PUNCT
+%eng:	and I will find out what it is happening .
+*VAN:	[- spa] yo lo llamo en seguidita . 1511026_1512105
+%mor:	pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|llamar-Fin-Ind-Pres-S1 adp|en noun|seguidita-Fem .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%eng:	I will call you at once .
+*OSE:	www . 1512628_1514068
+*VAN:	[- spa] claro claro que no . 1513984_1515389
+%mor:	adv|claro adj|claro-Pos-S1 sconj|que adv|no .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|MARK 4|2|ADVMOD 5|2|PUNCT
+%eng:	of course of course not
+*OSE:	+< www . 1514016_1515717
+*VAN:	[- spa] no no se preocupe . 1514988_1516643
+%mor:	adv|no adv|no pron|él-Prs-Acc-S3 verb|preocupar-Fin-Sub-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%eng:	no no don't worry .
+*VAN:	[- spa] bueno y gracias . 1516433_1517658
+%mor:	adj|buen-Pos-S1 cconj|y noun|gracias-Fem-Plur .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%eng:	okay and thank you .
+*VAN:	[- spa] hasta luego . 1517670_1518813
+%mor:	adp|hasta adv|luego .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%eng:	goodbye
+*OSE:	www . 1519976_1524503
+*VAN:	[- spa] no llega qué ? 1524861_1527177
+%mor:	adv|no verb|llegar-Fin-Ind-Pres-S3 pron|qué-Int-S1 ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%eng:	what did not arrive ?
+*OSE:	www . 1525924_1528490
+*VAN:	+< oh really ? 1528124_1529111
+%mor:	intj|oh adv|really ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*OSE:	+< www . 1528564_1529835
+*LEA:	xxx . 1529487_1530961
+*VAN:	did you send +//. 1530896_1531605
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|send-Inf-S +//.
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*VAN:	did you finally do the invoice ? 1531587_1532876
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 adv|finally verb|do-Inf-S det|the-Def-Art noun|invoice ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*OSE:	www . 1532853_1534211
+*VAN:	oh . 1534249_1536432
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1534969_1536414
+*VAN:	yeah . 1536407_1537168
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1537005_1538549
+*VAN:	awesome . 1538573_1539310
+%mor:	adj|awesome-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1539289_1542012
+*VAN:	alright so I did that already now I'm doing this . 1541959_1544926
+%mor:	intj|alright adv|so pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 pron|that-Dem-S1 adv|already adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|do-Part-Pres-S pron|this-Dem-S1 .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|11|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|ADVMOD 8|10|NSUBJ 9|10|AUX 10|4|PARATAXIS 11|10|OBJ 12|4|PUNCT
+%com:	people talking at the back .
+*VAN:	flood zone . 1544908_1546626
+%mor:	noun|flood noun|zone .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*VAN:	ex occupancy single family . 1547362_1552980
+%mor:	adj|ex-Pos-S1 noun|occupancy adj|single-Pos-S1 noun|family .
+%gra:	1|4|AMOD 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*OSE:	+< www . 1547362_1552980
+*VAN:	number of floors single floor . 1552985_1555237
+%mor:	noun|number adp|of noun|floor-Plur adj|single-Pos-S1 noun|floor .
+%gra:	1|5|ROOT 2|3|CASE 3|1|NMOD 4|5|AMOD 5|1|NMOD 6|1|PUNCT
+*OSE:	www . 1552985_1555237
+*OSE:	www . 1554894_1556137
+*VAN:	oh thank you papi@s . 1556044_1556885
+%mor:	intj|oh verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 noun|papi .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|IOBJ 4|2|OBJ 5|2|PUNCT
+%eng:	oh thank you honey .
+*VAN:	let me see . 1556886_1557502
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*VAN:	wow ! 1558582_1560468
+%mor:	intj|wow !
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	Spiderman ! 1561461_1563504
+%mor:	noun|Spiderman !
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	ooh Halo that's the Halo one ? 1563336_1566171
+%mor:	intj|ooh noun|Halo pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|Halo num|one ?
+%gra:	1|2|DISCOURSE 2|6|VOCATIVE 3|6|NSUBJ 4|6|COP 5|6|DET 6|7|ROOT 7|6|NUMMOD 8|6|PUNCT
+*OSE:	www . 1565250_1569349
+*VAN:	oh that's right . 1569341_1570786
+%mor:	intj|oh pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*OSE:	www . 1570853_1573477
+*VAN:	+< cool . 1572107_1573158
+%mor:	adj|cool-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	and the flowers . 1573216_1574522
+%mor:	cconj|and det|the-Def-Art noun|flower-Plur .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*VAN:	oh and the turtle ! 1574447_1575596
+%mor:	intj|oh cconj|and det|the-Def-Art noun|turtle !
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|DET 4|4|ROOT 5|4|PUNCT
+*VAN:	&=gasp . 1575596_1576293
+*OSE:	www . 1575631_1576142
+*OSE:	www . 1576327_1578034
+*VAN:	wow . 1578048_1579220
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	those are ants ? 1578965_1580318
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|ant-Plur ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*OSE:	www . 1579998_1583100
+*VAN:	wow . 1582977_1583981
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	right here mama . 1583923_1584899
+%mor:	adv|right adv|here noun|mama .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%com:	people talking at the back .
+*VAN:	wow . 1586066_1587036
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	+< www . 1586084_1586966
+*VAN:	super nice . 1586949_1588801
+%mor:	noun|super noun|nice .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+*VAN:	I'm gonna put it right there . 1588855_1590167
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|put-Inf-S pron|it-Prs-Acc-S3 adv|right adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|ADVMOD 7|4|ADVMOD 8|4|PUNCT
+*OSE:	www . 1590120_1591485
+*VAN:	oh yeah ? 1591432_1592588
+%mor:	intj|oh intj|yeah ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	you should sign it here so everybody know who did it . 1592587_1595130
+%mor:	pron|you-Prs-Nom-S2 aux|should-Fin-S verb|sign-Inf-S pron|it-Prs-Acc-S3 adv|here adv|so pron|everybody-Tot-S1 verb|know-Fin-Ind-Pres-S3 pron|who-Rel-S1 verb|do-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|OBJ 5|3|ADVMOD 6|8|ADVMOD 7|8|NSUBJ 8|3|PARATAXIS 9|10|NSUBJ 10|8|CCOMP 11|10|OBJ 12|3|PUNCT
+%com:	two people talk at the back .
+*VAN:	so you . 1597142_1599261
+%mor:	adv|so pron|you-Prs-Acc-S2 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*VAN:	however you like to sign papi@s . 1599231_1600897
+%mor:	adv|however pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 part|to verb|sign-Inf-S noun|papi .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%eng:	however you like to sign honey .
+*VAN:	how do you like to sign ? 1600845_1602215
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|sign-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*OSE:	www . 1602419_1603429
+*VAN:	Timmy ? 1603058_1604306
+%mor:	noun|Timmy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	people talk at the back .
+*LEA:	just down the street down that way . 1608226_1610630
+%mor:	adv|just adp|down det|the-Def-Art noun|street adp|down det|that-Def-Dem noun|way .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+%com:	LEA talks to someone else . This speaker has been talking to other people from the office . She is not talking the her pair speaker .
+*OSE:	www . 1610060_1614971
+*OSE:	www . 1615052_1616091
+*LEA:	thank you . 1615821_1617168
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*LEA:	sorry . 1616738_1617226
+%mor:	adj|sorry-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1617006_1619374
+*OSE:	www . 1619233_1620418
+@Comment:	the main speakers stay silent while two other speakers talk.
+*OSE:	www . 1624311_1626586
+*VAN:	the building xxx . 1624516_1626495
+%mor:	det|the-Def-Art noun|building .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*OSE:	www . 1628299_1630133
+*VAN:	ah ? 1629912_1630765
+%mor:	intj|ah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1630342_1632711
+*VAN:	today is three thirty one . 1632142_1634957
+%mor:	noun|today aux|be-Fin-Ind-Pres-S3 num|three num|thirty num|one .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|COMPOUND 5|3|CONJ 6|3|PUNCT
+*VAN:	march thirty first three thirty one . 1634944_1637799
+%mor:	noun|march num|thirty adj|first-Pos-S1 num|three num|thirty num|one .
+%gra:	1|6|ROOT 2|3|NUMMOD 3|1|PARATAXIS 4|1|APPOS 5|6|NUMMOD 6|1|APPOS 7|1|PUNCT
+*VAN:	ay@s dios@s mío@s I don't know xxx . 1647090_1652227
+%mor:	intj|ay intj|dios x|mío pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|7|DISCOURSE 2|3|DISCOURSE 3|7|DISCOURSE 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%eng:	oh my god I don't know
+*VAN:	alright . 1658843_1660318
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	&~ha Timothy Ceballos super nice . 1660345_1663956
+%mor:	noun|Timothy noun|Ceballos noun|super noun|nice .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|1|PUNCT
+*VAN:	xxx put it right here . 1663926_1666677
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|right adv|here .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*OSE:	www . 1668234_1669592
+%com:	back ground noise .
+*VAN:	&-um . 1670463_1671235
+*VAN:	[- spa] espérate aquí hay una . 1672546_1674763
+%mor:	intj|espérate adv|aquí verb|haber-Fin-Ind-Pres-S3 pron|uno-Ind-S1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%eng:	wait here is one
+%com:	back ground noise
+*VAN:	&~mue let's see . 1683414_1685394
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*VAN:	insurance . 1686689_1687560
+%mor:	noun|insurance .
+%gra:	1|1|ROOT 2|1|PUNCT
+*LEA:	okay ? 1687389_1688452
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	LEA continues to talking to somebody else, probably at the phone .
+*VAN:	no it's fine [?] . 1689840_1691227
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|fine-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*VAN:	who's calling ? 1691053_1692145
+%mor:	pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|call-Part-Pres-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*LEA:	+< yeah I'd like to see it . 1692162_1693752
+%mor:	intj|yeah pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S part|to verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*LEA:	but you know what you really need to get to me because you're homeowner . 1693727_1697083
+%mor:	cconj|but pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|you-Prs-Nom-S2 adv|really verb|need-Fin-Ind-Pres-S2 part|to verb|get-Inf-S adp|to pron|I-Prs-Acc-S1 sconj|because pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 noun|homeowner .
+%gra:	1|3|CC 2|3|NSUBJ 3|15|ROOT 4|3|OBJ 5|7|NSUBJ 6|7|ADVMOD 7|4|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|11|CASE 11|9|OBL 12|15|MARK 13|15|NSUBJ 14|15|COP 15|9|ADVCL 16|3|PUNCT
+*LEA:	okay . 1698109_1699398
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	+< yeah we're open . 1698658_1699245
+%mor:	intj|yeah pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|open-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%com:	talking to someone else .
+*VAN:	we're here until five o'clock . 1699186_1701247
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|here adp|until num|five noun|oclo~noun|ck .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|CASE 5|7|NUMMOD 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*VAN:	you're welcome . 1701143_1704005
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|welcome-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*LEA:	right . 1703064_1703575
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	talking to someone else .
+*VAN:	alright so I have to throw this out . 1706176_1710082
+%mor:	intj|alright adv|so pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|throw-Inf-S pron|this-Dem-S1 adp|out .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|6|COMPOUND-PRT 9|4|PUNCT
+*LEA:	okay . 1712298_1712948
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	alright [?] let me get you another paper . 1712484_1715284
+%mor:	intj|alright verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|get-Inf-S pron|you-Prs-Acc-S2 det|another-Def noun|paper .
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|2|OBJ 4|2|XCOMP 5|4|IOBJ 6|7|DET 7|4|OBJ 8|2|PUNCT
+@Comment:	background noise and long pause.
+*VAN:	yes take this one for now . 1739395_1742327
+%mor:	intj|yes verb|take-Fin-Imp-S det|this-Def-Dem noun|one adp|for adv|now .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+*LEA:	the insurance ? 1740881_1743116
+%mor:	det|the-Def-Art noun|insurance ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*LEA:	ahhah . 1743484_1744674
+%mor:	noun|ahhah-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*OSE:	www . 1746138_1748851
+*VAN:	&=laugh yeah . 1748778_1749811
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	[- spa] xxx madre . 1749846_1752296
+%mor:	noun|madre-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%eng:	mother
+*VAN:	insurance . 1752307_1753840
+%mor:	noun|insurance .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	yeah . 1754317_1755321
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	I'm [///] yeah I'm insurance . 1759454_1762124
+%mor:	intj|yeah pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 noun|insurance .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*VAN:	ah okay sí@s yeah . 1762635_1765311
+%mor:	intj|ah noun|okay noun|sí noun|yeah .
+%gra:	1|4|ROOT 2|1|DEP 3|1|DEP 4|1|COMPOUND 5|1|PUNCT
+%eng:	ah okay yes yeah .
+*VAN:	sí@s porque@s yo@s no@s veía@s nada@s aquí@s pero@s it doesn't [//] it said that we never got the deposit . 1764841_1769194
+%mor:	x|sí x|porque x|yo x|no x|veía x|nada x|aquítckamastagrelopment x|pero x|it pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 sconj|that pron|we-Prs-Nom-P1 adv|never verb|get-Fin-Ind-Past-P1 det|the-Def-Art noun|deposit .
+%gra:	1|17|ROOT 2|1|FLAT 3|5|COMPOUND 4|5|COMPOUND 5|1|NMOD 6|5|COMPOUND 7|5|NMOD 8|9|CASE 9|11|MARK 10|11|NSUBJ 11|1|PARATAXIS 12|15|MARK 13|15|NSUBJ 14|15|ADVMOD 15|11|CCOMP 16|17|DET 17|15|OBJ 18|1|PUNCT
+%eng:	yes because I did not see anything here but it doesn't it said that we never got the deposit .
+*VAN:	that's what it said on mine like [//] well like they never got the deposit or down payment . 1769208_1773052
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 adp|on pron|mine-Prs-S1 adv|well sconj|like pron|they-Prs-Nom-P3 adv|never verb|get-Fin-Ind-Past-P3 det|the-Def-Art noun|deposit cconj|or adp|down noun|payment .
+%gra:	1|3|NSUBJ 2|3|COP 3|17|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|OBL 8|5|ADVMOD 9|12|MARK 10|12|NSUBJ 11|12|ADVMOD 12|5|ADVCL 13|14|DET 14|12|OBJ 15|17|CC 16|17|CASE 17|14|CONJ 18|3|PUNCT
+*VAN:	and he's like +"/. 1772955_1773344
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*VAN:	+" [- spa] cómo que +//. 1773350_1773901
+%mor:	pron|cómo-Ind-S1 sconj|que +//.
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+%eng:	like what
+*VAN:	o@s sea@s yo@s no@s le@s dije@s eso@s pero@s he's like +"/. 1773856_1775115
+%mor:	cconj|o noun|sea pron|yo-Prs-Nom-S1 adv|no pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Past-S1 pron|ese-Dem-S1 cconj|pero aux|haber-Fin-Ind-Pres-S1~aux|ser-Fin-Ind-Pres-S3 noun|like +"/.
+%gra:	1|6|ADVMOD 2|1|FIXED 3|6|NSUBJ 4|6|ADVMOD 5|6|OBJ 6|11|ROOT 7|6|OBJ 8|11|CC 9|11|AUX 10|11|COP 11|6|CONJ 12|6|PUNCT
+%eng:	I mean I did not tell him that but he's like
+*VAN:	+" [- spa] no pero cómo no va a tener seguro . 1775186_1776155
+%mor:	adv|no cconj|pero pron|cómo-Ind-S1 adv|no verb|ir-Fin-Ind-Pres-S3 adp|a verb|tener-Inf-S noun|seguro-Masc .
+%gra:	1|8|ROOT 2|5|CC 3|5|OBL 4|5|ADVMOD 5|1|CONJ 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|1|PUNCT
+%eng:	no but as he is not going to have insurance .
+*VAN:	+" [- spa] si yo di como setecientos y pico dólares ? 1776145_1778287
+%mor:	sconj|si pron|yo-Prs-Nom-S1 verb|dar-Fin-Ind-Past-S1 sconj|como noun|seteciento-Masc-Plur cconj|y noun|pico-Masc noun|dólar-Masc-Plur ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|OBJ 6|7|CC 7|5|CONJ 8|5|CONJ 9|3|PUNCT
+%eng:	yes I gave like seven hundred odd dollars ?
+*VAN:	ah cómo@s no@s [?] . 1778015_1778688
+%mor:	intj|ah pron|cómo-Ind-S1 adv|no .
+%gra:	1|2|DEP 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%eng:	ah fine
+*VAN:	[- spa] no se preocupe . 1778659_1779298
+%mor:	adv|no pron|él-Prs-Acc-S3 verb|preocupar-Fin-Sub-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%eng:	don't worry .
+%com:	background noise .
+*VAN:	yo@s voy@s a@s averiguar@s whatever . 1779091_1780838
+%mor:	pron|your-Prs-Gen-S2 intj|voy det|a-Ind-Art noun|averiguar pron|whatever-Rel-S1 .
+%gra:	1|5|DEP 2|5|DISCOURSE 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%eng:	I am going to find out whatever .
+*VAN:	okay okay mom . 1786916_1788222
+%mor:	intj|okay intj|okay noun|mom .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+*VAN:	I'll put it here . 1788210_1788971
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|put-Inf-S pron|it-Prs-Acc-S3 adv|here .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*VAN:	alright [=! laugh] . 1788895_1789528
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*VAN:	okay okay . 1789533_1791228
+%mor:	intj|okay intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*VAN:	bueno@s bye . 1791310_1792877
+%mor:	adj|buen-Pos-S1 intj|bye .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%eng:	well bye .
+@End

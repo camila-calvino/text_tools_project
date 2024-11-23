@@ -1,0 +1,140 @@
+@UTF8
+@PID:	11312/a-00076885-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@Options:	multi
+@ID:	eng|Miami|PAR0|||||Participant|||
+@ID:	eng|Miami|PAR1|||||Participant|||
+@Media:	herring12, audio
+@Comment:	Batchalign 0.7.2, ASR Engine rev
+*PAR0:	wake up to class [/] class . 69425_75875
+%mor:	verb|wake-Fin-Imp-S adp|up adp|to noun|class .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|CASE 4|1|OBL 5|1|PUNCT
+*PAR0:	I thought you were being serious . 186605_187605
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2 aux|be-Ger-S adj|serious-Pos-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|AUX 5|6|COP 6|2|CCOMP 7|2|PUNCT
+*PAR0:	I'm like . 189465_189765
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR0:	yo . 189985_190205
+%mor:	pron|your-Prs-Acc-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	no . 216265_216485
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	I . 216605_216725
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	like honestly [/] honestly it's my last day . 244275_261545
+%mor:	intj|like adv|honestly pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 adj|last-Pos-S1 noun|day .
+%gra:	1|7|DISCOURSE 2|7|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|NMOD-POSS 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*PAR1:	huh . 313305_313525
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	Johnson Wales Miami Beach it is what it is . 325035_339085
+%mor:	noun|Johnson noun|Wales noun|Miami noun|Beach pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|7|VOCATIVE 2|1|FLAT 3|4|COMPOUND 4|1|APPOS 5|7|NSUBJ 6|7|COP 7|9|ROOT 8|9|NSUBJ 9|7|ACL-RELCL 10|7|PUNCT
+*PAR0:	yeah . 343305_343595
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	three more weeks . 343595_344315
+%mor:	num|three adj|more-Cmp-S1 noun|week-Plur .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*PAR0:	yeah . 344665_344955
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	I don't want to go by myself . 402365_403365
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S part|to verb|go-Inf-S adp|by pron|myself-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*PAR0:	like he never calls me . 406315_407365
+%mor:	sconj|like pron|he-Prs-Nom-S3 adv|never verb|call-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR0:	what are you doing . 418675_419285
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*PAR0:	must have a what do I [/] I had to come back . 530865_648775
+%mor:	aux|must-Fin-S verb|have-Inf-S det|a-Ind-Art pron|what-Rel-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|have-Part-Past-S part|to verb|come-Inf-S adv|back .
+%gra:	1|2|AUX 2|10|ROOT 3|4|DET 4|2|OBJ 5|7|AUX 6|7|NSUBJ 7|2|CCOMP 8|9|MARK 9|7|XCOMP 10|9|ADVMOD 11|2|PUNCT
+*PAR0:	I had to come back . 648855_649535
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|come-Inf-S adv|back .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|ADVMOD 6|2|PUNCT
+*PAR0:	the fair . 709995_710455
+%mor:	det|the-Def-Art adj|fair-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*PAR0:	I don't write those things . 780765_781685
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|write-Inf-S det|that-Def-Dem noun|thing-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR0:	pregnant . 834965_835165
+%mor:	adj|pregnant-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	mhm . 873905_874325
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	uhhuh . 917655_918005
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	mhm . 927385_927805
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	mhm . 931185_931605
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	mhm [/] mhm Washington Dc . 950545_1169485
+%mor:	intj|mhm noun|Washington noun|Dc .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*PAR1:	mhm . 1169825_1170245
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	fr . 1204465_1204685
+%mor:	noun|fr .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	and I said . 1233625_1234045
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR0:	no . 1234045_1234165
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	Justin . 1247385_1247805
+%mor:	noun|Justin .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	thank you . 1260015_1260445
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR0:	like . 1509835_1510125
+%mor:	intj|like .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	I'm talking to you . 1510185_1510885
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|talk-Part-Pres-S adp|to pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR0:	we're talking to [/] to both of them . 1511655_1512925
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|talk-Part-Pres-S adp|to det|both-Def adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|CASE 5|3|OBL 6|7|CASE 7|5|NMOD 8|3|PUNCT
+*PAR0:	Orleans mhm . 1555495_1556785
+%mor:	noun|Orleans intj|mhm .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*PAR0:	mhm . 1576125_1576545
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	mhm . 1793265_1793685
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	like absolutely everything lives . 1830475_1835885
+%mor:	intj|like adv|absolutely pron|everything-Tot-S1 verb|live-Fin-Ind-Pres-S3 .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*PAR0:	it's for a reason . 1895915_1896685
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|for det|a-Ind-Art noun|reason .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR0:	no [/] no [/] no . 1918145_1918965
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	I understand . 1919365_1919925
+%mor:	pron|I-Prs-Nom-S1 verb|understand-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*PAR0:	and I understand that he didn't trust me anymore . 1931305_1952205
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|understand-Fin-Ind-Pres-S1 sconj|that pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3~part|not verb|trust-Inf-S pron|I-Prs-Acc-S1 adv|anymore .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|8|MARK 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|8|IOBJ 10|8|ADVMOD 11|3|PUNCT
+*PAR0:	I really like him . 1975565_1976405
+%mor:	pron|I-Prs-Nom-S1 adv|really verb|like-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+@End
