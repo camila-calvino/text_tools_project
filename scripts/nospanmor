@@ -1,0 +1,1058 @@
+%mor:	intj|well pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 verb|tell-Part-Pres-S pron|I-Prs-Acc-S1 adp|about det|this-Def-Dem noun|thing adp|with noun|Oprah .
+%mor:	sconj|that pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|new-Pos-S1 noun|age noun|thing .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|book .
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|video noun|blog .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|promote-Part-Pres-S pron|her-Prs-Gen-S3 noun|book adp|after pron|her-Prs-Gen-S3 noun|show .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|weird-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|go-Inf-S adv|online part|to verb|see-Inf-S pron|what-Rel-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|all adv|about .
+%mor:	det|a-Ind-Art adj|new-Pos-S1 noun|age noun|thing ?
+%mor:	intj|yeah intj|like pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 adj|own-Pos-S1 noun|god .
+%mor:	adp|like pron|this-Dem-S1 +...
+%mor:	cconj|and noun|stuff adp|like pron|that-Dem-S1 .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|hear-Part-Past-S adp|of det|that-Def-Dem noun|thing-Plur .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|into pron|that-Dem-S1 adv|now ?
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|new-Pos-S1 noun|show adp|about .
+%mor:	pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 adp|like num|ten noun|person-Plur .
+%mor:	noun|mhm .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 part|to +//.
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|about adv|basically pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|they-Prs-Acc-P3 noun|money .
+%mor:	cconj|or pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Pres-P3 noun|million-Plur adp|of noun|dollar-Plur cconj|or pron|something-Ind-S1 part|to verb|donate-Inf-S .
+%mor:	noun|mhm .
+%mor:	adp|to det|a-Ind-Art noun|charity adp|of pron|their-Prs-Gen-P3 noun|choice .
+%mor:	cconj|but pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|whole-Pos-S1 noun|show .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|just verb|try-Part-Pres-S part|to verb|show-Inf-S cconj|and verb|promote-Inf-S sconj|that pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|try-Part-Pres-S part|to verb|donate-Inf-S adv|so adj|much-Pos-S1 noun|million-Plur adp|of noun|dollar-Plur adv|right .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|promote-Inf-S pron|it-Prs-Acc-S3 cconj|and verb|make-Inf-S det|a-Ind-Art noun|thing adp|out adp|of pron|it-Prs-Acc-S3 .
+%mor:	intj|yeah .
+%mor:	cconj|and adv|then det|the-Def-Art noun|person-Plur pron|who-Rel-S1 aux|be-Fin-Ind-Pres-P3 adj|able-Pos-S1 part|to verb|raise-Inf-S det|the-Def-Art noun|thing det|the-Def-Art adj|most-Sup-S1 noun|fund-Plur cconj|and verb|donate-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	pron|she-Prs-Nom-S3 verb|give-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 adp|like num|ten num|million noun|dollar-Plur cconj|or pron|something-Ind-S1 .
+%mor:	intj|oh .
+%mor:	adv|no .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 sconj|like pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|interested-Pos-S1 adp|in sconj|that pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|to pron|her-Prs-Gen-S3 noun|head sconj|that pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +...
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 adj|great-Pos-S1 .
+%mor:	adv|very adj|influential-Pos-S1 cconj|or pron|something-Ind-S1 .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like noun|Bono pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	intj|yeah .
+%mor:	cconj|pero .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never verb|watch-Part-Past-S noun|Oprah .
+%mor:	pron|whatever-Int-S1 .
+%mor:	cconj|and det|the-Def-Art noun|drama verb|continue-Fin-Ind-Pres-S3 +/.
+%mor:	cconj|y noun|Fernando ?
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|leave-Part-Pres-S adp|on noun|Friday .
+%mor:	intj|okay .
+%mor:	intj|please aux|do-Fin-Imp-S~part|not verb|leave-Fin-Imp-S .
+%mor:	det|the-Def-Art noun|chair .
+%mor:	pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1~part|not verb|see-Part-Past-S det|any-Def adp|of det|the-Def-Art noun|picture-Plur intj|yes !
+%mor:	intj|well adv|maybe pron|they-Prs-Nom-P3 aux|can-Fin-S verb|email-Inf-S pron|it-Prs-Acc-S3 adp|to pron|you-Prs-Acc-S2 adv|right ?
+%mor:	intj|yeah .
+%mor:	pron|you-Prs-Nom-S2 verb|check-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|email adp|in noun|Nicaragua ?
+%mor:	intj|yeah verb|email-Fin-Imp-S pron|it-Prs-Acc-S3 adp|to pron|I-Prs-Acc-S1 .
+%mor:	intj|okay pron|I-Prs-Nom-S1~aux|will-Fin-S verb|email-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	adj|sorry-Pos-S1 pron|I-Prs-Nom-S1 verb|keep-Fin-Ind-Pres-S1 adv|right +//.
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 noun|today .
+%mor:	sconj|because pron|I-Prs-Nom-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 part|to verb|put-Inf-S pron|my-Prs-Gen-S1 noun|shoe-Plur adv|off .
+%mor:	verb|say-Fin-Ind-Past-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|my-Prs-Gen-S1 noun|grandmother~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|get-Inf-S pron|it-Prs-Acc-S3 adv|right .
+%mor:	pron|I-Prs-Nom-S1 verb|show-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adp|to pron|her-Prs-Acc-S3 .
+%mor:	verb|say-Fin-Imp-S intj|oh pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 adp|to det|the-Def-Art adj|plastic-Pos-S1 noun|surgery .
+%mor:	pron|él-Prs-Acc-S3 verb|jalar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|cara-Fem adp|de adj|nuevo-Pos-S1 .
+%mor:	intj|ah pron|my-Prs-Gen-S1 noun|lord !
+%mor:	pron|your-Prs-Gen-S2 noun|grandmother !
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 adv|when pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 det|the-Def-Art adj|first-Pos-S1 noun|time .
+%mor:	pron|your-Prs-Gen-S2 noun|grandmother aux|be-Fin-Ind-Past-S3 adv|here verb|visit-Part-Pres-S .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|we-Prs-Nom-P1 verb|use-Fin-Ind-Past-P1 part|to verb|live-Inf-S adp|with pron|my-Prs-Gen-S1 noun|dad adp|over adv|there .
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1 part|to verb|go-Inf-S verb|see-Inf-S pron|they-Prs-Acc-P3 .
+%mor:	noun|mhm .
+%mor:	cconj|and pron|your-Prs-Gen-S2 noun|grandmother aux|be-Fin-Ind-Past-S3 adj|like-Pos-S1 +"/.
+%mor:	intj|oh pron|todo-Tot-S1 pron|él-Prs-Acc-S3 verb|mirar-Fin-Ind-Pres-S2 adp|en det|el-Fem-Def-Art noun|mano-Fem-Plur .
+%mor:	det|el-Fem-Def-Art noun|vejez-Fem pron|él-Prs-Acc-S3 verb|mirar-Fin-Ind-Pres-S2 adp|en det|el-Fem-Def-Art noun|mano-Fem-Plur .
+%mor:	sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|true-Pos-S1 .
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|her-Prs-Gen-S3 noun|face aux|be-Fin-Ind-Pres-S3 adv|off .
+%mor:	cconj|and pron|your-Prs-Gen-S2 noun|hand-Plur noun|age .
+%mor:	cconj|but intj|yeah pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2 verb|see-Inf-S pron|her-Prs-Acc-S3 .
+%mor:	x|so pron|él-Prs-Acc-S3 verb|jalar-Fin-Ind-Past-S3 det|el-Fem-Def-Art noun|cara-Fem adj|nuevo-Pos-S1 .
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	intj|ay adv|how adj|funny-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|wanna-Inf-S .
+%mor:	sconj|if pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 num|one adj|fine-Pos-S1 adv|then pron|I-Prs-Nom-S1~aux|will-Fin-S verb|use-Inf-S pron|it-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|trust-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adj|more-Cmp-S1 .
+%mor:	sconj|que adv|no verb|decir-Fin-Sub-Pres-S3 noun|Nicaragua adp|por noun|favor .
+%mor:	intj|yeah adv|just adj|plain-Pos-S1 adv|just intj|mhm intj|sin x|nada .
+%mor:	sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|how pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 sconj|like pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 +...
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 adp|in det|the-Def-Art noun|bottom adp|of pron|it-Prs-Acc-S3 adj|fine-Pos-S1 .
+%mor:	intj|pero intj|no pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|so adj|patriotic-Pos-S1 cconj|and pron|they-Prs-Nom-P3 +...
+%mor:	intj|yeah intj|yeah pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-Pos-S1 !
+%mor:	adv|just verb|email-Fin-Imp-S pron|it-Prs-Acc-S3 adp|to pron|I-Prs-Acc-S1 .
+%mor:	pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 pron|él-Prs-Acc-S3 verb|mandar-Fin-Ind-Pres-S1 adp|a noun|Fernando .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|email-Inf-S pron|it-Prs-Acc-S3 verb|close-Part-Past-S cconj|and pron|I-Prs-Nom-S1~aux|will-Fin-S verb|email-Inf-S pron|it-Prs-Acc-S3 adj|open-Pos-S1 .
+%mor:	intj|yeah .
+%mor:	adv|so pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adv|how pron|it-Prs-Nom-S3 adj|cool-Pos-S1 .
+%mor:	intj|no cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|move-Part-Pres-S +...
+%mor:	adv|where ?
+%mor:	part|to .
+%mor:	sconj|with pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Pres-S3 adp|with pron|his-Prs-Gen-S3 noun|mom cconj|or adp|with pron|his-Prs-Gen-S3 noun|sister ?
+%mor:	intj|no adp|with pron|his-Prs-Gen-S3 noun|mom .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|move-Part-Pres-S adp|from det|the-Def-Art noun|house adv|there adv|right .
+%mor:	cconj|and adv|right adv|now .
+%mor:	x|porque pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adj|cheap-Cmp-S1 .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|like adv|almost num|fifty noun|dollar-Plur adj|cheap-Cmp-S1 +/.
+%mor:	cconj|but pron|they-Prs-Nom-P3 verb|sell-Fin-Ind-Past-P3 pron|their-Prs-Gen-P3 noun|house x|verdad ?
+%mor:	adp|in noun|rent .
+%mor:	pron|they-Prs-Nom-P3 verb|sell-Fin-Ind-Past-P3 pron|their-Prs-Gen-P3 noun|house .
+%mor:	intj|okay .
+%mor:	cconj|but det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 +...
+%mor:	sconj|that x|es x|su x|tío pron|that-Rel-S1 aux|have-Fin-Ind-Pres-S3 verb|live-Part-Past-S adp|with pron|he-Prs-Acc-S3 sconj|like pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|how adp|like pron|you-Prs-Acc-S2 adj|several-Pos-S1 noun|year-Plur +...
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|pay-Inf-S pron|anything-Ind-S1 .
+%mor:	pron|él-Prs-AccNom-S3 adv|no verb|pagar-Fin-Ind-Pres-S3 pron|nada-Neg-S1 adp|en det|el-Fem-Def-Art noun|casa-Fem .
+%mor:	sconj|like pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|like-Inf-S adv|even noun|water .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Pres-S3 adv|there adp|with pron|his-Prs-S3 +/.
+%mor:	det|el-Masc-Def-Art noun|machismo-Masc !
+%mor:	pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Pres-S3 adv|there adp|with pron|his-Prs-Gen-S3 noun|wife cconj|and pron|his-Prs-Gen-S3 noun|daughter .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|understand-Fin-Ind-Pres-S1 verb|see-Fin-S pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|have-Inf-S adj|enough-Pos-S1 noun|money adp|at adj|least-Sup-S1 noun|algo pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	intj|yeah .
+%mor:	cconj|but pron|nothing-Neg-S1 .
+%mor:	adv|so pron|his-Prs-Gen-S3 noun|mom~part|s adj|like-Pos-S1 +"/.
+%mor:	pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|mantener-Inf-S x|su x|familia adv|any adj|more-Cmp-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	pron|I-Prs-Nom-S1 +/.
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|wife cconj|and pron|everybody-Tot-S1 ?
+%mor:	part|not adv|just +...
+%mor:	intj|yeah pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|retire-Part-Past-S det|the-Def-Art +/.
+%mor:	pron|qué-Int-S1 .
+%mor:	pron|her-Prs-Acc-S3 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|responsible-Pos-S1 adp|for det|the-Def-Art pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|her-Prs-Gen-S3 noun|mom .
+%mor:	cconj|and pron|her-Prs-Gen-S3 adj|old-Cmp-S1 noun|daughter .
+%mor:	cconj|pero pron|él-Prs-AccNom-S3 aux|ser-Fin-Ind-Pres-S3 adj|enfermito-Pos-S1 .
+%mor:	intj|yeah .
+%mor:	adv|so noun|Fernando~aux|be-Fin-Ind-Pres-S3 intj|like verb|feed-Part-Past-S adp|up adp|with pron|it-Prs-Acc-S3 .
+%mor:	intj|well det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 sconj|that pron|they-Prs-Nom-P3 verb|start-Fin-Ind-Past-P3 verb|look-Ger-S adp|for det|a-Ind-Art adj|new-Pos-S1 noun|house part|to verb|move-Inf-S adv|in .
+%mor:	adv|just noun|Fernando cconj|and pron|his-Prs-Gen-S3 noun|mom ?
+%mor:	intj|uhhuh cconj|and pron|his-Prs-Gen-S3 noun|niece-Plur .
+%mor:	cconj|and det|the-Def-Art noun|grandmother ?
+%mor:	sconj|if pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|go-Inf-S adp|with pron|they-Prs-Acc-P3 .
+%mor:	sconj|because pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 verb|take-Part-Pres-S +/.
+%mor:	cconj|but det|the-Def-Art noun|sister det|the-Def-Art noun|one pron|that-Rel-S1 aux|be-Fin-Ind-Past-S3 verb|marry-Part-Past-S cconj|and verb|live-Fin-Ind-Pres-S3 adv|somewhere adv|else adv|right .
+%mor:	intj|yeah pron|she-Prs-Nom-S3 verb|live-Fin-Ind-Pres-S3 adv|somewhere adv|else .
+%mor:	intj|okay .
+%mor:	cconj|but det|the-Def-Art noun|grandmother aux|be-Fin-Ind-Past-S3 verb|take-Part-Pres-S pron|you-Prs-Acc-S2 verb|know-Inf-S pron|her-Prs-Gen-S3 noun|son~part|s noun|side .
+%mor:	cconj|but det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 sconj|that intj|yeah +/.
+%mor:	sconj|como adv|siempre sconj|como adv|siempre .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S intj|yeah .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|so adj|annoying-Pos-S1 .
+%mor:	det|el-Masc-Def-Art noun|hombre-Masc-Plur .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-Pos-S1 noun|machista .
+%mor:	noun|Nick noun|and noun|his noun|mom sconj|que pron|todo-Tot-S1 aux|ser-Fin-Ind-Imp-S3 sconj|como noun|hombre-Masc .
+%mor:	intj|yeah .
+%mor:	pron|she-Prs-Nom-S3 verb|tell-Fin-Ind-S pron|I-Prs-Acc-S1 sconj|like pron|they-Prs-Nom-P3 verb|favor-Fin-Ind-Pres-P3 pron|they-Prs-Acc-P3 adv|so adv|much .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like det|this-Def-Dem adj|hispanic-Pos-S1 noun|thing +/.
+%mor:	adv|how adj|annoying-Pos-S1 .
+%mor:	sconj|that det|the-Def-Art noun|man-Plur aux|be-Fin-Ind-Pres-P3 +...
+%mor:	intj|yeah .
+%mor:	det|no-Def noun|matter pron|what-Rel-S1 det|the-Def-Art +...
+%mor:	adp|with pron|my-Prs-Gen-S1 noun|mom cconj|and pron|my-Prs-Gen-S1 noun|uncle pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|my-Prs-Gen-S1 noun|mom verb|say-Fin-Ind-Pres-S3 sconj|that pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|always verb|favor-Part-Past-S pron|my-Prs-Gen-S1 noun|uncle .
+%mor:	pron|my-Prs-Gen-S1 noun|grandma aux|be-Fin-Ind-Past-S3 det|the-Def-Art adj|same-Pos-S1 noun|way adp|with pron|my-Prs-Gen-S1 noun|brother .
+%mor:	intj|like adv|even adp|to det|this-Def-Dem noun|day pron|she-Prs-Nom-S3~aux|will-Fin-S verb|give-Inf-S sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|money part|to verb|pay-Inf-S det|the-Def-Art noun|rent noun|y noun|todo .
+%mor:	intj|like sconj|if sconj|because pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 adp|to noun|work .
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	adj|buen-Pos-S1 pron|yo-Prs-Nom-S1 adv|no verb|querer-Fin-Ind-Pres-S1 verb|ir-Inf-S .
+%mor:	adv|so pron|he-Prs-Nom-S3~aux|will-Fin-S verb|call-Inf-S adp|in adj|sick-Pos-S1 .
+%mor:	adv|so part|to verb|make-Inf-S adp|up det|the-Def-Art noun|difference pron|my-Prs-Gen-S1 noun|grandmother aux|will-Fin-S verb|give-Inf-S pron|it-Prs-Acc-S3 adp|to pron|he-Prs-Acc-S3 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|low-Pos-S1 .
+%mor:	x|qué x|jodían pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like adj|stupid-Pos-S1 noun|Nicaraguans-Plur !
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in adj|general-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|agree-Inf-S pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|all-Def intj|yeah .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like det|all-Def .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|understand-Fin-Ind-Pres-S1 verb|help-Ger-S pron|your-Prs-Gen-S2 noun|kid sconj|if pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art noun|crisis noun|situation +/.
+%mor:	intj|yeah cconj|but +...
+%mor:	cm|cm cconj|pero verb|darler-Inf-S pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|querer-Fin-Ind-Pres-S2 verb|dar-Inf-S +...
+%mor:	intj|wow intj|well det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 sconj|that pron|they-Prs-Nom-P3 verb|find-Fin-Ind-Past-P3 det|this-Def-Dem noun|place adv|right .
+%mor:	cconj|but det|the-Def-Art noun|house verb|come-Fin-Ind-Pres-S3 adp|with det|a-Ind-Art adj|little-Pos-S1 noun|efficiency .
+%mor:	adv|outside .
+%mor:	intj|oh intj|okay .
+%mor:	adp|within det|the-Def-Art .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adp|within det|the-Def-Art noun|area ?
+%mor:	cconj|and adv|so noun|Fernando~part|s adj|like-Pos-S1 +"/.
+%mor:	intj|well adv|just verb|tell-Fin-Imp-S pron|my-Prs-Gen-S1 noun|uncle sconj|that pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|go-Inf-S adv|live adp|with pron|we-Prs-Acc-P1 sconj|that pron|he-Prs-Nom-S3 aux|can-Fin-S verb|rent-Inf-S det|the-Def-Art noun|apartment adv|out .
+%mor:	verb|rent-Fin-Imp-S adj|okay-Pos-S1 .
+%mor:	aux|do-Fin-Imp-S~part|not verb|let-Fin-Imp-S pron|he-Prs-Acc-S3 verb|know-Inf-S sconj|that pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|house .
+%mor:	adj|buen-Pos-S1 .
+%mor:	adv|so pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|like-Pos-S1 +"/.
+%mor:	intj|well sconj|if pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|move-Inf-S adv|in adv|next adp|to pron|we-Prs-Acc-P1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cheap-Pos-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|fifty noun|dollar-Plur .
+%mor:	cconj|and pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not adv|gonna verb|get-Inf-S adj|cheap-Cmp-S1 adp|than pron|that-Dem-S1 adv|anywhere .
+%mor:	noun|mhm .
+%mor:	adv|so pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|pay-Inf-S adp|for det|the-Def-Art num|fifty noun|dollar-Plur pron|his-Prs-Gen-S3 noun|water pron|his-Prs-Gen-S3 noun|light .
+%mor:	pron|he-Prs-Nom-S3 verb|think-Fin-Ind-Pres-S3 sconj|that pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|help-Part-Pres-S adp|out .
+%mor:	intj|yeah .
+%mor:	aux|do-Fin-Imp-S~part|not intj|wanna verb|know-Inf-S .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|but pron|that-Dem-S1 aux|be-Fin-Ind-Past-S3 det|the-Def-Art adj|only-Pos-S1 noun|way +...
+%mor:	part|to verb|make-Inf-S pron|he-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	cconj|but adv|why aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|have-Inf-S part|to verb|live-Inf-S adp|with pron|he-Prs-Acc-S3 ?
+%mor:	adv|why aux|can-Fin-S~part|not pron|he-Prs-Nom-S3 verb|live-Inf-S adp|with pron|his-Prs-Gen-S3 noun|wife cconj|and noun|kid-Plur adp|in det|another-Def noun|place ?
+%mor:	sconj|because adv|apparently pron|he-Prs-Nom-S3 aux|can-Fin-S~part|not verb|afford-Inf-S verb|live-Ger-S adp|on pron|his-Prs-Gen-S3 adj|own-Pos-S1 .
+%mor:	det|the-Def-Art noun|grandmother verb|want-Fin-Ind-Pres-S3 det|the-Def-Art +...
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|the-Def-Art noun|situation~aux|be-Fin-Ind-Pres-S3 adj|difficult-Pos-S1 noun|y noun|todo cconj|but +...
+%mor:	cconj|pero aux|haber-Fin-Ind-Pres-S1 noun|works ?
+%mor:	det|a-Ind-Art noun|lot adp|of intj|yeah .
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|wife verb|work-Fin-Ind-Pres-S3 x|también ?
+%mor:	intj|yes .
+%mor:	cconj|and adv|somehow noun|Fernando~part|s +/.
+%mor:	adv|how adj|many-Pos-S1 noun|kid-Plur aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|have-Inf-S ?
+%mor:	num|one noun|kid ?
+%mor:	num|one adj|little-Pos-S1 noun|girl .
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|can-Fin-S~part|not verb|afford-Inf-S noun|rent cconj|or pron|anything-Ind-S1 ?
+%mor:	part|not adv|even +...
+%mor:	cconj|and noun|Fernando~part|s noun|mom verb|retire-Fin-Ind-Past-S3 .
+%mor:	cconj|and noun|Fernando aux|be-Fin-Ind-Pres-P3 verb|sustain-Part-Pres-S det|all-Def adp|of pron|they-Prs-Acc-P3 .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 intj|like adj|ridiculous-Pos-S1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|crazy-Pos-S1 .
+%mor:	cconj|pero adj|buen-Pos-S1 .
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S adp|on noun|Friday .
+%mor:	adp|for adv|how adj|long-Pos-S1 num|ten noun|day-Plur ?
+%mor:	intj|yeah .
+%mor:	verb|take-Fin-Imp-S noun|picture-Plur intj|ah adj|exciting-Pos-S1 !
+%mor:	intj|yeah pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|wait-Inf-S part|to verb|get-Inf-S +...
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|a-Ind-Art .
+%mor:	aux|do-Fin-Ind-Pres-S3 noun|Spirit verb|fly-Inf-S adp|to noun|Nicaragua ?
+%mor:	adp|from intj|huh ?
+%mor:	noun|Spirit noun|airline-Plur aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|fly-Inf-S adp|to noun|Nicaragua ?
+%mor:	intj|yeah .
+%mor:	adp|from noun|FortLauderdale ?
+%mor:	noun|Fernando +...
+%mor:	pron|my-Prs-Gen-S1 pron|my-Prs-Gen-S1 noun|friend-Plur noun|one-Plur adp|at noun|work .
+%mor:	intj|uhhuh .
+%mor:	det|the-Def-Art noun|one-Plur pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|tell-Part-Pres-S pron|you-Prs-Acc-S2 adp|about adv|right adv|now .
+%mor:	cconj|but det|the-Def-Art adj|whole-Pos-S1 noun|drama noun|thing cconj|and pron|everything-Tot-S1 .
+%mor:	pron|they-Prs-Nom-P3 verb|join-Fin-Ind-Past-P3 det|the-Def-Art noun|Spirit noun|airfare noun|thing .
+%mor:	noun|mhm .
+%mor:	cconj|and adp|for num|nine noun|dollar-Plur .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|to noun|NewYork adp|for num|thirty num|six noun|dollar-Plur adj|round-Pos-S1 noun|trip .
+%mor:	noun|Fernando verb|join-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S verb|tell-Part-Pres-S pron|I-Prs-Acc-S1 part|to verb|join-Inf-S .
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 noun|Michael pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	intj|well pron|you-Prs-Nom-S2 verb|pay-Fin-Ind-Pres-S2 num|nine noun|dollar-Plur adp|for det|the-Def-Art adj|first-Pos-S1 num|three noun|month-Plur .
+%mor:	cconj|and adv|then adp|after sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|thirty noun|dollar-Plur adp|for det|the-Def-Art adj|whole-Pos-S1 noun|year .
+%mor:	adv|so adv|even sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|end-Inf-S adp|up verb|buy-Ger-S det|a-Ind-Art noun|airfare pron|you-Prs-Nom-S2 adv|still verb|save-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|would-Fin-S .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|thirty intj|yeah .
+%mor:	intj|yeah cconj|and det|the-Def-Art noun|odd-Plur aux|be-Fin-Ind-Pres-P3 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 part|gonna verb|travel-Inf-S adp|at adj|least-Sup-S1 adp|to num|one noun|place .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just intj|like +...
+%mor:	cconj|and adv|so pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|another-Def noun|firm .
+%mor:	pron|our-Prs-Gen-P1 noun|architecture noun|firm .
+%mor:	intj|uhhuh .
+%mor:	intj|like adj|next-Pos-S1 noun|door pron|our-Prs-Gen-P1 noun|office .
+%mor:	cconj|and det|the-Def-Art noun|reception adv|there cconj|and det|the-Def-Art noun|office noun|manager adp|in adp|in pron|our-Prs-Gen-P1 noun|office aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adv|everywhere .
+%mor:	sconj|like pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3 adp|to noun|NewYork .
+%mor:	pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Past-P3 det|a-Ind-Art adj|whole-Pos-S1 noun|thing adp|in noun|NewYork adp|for num|twenty num|four noun|hour-Plur .
+%mor:	pron|they-Prs-Nom-P3 verb|fly-Fin-Ind-Past-P3 adv|in intj|like adp|at num|six adp|in det|the-Def-Art noun|morning .
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S verb|do-Inf-S +...
+%mor:	cconj|and verb|leave-Fin-Ind-Past-S1 intj|like adp|at num|six adp|in det|the-Def-Art noun|morning det|the-Def-Art adj|next-Pos-S1 noun|day .
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 adp|up det|the-Def-Art adj|whole-Pos-S1 noun|day .
+%mor:	intj|uhhuh .
+%mor:	det|this-Def-Dem noun|time adv|round pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S det|the-Def-Art adj|same-Pos-S1 noun|thing adp|for .
+%mor:	cconj|but pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|come-Part-Pres-S adp|on det|a-Ind-Art noun|Friday cconj|and verb|leave-Ger-S adp|on det|a-Ind-Art noun|Saturday .
+%mor:	adv|then pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|to noun|Boston .
+%mor:	intj|oh !
+%mor:	pron|they-Prs-Nom-P3 verb|give-Fin-Ind-Past-P3 pron|they-Prs-Acc-P3 det|a-Ind-Art noun|list .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|to noun|Boston .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|to noun|Washington .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|to det|the-Def-Art noun|husband~part|s noun|like +"/.
+%mor:	cconj|y intj|ay !
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|okay-Pos-S1 intj|like ?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 intj|like adp|after det|a-Ind-Art noun|while .
+%mor:	x|so noun|hello-Masc !
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|like .
+%mor:	intj|yeah pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 +"/.
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|gonna verb|travel-Inf-S det|the-Def-Art adj|whole-Pos-S1 noun|country adp|with noun|Paige ?
+%mor:	sconj|porque pron|él-Prs-Acc-S3 verb|llamar-Fin-Ind-Pres-S3 noun|Paige noun|the noun|girl .
+%mor:	intj|ah !
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|really adj|gonna-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|join-Inf-S .
+%mor:	det|the-Def-Art adj|only-Pos-S1 noun|thing aux|be-Fin-Ind-Pres-S3 pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|fly-Inf-S adp|to noun|Canada adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +...
+%mor:	intj|yeah .
+%mor:	cconj|but pron|they-Prs-Nom-P3 verb|fly-Fin-Ind-Pres-P3 adp|to noun|Chicago .
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 noun|Chicago adp|from noun|FortLauderdale .
+%mor:	adp|for num|forty num|eighty num|eight noun|dollar-Plur adj|round-Pos-S1 noun|trip .
+%mor:	noun|Fernando adp|from noun|Nicaragua pron|he-Prs-Nom-S3 verb|pay-Fin-Ind-Past-S3 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 intj|like num|one num|hundred cconj|and num|two cconj|or pron|something-Ind-S1 adp|like sconj|that pron|something-Ind-S1 adj|ridiculous-Pos-S1 .
+%mor:	noun|Jamaica noun|round noun|trip noun|ticket adp|to noun|Kingston adv|where noun|Michael verb|stay-Fin-Ind-Pres-S3 num|one intj|oh num|nine .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 .
+%mor:	adv|so pron|what-Int-S1 verb|happen-Fin-Ind-Past-S3 adp|at noun|work ?
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|a-Ind-Art +...
+%mor:	noun|Lauren noun|like noun|ay pron|yo-Prs-Dat-S1 verb|tener-Fin-Ind-Pres-P3 adj|cansado-Pos-S1 .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ridiculous-Pos-S1 .
+%mor:	pron|what-Int-S1 +...
+%mor:	noun|Thursday num|one adp|of det|the-Def-Art noun|girl-Plur sconj|like pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 verb|feed-Part-Past-S adp|up .
+%mor:	sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like noun|Lauren pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|we-Prs-Nom-P1 verb|put-Fin-Ind-Pres-P1 det|all-Def pron|our-Prs-Gen-P1 noun|work cconj|and det|all-Def pron|our-Prs-Gen-P1 noun|effort-Plur .
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|try-Fin-Ind-Pres-P1 part|to verb|please-Inf-S pron|her-Prs-Acc-S3 cconj|and pron|whatever-Rel-S1 .
+%mor:	noun|mhm .
+%mor:	cconj|and pron|we-Prs-Nom-P1 adv|really verb|like-Fin-Ind-Pres-P1 pron|what-Rel-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|do-Part-Pres-S .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|art .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|cousin adp|of det|the-Def-Art adp|of det|the-Def-Art noun|boss ?
+%mor:	det|the-Def-Art adj|same-Pos-S1 adj|old-Pos-S1 noun|lady pron|that-Rel-S1 pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 aux|be-Part-Past-S intj|ah .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|there .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|do-Inf-S pron|anything-Ind-S1 adp|about .
+%mor:	det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 sconj|that num|one adp|of det|the-Def-Art noun|girl-Plur pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 adp|into pron|her-Prs-Gen-S3 noun|office noun|Thursday .
+%mor:	cconj|and verb|tell-Fin-Ind-Past-S3 pron|her-Prs-Acc-S3 +"/.
+%mor:	verb|look-Fin-Imp-S .
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-Pos-S1 .
+%mor:	adv|why ?
+%mor:	sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|agree-Inf-S adp|with pron|something-Ind-S1 cconj|or pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|like-Inf-S pron|what-Rel-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|do-Part-Pres-S verb|let-Inf-S pron|we-Prs-Acc-P1 verb|know-Inf-S .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%mor:	cconj|but det|every-Def noun|time pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adp|on det|a-Ind-Art noun|trip cconj|or pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Pres-S2 adv|back det|all-Def pron|you-Prs-Acc-S2 det|all-Def pron|you-Prs-Acc-S2 det|all-Def pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 aux|be-Fin-Ind-Pres-S3 +"/.
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S sconj|that pron|what-Rel-S1 pron|you-Prs-Nom-S2 noun|guy-Plur aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S .
+%mor:	pron|you-Prs-Nom-S2 noun|guy-Plur aux|be-Fin-Ind-Pres-P3 verb|waste-Part-Pres-S pron|your-Prs-Gen-S2 noun|time .
+%mor:	pron|that-Dem-S1 +/.
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|constructive-Pos-S1 adp|with pron|her-Prs-Gen-S3 noun|criticism .
+%mor:	intj|yeah .
+%mor:	cconj|and noun|Leticia aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	det|todo-Masc-Def-Tot det|este-Masc-Def-Dem noun|tiempo-Masc noun|she noun|had noun|like det|uno-Fem-Ind-Art noun|cara-Fem sconj|como sconj|que adv|no verb|entender-Fin-Ind-Imp-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 pron|él-Prs-Dat-S3 aux|estar-Fin-Ind-Imp-P3 verb|decir-Ger-S adp|a pron|él-Prs-AccNom-S3 .
+%mor:	cconj|and adv|then noun|Leticia pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|Leticia verb|finish-Fin-Ind-Past-S3 .
+%mor:	intj|uhhuh .
+%mor:	cconj|and noun|Raquel~part|s adj|like-Pos-S1 +"/.
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|talk-Part-Pres-S adp|about ?
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never verb|say-Part-Past-S pron|that-Dem-S1 adp|about pron|you-Prs-Acc-S2 .
+%mor:	intj|uhhuh .
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|hear-Part-Pres-S pron|this-Dem-S1 ?
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	intj|well pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 noun|Ana .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|and noun|Ana~aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|supervisor .
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|tell-Fin-Ind-Pres-S3 pron|we-Prs-Acc-P1 det|all-Def det|this-Def-Dem noun|feedback .
+%mor:	adv|right .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never verb|say-Part-Past-S pron|that-Dem-S1 .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never verb|say-Part-Past-S pron|that-Dem-S1 .
+%mor:	intj|please verb|tell-Fin-Imp-S noun|Chloe cconj|and noun|Maricarmen sconj|that pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never verb|say-Part-Past-S pron|that-Dem-S1 .
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 aux|could-Fin-S verb|confront-Inf-S pron|her-Prs-Acc-S3 .
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|have-Inf-S det|a-Ind-Art noun|meeting .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|will-Fin-S verb|tell-Inf-S pron|her-Prs-Acc-S3 sconj|that pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never verb|say-Part-Past-S sconj|that adp|in noun|front adp|of pron|you-Prs-Acc-S2 .
+%mor:	cconj|and noun|Leticia aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|that-Dem-S1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|last-Pos-S1 noun|thing pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 .
+%mor:	adv|just pron|I-Prs-Nom-S1 adv|just verb|let-Fin-Ind-S1 pron|we-Prs-Acc-P1 verb|know-Inf-S sconj|if pron|you-Prs-Nom-S2 verb|disagree-Fin-Ind-Pres-S2 adp|with pron|something-Ind-S1 .
+%mor:	det|el-Fem-Def-Art noun|cosa-Fem aux|ser-Fin-Ind-Pres-S3 sconj|que noun|that noun|was noun|thursday .
+%mor:	cconj|and noun|yesterday pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|run-Inf-S det|some-Def noun|errand-Plur adp|for det|the-Def-Art noun|passport noun|thing .
+%mor:	noun|mhm .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Past-S1 .
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adp|like +"/.
+%mor:	intj|oh pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|gonna aux|be-Inf-S det|a-Ind-Art adj|few-Pos-S1 noun|minute-Plur adj|late-Pos-S1 .
+%mor:	sconj|because aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|leave-Part-Pres-S adv|somewhere adv|again ?
+%mor:	intj|well det|the-Def-Art noun|visa verb|expire-Fin-Ind-Pres-S3 adp|in noun|June .
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|renew-Inf-S pron|it-Prs-Acc-S3 sconj|before pron|I-Prs-Nom-S1 verb|leave-Fin-Ind-Pres-S1 .
+%mor:	intj|yeah intj|yeah cconj|and verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 adv|now .
+%mor:	cconj|but verb|wait-Fin-Imp-S pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|fly-Part-Pres-S adp|to pron|you-Prs-Acc-S2 intj|oh intj|okay .
+%mor:	intj|yeah .
+%mor:	sconj|because pron|I-Prs-Nom-S1 +/.
+%mor:	det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 .
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1 adp|to noun|Canada pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1 det|the-Def-Art noun|madre .
+%mor:	intj|yeah det|the-Def-Art noun|passport .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|yeah cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|realize-Inf-S pron|it-Prs-Acc-S3 sconj|because .
+%mor:	adp|in noun|December noun|December det|the-Def-Art noun|December adp|before sconj|that sconj|if pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2 verb|go-Part-Pres-S adp|to noun|Canada cconj|or noun|Mexico pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2~part|not verb|need-Inf-S det|a-Ind-Art noun|passport .
+%mor:	cconj|and adv|then det|that-Def-Dem noun|December pron|they-Prs-Nom-P3 verb|pass-Fin-Ind-Past-P3 det|the-Def-Art noun|law .
+%mor:	adv|so intj|like adv|there pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 num|two noun|week-Plur adp|before det|the-Def-Art noun|trip .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	intj|oh aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|need-Inf-S det|a-Ind-Art noun|passport ?
+%mor:	cconj|and noun|Michael aux|be-Fin-Ind-Past-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 pron|mine-Prs-S1 adv|up adp|to noun|date .
+%mor:	intj|yeah .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	noun|oop .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adv|so adj|lucky-Pos-S1 .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adp|in noun|downtown pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|passport noun|building .
+%mor:	intj|uhhuh .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|courthouse adp|across det|the-Def-Art noun|street .
+%mor:	pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 verb|work-Part-Pres-S adp|at det|the-Def-Art noun|courthouse .
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|would-Fin-S verb|go-Inf-S adp|through pron|my-Prs-Gen-S1 noun|lunchtime .
+%mor:	verb|thank-Fin-Ind-Pres-S1 noun|god pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adj|able-Pos-S1 part|to verb|find-Inf-S det|a-Ind-Art +...
+%mor:	det|some-Def +...
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|make-Inf-S det|a-Ind-Art noun|appointment .
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|say-Inf-S sconj|that pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|take-Part-Pres-S noun|doctor~part|s noun|appointment-Plur cconj|and pron|everything-Tot-S1 .
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|go-Inf-S .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 num|two noun|hour-Plur adp|in noun|line .
+%mor:	pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|pasar-Fin-Ind-Pres-S3 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|relajo-Masc .
+%mor:	intj|yeah adv|why pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1 pron|that-Dem-S1 +...
+%mor:	intj|yeah verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 adv|now sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S .
+%mor:	cconj|and adv|then det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 sconj|that pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1 .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|tell-Fin-Ind-Past-P3 pron|I-Prs-Acc-S1 sconj|that pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1~part|not +//.
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|get-Inf-S det|a-Ind-Art adj|new-Pos-S1 noun|passport .
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|god .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|week .
+%mor:	adv|how adj|old-Pos-S1 aux|be-Fin-Ind-Past-S3 pron|you-Prs-Acc-S2 adv|when pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Past-S2 pron|your-Prs-Gen-S2 adj|last-Pos-S1 noun|picture ?
+%mor:	noun|because pron|ese-Dem-S1 adv|no verb|importar-Fin-Ind-Pres-S3 .
+%mor:	intj|oh .
+%mor:	det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 .
+%mor:	intj|my noun|passport pron|él-Prs-AccNom-P3 pron|yo-Prs-Dat-S1 pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-P3 verb|revalidar-Part-Past-S num|dos noun|vez-Fem-Plur .
+%mor:	cconj|and adv|now pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|law pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adp|in det|the-Def-Art adj|Nicaraguan-Pos-S1 noun|consul pron|whatever-Rel-S1 .
+%mor:	sconj|que sconj|si adv|ya pron|tú-Prs-Dat-S2 pron|él-Prs-Acc-S3 aux|haber-Fin-Ind-Pres-P3 verb|revalidar-Part-Past-S num|dos noun|vez-Fem-Plur .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|get-Inf-S det|a-Ind-Art adj|new-Pos-S1 noun|passport .
+%mor:	adv|even sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 intj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|sheet-Plur adj|available-Pos-S1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|so adj|stupid-Pos-S1 .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|page-Plur adj|available-Pos-S1 pron|whatever-Rel-S1 .
+%mor:	adv|when pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|US noun|passport aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|gonna verb|keep-Inf-S pron|your-Prs-Gen-S2 adj|Nicaraguan-Pos-S1 noun|passport adv|too ?
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	adp|with det|a-Ind-Art noun|US noun|passport pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|have-Inf-S part|to verb|do-Inf-S pron|that-Dem-S1 .
+%mor:	intj|no pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|parent-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S pron|it-Prs-Acc-S3 det|any-Def adj|more-Cmp-S1 .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|Sarah verb|do-Fin-Ind-Pres-S3 .
+%mor:	intj|yeah .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|why .
+%mor:	cconj|but noun|Sarah aux|be-Fin-Ind-Past-S3~part|not verb|bear-Part-Past-S adv|there .
+%mor:	cconj|but pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|Nicaraguan +//.
+%mor:	adv|when pron|she-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 adv|over adv|there pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|when pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%mor:	intj|oh adv|really ?
+%mor:	intj|yeah .
+%mor:	intj|oh intj|okay .
+%mor:	det|el-Fem-Def-Art noun|cosa-Fem aux|ser-Fin-Ind-Pres-S3 sconj|que +/.
+%mor:	pron|your-Prs-Gen-S2 noun|brother aux|be-Fin-Ind-Pres-S3 +...
+%mor:	noun|huh ?
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|for noun|citizenship adv|too cconj|or intj|no ?
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|apply-Inf-S adp|with pron|he-Prs-Acc-S3 .
+%mor:	aux|will-Fin-S pron|he-Prs-Nom-S3 verb|get-Inf-S +..?
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	intj|oh verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	intj|oh cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art adj|minor-Pos-S1 det|any-Def adj|more-Cmp-S1 .
+%mor:	noun|god pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|old-Pos-S1 !
+%mor:	intj|ah .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Past-S1 adv|how adj|old-Pos-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adv|very adv|much .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|okay-Pos-S1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%mor:	adv|just pron|that-Dem-S1 +...
+%mor:	intj|yes intj|please verb|thank-Fin-Imp-S pron|you-Prs-Acc-S2 .
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3 pron|I-Prs-Nom-S1 verb|say-Part-Pres-S ?
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Past-S1 pron|her-Prs-Acc-S3 adv|in .
+%mor:	det|the-Def-Art noun|passport .
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|call-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adv|back .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	noun|Chloe pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|have-Part-Pres-S det|a-Ind-Art noun|meeting .
+%mor:	det|all-Def det|the-Def-Art noun|designer-Plur pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 part|to verb|clear-Inf-S noun|thing-Plur adp|up .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like .
+%mor:	noun|Raquel~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|name adp|of det|the-Def-Art noun|boss ?
+%mor:	intj|yeah .
+%mor:	det|el-Fem-Def-Art adj|pesado-Pos-S1 .
+%mor:	intj|yeah .
+%mor:	intj|okay .
+%mor:	pron|our-Prs-Gen-P1 noun|supervisor aux|be-Fin-Ind-Pres-S3 noun|Ana .
+%mor:	cconj|and adv|honestly +/.
+%mor:	noun|Ana~aux|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|cousin ?
+%mor:	intj|no noun|Ana~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art noun|girl pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|always verb|work-Part-Past-S adp|with .
+%mor:	cconj|but +/.
+%mor:	cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adp|above pron|her-Prs-Acc-S3 .
+%mor:	intj|no pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|below pron|her-Prs-Acc-S3 .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just adp|above pron|we-Prs-Acc-P1 .
+%mor:	intj|okay .
+%mor:	cconj|pero noun|she aux|haber-Fin-Ind-Pres-S2 noun|like det|uno-Fem-Ind-Art adj|malo-Pos-S1 noun|fama-Fem .
+%mor:	adp|to pron|I-Prs-Acc-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|always aux|be-Part-Past-S adj|nice-Pos-S1 cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +/.
+%mor:	pron|who-Rel-S1 noun|Ana ?
+%mor:	intj|yeah .
+%mor:	intj|oh intj|okay .
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|they-Prs-Nom-P3 verb|tell-Fin-Ind-Past-P3 pron|I-Prs-Acc-S1 adj|several-Pos-S1 noun|person-Plur .
+%mor:	pron|que-Rel-S1 aux|haber-Fin-Ind-Pres-P3 verb|echar-Part-Past-S noun|gente-Fem adp|por pron|él-Prs-AccNom-S3 noun|stuff noun|like noun|that .
+%mor:	intj|oh adv|really ?
+%mor:	intj|well adv|then det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 noun|Raquel verb|want-Fin-Ind-Past-S3 part|to verb|confront-Inf-S pron|everybody-Tot-S1 .
+%mor:	cconj|and verb|clear-Fin-Imp-S pron|everything-Tot-S1 adv|out .
+%mor:	cconj|and verb|tell-Fin-Imp-S noun|Ana sconj|that pron|that-Dem-S1 aux|be-Fin-Ind-Past-S3~part|not adj|true-Pos-S1 .
+%mor:	det|el-Fem-Def-Art noun|cosa-Fem aux|ser-Fin-Ind-Pres-S3 sconj|que +...
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 adp|on noun|phone noun|conference .
+%mor:	cconj|and pron|she-Prs-Nom-S3 adv|practically verb|tell-Fin-Ind-Past-S3 noun|Ana sconj|that intj|no sconj|that pron|everything-Tot-S1 pron|that-Rel-S1 pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 verb|tell-Part-Pres-S pron|her-Prs-Acc-S3 cconj|and adv|right pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not verb|refer-Part-Pres-S adp|to pron|we-Prs-Acc-P1 .
+%mor:	pron|whatever-Int-S1 .
+%mor:	det|the-Def-Art noun|thing aux|be-Fin-Ind-Pres-S3 sconj|that pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adp|to det|the-Def-Art noun|office cconj|and noun|Ana~aux|be-Fin-Ind-Pres-S3 intj|like adv|almost verb|cry-Ger-S .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 part|not adj|true-Pos-S1 .
+%mor:	pron|yo-Prs-Nom-S1 adv|no pron|él-Prs-Acc-S3 verb|desmentir-Fin-Ind-Past-S1 sconj|porque .
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|word adp|against pron|hers-Prs-S3 .
+%mor:	intj|yeah .
+%mor:	cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	verb|believe-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|lie-Part-Pres-S .
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|lie-Part-Pres-S pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	adj|parásita-Pos-S1 .
+%mor:	cconj|and adv|so pron|they-Prs-Nom-P3 det|both-Def verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|reputation adp|of +...
+%mor:	intj|yeah det|both-Def adp|of pron|they-Prs-Acc-P3 !
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like noun|Lauren pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|who-Int-S1 part|to verb|trust-Inf-S .
+%mor:	det|some-Def noun|person-Plur aux|be-Fin-Ind-Pres-P3 adj|good-Pos-S1 noun|actor-Plur adv|too .
+%mor:	intj|oh intj|yeah .
+%mor:	cconj|and intj|oh cconj|and adv|then noun|Raquel pron|she-Prs-Nom-S3 verb|blame-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|on noun|Elisa .
+%mor:	noun|Elisa verb|leave-Fin-Ind-Past-S3 det|the-Def-Art noun|office .
+%mor:	pron|she-Prs-Nom-S3 aux|get-Fin-Ind-Past-S3 verb|transfer-Part-Past-S adp|to noun|NewYork .
+%mor:	adv|so pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|she-Prs-Nom-S3 noun|kind adp|of verb|find-Fin-Ind-Past-S3 adv|okay adv|well verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|blame-Inf-S pron|it-Prs-Acc-S3 adp|on noun|Elisa sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adp|in det|the-Def-Art noun|office .
+%mor:	cconj|but sconj|if pron|this-Dem-S1 +/.
+%mor:	part|to verb|defend-Inf-S pron|herself-Prs-Acc-S3 .
+%mor:	cconj|and part|not part|to pron|you-Prs-Nom-S2 verb|know-Inf-S x|para intj|no intj|echar det|a-Ind-Art noun|adelante pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	cconj|but adp|in det|the-Def-Art noun|end sconj|if sconj|if det|this-Def-Dem noun|problem verb|get-Fin-Ind-Pres-S3 adj|big-Cmp-S1 +...
+%mor:	intj|uhhuh .
+%mor:	cconj|and noun|Ana verb|say-Fin-Ind-Pres-S3 +"/.
+%mor:	intj|well noun|Elisa aux|be-Fin-Ind-Past-S3 det|the-Def-Art noun|one noun|gossiping pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	cconj|and pron|she-Prs-Nom-S3 noun|Elisa~aux|be-Fin-Ind-Pres-S3 intj|like pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S pron|what-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mess .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just intj|like adj|tired-Pos-S1 adp|of pron|it-Prs-Acc-S3 .
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3 pron|it-Prs-Nom-S3 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 verb|blame-Part-Pres-S adp|on pron|her-Prs-Acc-S3 ?
+%mor:	sconj|that pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 det|the-Def-Art noun|one pron|that-Rel-S1 verb|tell-Fin-Ind-Past-S3 noun|Raquel pron|what-Rel-S1 noun|Ana aux|be-Fin-Ind-Past-S3 verb|say-Part-Pres-S adp|to pron|we-Prs-Acc-P1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|how noun|Raquel verb|find-Fin-Ind-Past-S3 adp|out sconj|that pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|Ana aux|be-Fin-Ind-Past-S3 verb|tell-Part-Pres-S +...
+%mor:	intj|oh .
+%mor:	intj|yeah .
+%mor:	verb|tell-Ger-S pron|we-Prs-Acc-P1 sconj|that pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not adj|happy-Pos-S1 adp|with pron|our-Prs-Gen-P1 noun|work .
+%mor:	intj|well sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|happy-Pos-S1 adp|with det|the-Def-Art noun|work adj|fine-Pos-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|understand-Inf-S sconj|that pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	pron|everybody-Tot-S1 verb|have-Fin-Ind-Pres-S3 pron|their-Prs-Gen-P3 adj|own-Pos-S1 noun|level adp|of noun|expectation-Plur .
+%mor:	cconj|but .
+%mor:	cconj|but adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|think-Inf-S adv|just verb|sit-Inf-S adp|down cconj|and aux|be-Inf-S adj|like-Pos-S1 +"/.
+%mor:	verb|look-Fin-Imp-S pron|you-Prs-Acc-S2 noun|guy-Plur pron|I-Prs-Nom-S1 aux|would-Fin-S verb|prefer-Inf-S sconj|if pron|you-Prs-Nom-S2 noun|guy-Plur +/.
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|we-Prs-Acc-P1 pron|she-Prs-Nom-S3 adv|never verb|say-Fin-Ind-Past-S3 pron|that-Dem-S1 .
+%mor:	intj|o noun|sea pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|who-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|lie-Part-Pres-S .
+%mor:	cconj|and adv|honestly pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|tired-Pos-S1 adp|of pron|it-Prs-Acc-S3 .
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|care-Inf-S pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 ?
+%mor:	adv|ya pron|yo-Prs-Dat-S1 verb|tener-Fin-Ind-Pres-P3 adj|cansado-Pos-S1 .
+%mor:	intj|no verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	intj|yes .
+%mor:	pron|yo-Prs-Dat-S1 verb|tener-Fin-Ind-Pres-P3 adj|cansado-Pos-S1 .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adp|in noun|situation-Plur adp|like sconj|that det|the-Def-Art noun|truth adv|always verb|come-Fin-Ind-Pres-S3 adp|out .
+%mor:	adv|always .
+%mor:	adv|soon cconj|or adv|late pron|somebody-Ind-S1 aux|will-Fin-S verb|slip-Inf-S .
+%mor:	noun|mhm .
+%mor:	adv|how adj|annoying-Pos-S1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 adp|like adj|high-Pos-S1 noun|school .
+%mor:	intj|yeah .
+%mor:	intj|mm .
+%mor:	cconj|but pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not verb|complain-Part-Pres-S adp|about pron|you-Prs-Acc-S2 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 ?
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adv|along adp|with pron|everybody-Tot-S1 .
+%mor:	noun|mhm .
+%mor:	cconj|but pron|I-Prs-Nom-S1 adv|just verb|hate-Fin-Ind-Pres-S1 aux|be-Ger-S +...
+%mor:	intj|yeah det|all-Def det|the-Def-Art adj|second-Pos-S1 noun|guess adv|back cconj|and adv|forth noun|thing .
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|distracting-Pos-S1 .
+%mor:	intj|yeah .
+%mor:	pron|they-Prs-Nom-P3 verb|give-Fin-Ind-Past-P3 pron|I-Prs-Acc-S1 num|two noun|ticket-Plur adp|to det|the-Def-Art noun|movie-Plur .
+%mor:	intj|oh adv|really ?
+%mor:	adp|for pron|my-Prs-Gen-S1 noun|birthday .
+%mor:	pron|who-Rel-S1 adp|at noun|work ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|cool-Pos-S1 .
+%mor:	adp|for pron|my-Prs-Gen-S1 noun|birthday .
+%mor:	intj|hm ?
+%mor:	intj|oh pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|Michael .
+%mor:	intj|ah .
+%mor:	noun|hello-Masc ?
+%mor:	intj|hi .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|here adp|at noun|Denny~part|s adp|with pron|my-Prs-Gen-S1 noun|cousin .
+%mor:	sconj|because pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|eat-Part-Pres-S noun|breakfast .
+%mor:	cconj|or noun|lunch !
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|seem-Inf-S part|to .
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 noun|yesterday pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adv|gonna verb|go-Inf-S cconj|and verb|do-Inf-S pron|this-Dem-S1 verb|remember-Inf-S .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adv|gonna verb|do-Inf-S det|the-Def-Art adj|whole-Pos-S1 noun|recording noun|thing adp|for noun|Mara~part|s noun|friend .
+%mor:	intj|yes .
+%mor:	x|mi x|entonces x|ahora pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|speak-Inf-S noun|Spanish !
+%mor:	intj|oh .
+%mor:	adv|very adj|cute-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 part|gonna verb|eat-Inf-S adp|at noun|Denny~part|s adp|with noun|Chloe .
+%mor:	cconj|but pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not .
+%mor:	det|no-Def adj|more-Cmp-S1 noun|sweet-Plur .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|end adp|of pron|it-Prs-Acc-S3 pron|I-Prs-Nom-S1 verb|promise-Fin-Ind-Pres-S1 .
+%mor:	det|no-Def noun|sweet-Plur noun|today det|no-Def noun|sweet-Plur +...
+%mor:	noun|tomorrow pron|I-Prs-Nom-S1 verb|promise-Fin-Ind-Pres-S1 .
+%mor:	pron|I-Prs-Nom-S1 aux|gotta-Fin-S verb|talk-Inf-S adp|to pron|you-Prs-Acc-S2 adp|about pron|my-Prs-Gen-S1 noun|puppy .
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|lung-Plur aux|be-Fin-Ind-Pres-P3 adj|swollen-Pos-S1 .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|put-Fin-Ind-Past-P3 pron|her-Prs-Acc-S3 adp|on noun|antibiotic-Plur adp|for num|two noun|week-Plur .
+%mor:	num|two noun|pill-Plur det|a-Ind-Art noun|day .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|give-Inf-S pron|her-Prs-Acc-S3 num|fifteen noun|drop-Plur adp|of det|some-Def noun|fluid noun|thing .
+%mor:	pron|he-Prs-Nom-S3 +//.
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|he-Prs-Acc-S3 pron|what-Rel-S1 verb|happen-Fin-Ind-Past-S3 .
+%mor:	pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 verb|make-Ger-S det|a-Ind-Art noun|noise .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	intj|yes pron|that-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|exactly pron|it-Prs-Acc-S3 .
+%mor:	cconj|and adv|so adv|then pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3 det|a-Ind-Art noun|xray adp|out adp|of pron|her-Prs-Gen-S3 noun|lung-Plur .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|ask-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	aux|have-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 aux|be-Part-Past-S adp|in det|a-Ind-Art noun|accident cconj|or pron|something-Ind-S1 ?
+%mor:	pron|I-Prs-Nom-S1~verb|be-Fin-Ind-Pres-S1 adp|like intj|no .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	verb|have-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 pron|you-Prs-Nom-S2 aux|know-Fin-Ind-Pres-S2 verb|go-Part-Past-S adp|into det|the-Def-Art noun|pool ?
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 verb|ask-Ger-S pron|I-Prs-Acc-S1 sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|swallow-Part-Past-S noun|water cconj|or pron|something-Ind-S1 .
+%mor:	pron|I-Prs-Nom-S1~verb|be-Fin-Ind-Pres-S1 adp|like intj|no pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|like-Pos-S1 +"/.
+%mor:	pron|she-Prs-Nom-S3 verb|hate-Fin-Ind-Pres-S3 det|the-Def-Art noun|water .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 noun|god adv|even adv|when pron|I-Prs-Nom-S1 verb|bathe-Fin-Ind-Pres-S1 pron|her-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|like intj|no .
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if adv|maybe pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|from adp|before pron|that-Dem-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|have-Part-Past-S pron|it-Prs-Acc-S3 .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|accumulate-Part-Pres-S verb|sit-Ger-S adv|there .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	adv|maybe num|one noun|day adv|when pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1 pron|her-Prs-Acc-S3 adp|to det|the-Def-Art noun|beach .
+%mor:	pron|she-Prs-Nom-S3 aux|might-Fin-S aux|have-Inf-S verb|swallow-Part-Past-S det|some-Def noun|water adv|accidentally +//.
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|where pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3 adp|from .
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 part|to +...
+%mor:	noun|huh ?
+%mor:	intj|no intj|no intj|no intj|no pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|like-Pos-S1 +"/.
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|curable-Pos-S1 ?
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|treatable-Pos-S1 ?
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	intj|oh intj|yeah intj|yeah intj|yeah intj|yeah .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just sconj|that pron|her-Prs-Acc-S3 +...
+%mor:	pron|he-Prs-Nom-S3 verb|show-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 det|the-Def-Art noun|xray .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|part adp|of pron|her-Prs-Gen-S3 noun|lung +//.
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|so adj|fascinating-Pos-S1 .
+%mor:	intj|like pron|I-Prs-Nom-S1 aux|would-Fin-S verb|want-Inf-S part|to aux|be-Inf-S det|a-Ind-Art noun|vet sconj|except pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S noun|biology .
+%mor:	intj|oh cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3 part|to verb|put-Inf-S det|a-Ind-Art adj|little-Pos-S1 noun|cat part|to verb|sleep-Inf-S noun|today .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 adp|about pron|that-Dem-S1 adv|late .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|so adj|sad-Pos-S1 .
+%mor:	intj|oy .
+%mor:	intj|uhuh pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|why pron|I-Prs-Nom-S1 aux|could-Fin-S~part|not aux|be-Inf-S det|a-Ind-Art noun|vet .
+%mor:	adv|anyways .
+%mor:	intj|no pron|he-Prs-Nom-S3 verb|show-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 det|a-Ind-Art noun|part adp|of pron|her-Prs-Gen-S3 noun|lung-Plur pron|that-Rel-S1 adp|in det|the-Def-Art noun|xray pron|they-Prs-Nom-P3 verb|come-Fin-Ind-Past-P3 adp|out adj|black-Pos-S1 .
+%mor:	sconj|like pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 adv|just adv|very adj|dark-Pos-S1 sconj|because pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 adj|swollen-Pos-S1 .
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|they-Prs-Nom-P3 aux|should-Fin-S~part|not aux|be-Inf-S adv|that adj|dark-Pos-S1 .
+%mor:	pron|they-Prs-Nom-P3 aux|should-Fin-S aux|be-Inf-S adj|more-Cmp-S1 adp|like pron|this-Dem-S1 .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|compare-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|to adp|like det|a-Ind-Art adj|light-Cmp-S1 adj|gray-Pos-S1 noun|area adp|in pron|her-Prs-Gen-S3 noun|lung .
+%mor:	adv|so pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	intj|well pron|we-Prs-Nom-P1~aux|will-Fin-S verb|put-Inf-S pron|her-Prs-Acc-S3 adp|on noun|antibiotic-Plur .
+%mor:	cconj|and adv|then verb|come-Fin-Imp-S adv|back adp|in num|two noun|week-Plur .
+%mor:	adv|so +...
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 +"/.
+%mor:	verb|take-Fin-Imp-S det|the-Def-Art noun|biotic-Plur sconj|because pron|her-Prs-Gen-S3 noun|lung-Plur aux|be-Fin-Ind-Pres-P3 adj|swollen-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|her-Prs-Gen-S3 noun|lung-Plur aux|be-Fin-Ind-Pres-P3 adj|swollen-Pos-S1 cconj|and verb|make-Ger-S pron|her-Prs-Acc-S3 noun|cough .
+%mor:	cconj|and adv|so adv|then +...
+%mor:	pron|what-Rel-S1 pron|her-Prs-Gen-S3 noun|lung-Plur aux|be-Ger-S adj|swollen-Pos-S1 ?
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|ask-Inf-S pron|he-Prs-Acc-S3 .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|sure-Pos-S1 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%mor:	pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|the-Def-Art noun|medication .
+%mor:	cconj|and adv|then verb|see-Fin-Imp-S sconj|if pron|it-Prs-Nom-S3 verb|happen-Fin-Ind-Pres-S3 adp|in num|two noun|week-Plur .
+%mor:	cconj|and adv|then sconj|if pron|it-Prs-Nom-S3 verb|continue-Fin-Ind-Pres-S3 adp|in num|two noun|week-Plur adv|then pron|he-Prs-Nom-S3~aux|will-Fin-S verb|see-Inf-S pron|you-Prs-Acc-S2 verb|know-Inf-S pron|what-Rel-S1 adv|else pron|it-Prs-Nom-S3 aux|could-Fin-S aux|be-Inf-S .
+%mor:	adv|so +...
+%mor:	pron|he-Prs-Nom-S3 verb|give-Fin-Ind-Past-S3 pron|her-Prs-Acc-S3 det|a-Ind-Art noun|shot noun|today adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|go-Part-Pres-S part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|any-Def noun|medication adp|until noun|tomorrow .
+%mor:	adv|so pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in pron|my-Prs-Gen-S1 noun|room adv|right adv|now .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|sleep-Part-Pres-S sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|drowsy-Pos-S1 cconj|and noun|stuff .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|clean-Fin-Ind-Past-S3 pron|her-Prs-Gen-S3 noun|gland-Plur .
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|he-Prs-Acc-S3 adp|about det|the-Def-Art noun|flea noun|thing .
+%mor:	pron|he-Prs-Nom-S3 verb|give-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 det|some-Def noun|pill-Plur adp|for det|the-Def-Art noun|flea-Plur .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pill .
+%mor:	pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Pres-S2 pron|her-Prs-Acc-S3 num|one noun|pill det|every-Def-Tot num|ten noun|day-Plur cconj|and pron|it-Prs-Nom-S3 verb|kill-Fin-Ind-Pres-S3 det|the-Def-Art noun|flea-Plur adp|within num|thirty noun|minute-Plur sconj|of pron|her-Prs-Acc-S3 verb|take-Ger-S det|the-Def-Art noun|pill-Plur .
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1 pron|her-Prs-Acc-S3 det|the-Def-Art noun|pill adv|right adv|when pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 adv|home .
+%mor:	cconj|and pron|he-Prs-Nom-S3 adv|just verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 adv|just part|to pron|you-Prs-Nom-S2 verb|know-Inf-S part|not part|to verb|bathe-Inf-S pron|her-Prs-Acc-S3 adv|now .
+%mor:	cconj|but part|to pron|you-Prs-Nom-S2 verb|know-Inf-S adv|just verb|clean-Inf-S det|the-Def-Art noun|house cconj|or pron|whatever-Rel-S1 sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	det|the-Def-Art adj|usual-Pos-S1 .
+%mor:	pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S pron|nothing-Neg-S1 part|to verb|worry-Inf-S adp|about adv|obviously .
+%mor:	adv|so adj|other-Pos-S1 adp|than sconj|that pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-Pos-S1 .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|ask-Inf-S pron|he-Prs-Acc-S3 .
+%mor:	pron|he-Prs-Nom-S3 verb|know-Fin-Ind-Past-S3 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 .
+%mor:	pron|he-Prs-Nom-S3 verb|know-Fin-Ind-Past-S3 det|what-Def-Int noun|medication part|to verb|give-Inf-S pron|her-Prs-Acc-S3 .
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-Pos-S1 pron|he-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S adj|familiar-Pos-S1 adp|with pron|whatever-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|ask-Part-Past-S pron|I-Prs-Acc-S1 adv|where pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3 adp|from .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|he-Prs-Acc-S3 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|know-Inf-S adv|so +...
+%mor:	sconj|because pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|know-Inf-S pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 aux|could-Fin-S~part|not adv|really +...
+%mor:	pron|he-Prs-Nom-S3 aux|could-Fin-S~part|not verb|assume-Inf-S adv|where pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3 adp|from adv|so .
+%mor:	det|the-Def-Art noun|cough .
+%mor:	intj|yeah pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably sconj|because pron|her-Prs-Gen-S3 noun|lung-Plur aux|be-Fin-Ind-Pres-P3 adj|swollen-Pos-S1 .
+%mor:	pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 .
+%mor:	adv|so pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +...
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|tell-Inf-S pron|he-Prs-Acc-S3 adp|about det|the-Def-Art noun|sneezing .
+%mor:	det|the-Def-Art noun|sneezing pron|I-Prs-Nom-S1 adv|really verb|think-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 sconj|because pron|she-Prs-Nom-S3 verb|hit-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|nose .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 adv|when pron|I-Prs-Nom-S1 verb|hit-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|nose pron|I-Prs-Nom-S1 verb|sneeze-Fin-Ind-Pres-S1 .
+%mor:	adv|so pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|always verb|launch-Part-Pres-S pron|herself-Prs-Acc-S3 adp|into det|the-Def-Art noun|carpet .
+%mor:	cconj|and verb|hit-Ger-S pron|herself-Prs-Acc-S3 adp|with det|a-Ind-Art noun|paw .
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|just verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 part|to verb|do-Inf-S adp|with pron|that-Dem-S1 .
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|will-Fin-S verb|mention-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	sconj|if pron|it-Prs-Nom-S3 verb|continue-Fin-Ind-Pres-S3 intj|like adv|severely adv|then pron|I-Prs-Nom-S1~aux|will-Fin-S verb|tell-Inf-S pron|he-Prs-Acc-S3 adp|in num|two noun|week-Plur adv|when pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 .
+%mor:	pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3 pron|her-Prs-Gen-S3 noun|temperature .
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 det|a-Ind-Art num|hundred cconj|and num|two adp|of noun|temperature .
+%mor:	pron|her-Prs-Gen-S3 adj|normal-Pos-S1 noun|temperature aux|be-Fin-Ind-Pres-S3 num|one intj|oh num|one .
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|high-Pos-S1 .
+%mor:	adv|so +...
+%mor:	cconj|but pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not det|a-Ind-Art noun|fever cconj|or pron|anything-Ind-S1 .
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|gain-Fin-Ind-Past-S3 intj|like num|two noun|pound-Plur .
+%mor:	adv|so +...
+%mor:	intj|okay pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 adv|gonna verb|do-Inf-S ?
+%mor:	num|four adv|maybe ?
+%mor:	intj|okay .
+%mor:	intj|okay intj|bye .
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|do-Inf-S adv|afterwards ?
+%mor:	pron|I-Prs-Nom-S1 verb|dunno-Fin-Ind-Pres-S1 .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|finish-Inf-S det|a-Ind-Art noun|draw adp|for pron|my-Prs-Gen-S1 noun|parent-Plur .
+%mor:	cconj|and adv|so noun|yesterday noun|Michael cconj|and noun|I +//.
+%mor:	pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 verb|tell-Ger-S pron|I-Prs-Acc-S1 adp|like .
+%mor:	pron|he-Prs-Nom-S3 verb|sketch-Fin-Ind-Past-S3 adp|over pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 part|to verb|put-Inf-S adp|in det|the-Def-Art noun|drawing-Plur .
+%mor:	adv|so cconj|but pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 part|to verb|help-Inf-S pron|I-Prs-Acc-S1 verb|draw-Inf-S noun|detail .
+%mor:	sconj|because det|the-Def-Art noun|wall~aux|be-Fin-Ind-Pres-S3 aux|be-Ger-S verb|construct-Part-Past-S .
+%mor:	intj|uhhuh .
+%mor:	intj|like pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adp|like det|the-Def-Art noun|foundation-Plur cconj|and det|the-Def-Art noun|footing-Plur .
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|the-Def-Art adj|actual-Pos-S1 noun|construction .
+%mor:	cconj|and pron|what-Rel-S1 det|the-Def-Art noun|material-Plur aux|be-Fin-Ind-Pres-P3 verb|call-Part-Past-S .
+%mor:	cconj|and adv|how part|to adv|technically verb|put-Inf-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art noun|drawing-Plur .
+%mor:	adv|so pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 adv|obviously .
+%mor:	noun|mhm .
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|sit-Inf-S adp|with pron|he-Prs-Acc-S3 cconj|and verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	pron|my-Prs-Gen-S1 noun|parent-Plur aux|be-Fin-Ind-Pres-P3 intj|like verb|ask-Part-Pres-S pron|I-Prs-Acc-S1 cconj|and verb|bother-Ger-S pron|I-Prs-Acc-S1 adp|about pron|it-Prs-Acc-S3 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +...
+%mor:	pron|I-Prs-Nom-S1 verb|understand-Fin-Ind-Pres-S1 .
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	verb|look-Fin-Imp-S sconj|like pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|thing-Plur part|to verb|do-Inf-S .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adj|last-Pos-S1 noun|weekend sconj|like pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|take-Inf-S noun|work adv|home adp|for pron|my-Prs-Gen-S1 noun|boss .
+%mor:	intj|yeah .
+%mor:	pron|my-Prs-Gen-S1 noun|boss .
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|like aux|do-Fin-Imp-S~part|not verb|assume-Fin-Imp-S sconj|that pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|every-Def noun|weekend det|all-Def det|the-Def-Art noun|time part|to verb|do-Inf-S pron|it-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	adv|then pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|that-Def-Dem noun|exam part|to verb|study-Inf-S adp|for .
+%mor:	adv|so intj|ugh .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Past-S1 part|to verb|go-Inf-S adp|to +...
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|do-Inf-S adv|afterwards ?
+%mor:	pron|nothing-Neg-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 +...
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Past-S1 part|to verb|go-Inf-S adp|to noun|OldNavy .
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|go-Inf-S adp|to noun|OldNavy part|to verb|get-Inf-S noun|Carolina cconj|and noun|Carolina~part|s noun|daughter pron|something-Ind-S1 +...
+%mor:	noun|mhm .
+%mor:	adp|for noun|tomorrow adv|so +...
+%mor:	pron|I-Prs-Nom-S1 verb|figure-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|will-Fin-S verb|find-Inf-S pron|something-Ind-S1 adv|there adp|in det|the-Def-Art noun|sale .
+%mor:	sconj|because pron|I-Prs-Nom-S1 adv|just verb|spend-Fin-Ind-Past-S1 det|a-Ind-Art num|hundred cconj|and num|forty noun|dollar-Plur adp|on det|the-Def-Art noun|vet .
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|no-Def noun|money .
+%mor:	intj|uhhuh .
+%mor:	adv|late pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|go-Inf-S adp|with noun|Sarah part|to verb|buy-Inf-S pron|something-Ind-S1 adp|for num|one adp|of pron|our-Prs-Gen-P1 noun|friend~part|s noun|birthday-Plur pron|that-Rel-S1~aux|be-Fin-Ind-Pres-S3 noun|tonight .
+%mor:	cconj|and +...
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S adp|to det|a-Ind-Art noun|party ?
+%mor:	intj|yeah pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|house .
+%mor:	intj|like det|a-Ind-Art verb|get-Inf-S adv|together .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|work part|to verb|do-Inf-S .
+%mor:	adp|for noun|work ?
+%mor:	sconj|because noun|yesterday intj|oh adp|with det|the-Def-Art adj|whole-Pos-S1 noun|passport noun|thing intj|uhhuh pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|do-Inf-S det|the-Def-Art noun|lady-Plur adp|like adp|in det|the-Def-Art noun|morning .
+%mor:	pron|she-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|do-Inf-S pron|this-Dem-S1 noun|today .
+%mor:	intj|alright .
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|coworker-Plur cconj|and noun|Raquel .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|feel-Part-Pres-S adv|well .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|go-Inf-S adv|home pron|whatever-Rel-S1 .
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|take-Inf-S noun|work adv|home .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|tell-Inf-S pron|they-Prs-Acc-P3 pron|that-Dem-S1 .
+%mor:	intj|yeah .
+%mor:	adv|so adp|on noun|Monday pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not aux|be-Inf-S adv|behind .
+%mor:	aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|pay-Inf-S pron|you-Prs-Acc-S2 adj|more-Cmp-S1 sconj|for verb|take-Ger-S noun|work adv|home cconj|or intj|no ?
+%mor:	adv|no .
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|tell-Inf-S pron|they-Prs-Acc-P3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 .
+%mor:	sconj|because +...
+%mor:	intj|yeah .
+%mor:	pron|él-Prs-Acc-S3 pron|él-Prs-Acc-S3 verb|hacer-Fin-Ind-Pres-S3 noun|costumbre-Fem .
+%mor:	intj|yeah .
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|will-Fin-S verb|expect-Inf-S pron|I-Prs-Acc-S1 part|to verb|do-Inf-S pron|it-Prs-Acc-S3 det|every-Def-Tot noun|weekend cconj|or pron|something-Ind-S1 .
+%mor:	intj|yeah .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|kinda verb|notice-Part-Pres-S sconj|that det|all-Def adp|of pron|we-Prs-Acc-P1 aux|be-Fin-Ind-Pres-P3 adv|just verb|feed-Part-Past-S adp|up adp|with det|the-Def-Art adj|whole-Pos-S1 noun|situation .
+%mor:	pron|who-Rel-S1 det|the-Def-Art noun|lady noun|Raquel ?
+%mor:	noun|mhm .
+%mor:	cconj|and sconj|that pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|sick-Pos-S1 adp|of pron|it-Prs-Acc-S3 .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|so adj|much-Pos-S1 noun|drama .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|need-Inf-S adj|much-Pos-S1 noun|contact adp|with det|all-Def det|this-Def-Dem noun|stress cconj|and noun|deadline-Plur .
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|need-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|need-Inf-S adj|additional-Pos-S1 +...
+%mor:	adv|no .
+%mor:	noun|stress .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 det|the-Def-Art noun|job~aux|be-Fin-Ind-Pres-S3 adj|stressful-Pos-S1 adv|enough .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|need-Inf-S part|to verb|add-Inf-S adp|to pron|it-Prs-Acc-S3 .
+%mor:	cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Pres-S3 .
+%mor:	pron|we-Prs-Nom-P1 verb|fall-Fin-Ind-Past-P1 adv|down adp|on intj|like noun|review intj|like num|two noun|week-Plur adv|ago .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for pron|our-Prs-Gen-P1 noun|bonus-Plur .
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|do-Inf-S det|that-Def-Dem noun|thing adv|where pron|you-Prs-Nom-S2 aux|can-Fin-S verb|review-Inf-S pron|her-Prs-Acc-S3 ?
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|when pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|gonna pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 intj|cuando intj|nos intj|yeah .
+%mor:	pron|it-Prs-Nom-S3 aux|could-Fin-S aux|be-Inf-S adj|anonymous-Pos-S1 .
+%mor:	intj|no cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|anonymous-Pos-S1 .
+%mor:	intj|well pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bitch .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|bipolar-Pos-S1 .
+%mor:	aux|do-Fin-Ind-Past-S3 det|the-Def-Art noun|guy verb|leave-Inf-S det|that-Def-Dem noun|guy pron|that-Rel-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 +...
+%mor:	intj|no pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still adv|there !
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 verb|leave-Part-Pres-S adp|to noun|NewYork pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2 cconj|or pron|something-Ind-S1 .
+%mor:	pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3~part|not verb|mention-Part-Past-S pron|it-Prs-Acc-S3 adv|again .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	adv|sometimes pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that pron|it-Prs-Nom-S3 aux|would-Fin-S aux|be-Inf-S adj|good-Sup-S1 .
+%mor:	cconj|but adv|sometimes pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|would-Fin-S~part|not .
+%mor:	sconj|because adv|when pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|around pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 +...
+%mor:	adp|in det|a-Ind-Art adj|good-Cmp-S1 noun|mood ?
+%mor:	intj|yeah pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|bother-Inf-S pron|we-Prs-Acc-P1 .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adp|like adp|on pron|our-Prs-Gen-P1 noun|back det|every-Def num|five noun|minute-Plur .
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|do-Part-Past-S adv|yet ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|annoying-Pos-S1 .
+%mor:	verb|thank-Fin-Ind-Pres-S1 noun|god pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not pron|I-Prs-Acc-S1 .
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1 pron|our-Prs-Gen-P1 noun|morning noun|meeting pron|whatever-Rel-S1 .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1 adp|to det|the-Def-Art noun|office noun|Mari +//.
+%mor:	cconj|and noun|Maricarmen verb|have-Fin-Ind-Past-S3 part|to verb|do-Inf-S pron|you-Prs-Nom-S2 verb|know-Inf-S .
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|assignment det|that-Def-Dem noun|day .
+%mor:	noun|and adv|no aux|haber-Fin-Ind-Imp-P3 verb|pasar-Part-Past-S num|diez noun|minuto-Masc-Plur .
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|call-Fin-Ind-Pres-S3 .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	adv|ya pron|él-Prs-Dat-P3 aux|poder-Fin-Ind-Pres-S1 verb|ver-Inf-S ?
+%mor:	noun|Maricarmen aux|be-Fin-Ind-Past-S3 adj|like-Pos-S1 +"/.
+%mor:	verb|acabar-Fin-Ind-Pres-S1 adp|de verb|comenzar-Inf-S .
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|know-Inf-S pron|what-Rel-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 part|to verb|do-Inf-S det|the-Def-Art noun|work .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|why pron|they-Prs-Nom-P3 verb|ask-Fin-Ind-Pres-P3 adv|so adj|much-Pos-S1 cconj|and pron|they-Prs-Nom-P3 +...
+%mor:	sconj|like pron|it-Prs-Nom-S3 verb|happen-Fin-Ind-Pres-S3 adp|to pron|I-Prs-Acc-S1 adv|sometimes adp|at noun|work pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|they-Prs-Nom-P3 verb|give-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 pron|something-Ind-S1 .
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not adv|even .
+%mor:	adv|sometimes pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|understand-Inf-S sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|coordinate cconj|and det|a-Ind-Art noun|lot adp|of pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|flipping-Ger-S adv|back cconj|and adv|forth .
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|like-Pos-S1 +"/.
+%mor:	intj|oh aux|can-Fin-S pron|you-Prs-Nom-S2 verb|have-Inf-S pron|it-Prs-Acc-S3 adp|by noun|tomorrow ?
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	adv|no !
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|try-Inf-S .
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|gonna verb|lie-Inf-S adp|to pron|you-Prs-Acc-S2 cconj|and verb|tell-Inf-S pron|you-Prs-Acc-S2 sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|possible-Pos-S1 .
+%mor:	noun|mhm .
+%mor:	sconj|because intj|well pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|just pron|I-Prs-Acc-S1 adv|alone .
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|because pron|they-Prs-Nom-P3 adv|maybe adv|once verb|do-Fin-Ind-Past-P3 pron|it-Prs-Acc-S3 .
+%mor:	cconj|or adv|now pron|they-Prs-Nom-P3 verb|forget-Fin-Ind-Past-P3 pron|you-Prs-Nom-S2 verb|know-Inf-S sconj|that pron|it-Prs-Nom-S3 verb|take-Fin-Ind-Pres-S3 adv|so adv|long adv|how noun|time verb|consume-Ger-S pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%mor:	cconj|or pron|it-Prs-Nom-S3 verb|turn-Fin-Ind-Pres-S3 adp|out pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 adv|never verb|do-Part-Past-S pron|it-Prs-Acc-S3 adv|so +...
+%mor:	noun|Leticia verb|tell-Fin-Ind-Past-S3 pron|her-Prs-Acc-S3 num|one noun|day +"/.
+%mor:	num|one noun|day pron|you-Prs-Nom-S2 aux|should-Fin-S adv|just verb|sit-Inf-S adp|with num|one adp|of pron|we-Prs-Acc-P1 .
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|sit-Fin-S adv|down .
+%mor:	cconj|and adv|actually verb|take-Fin-Imp-S pron|your-Prs-Gen-S2 noun|time .
+%mor:	cconj|and verb|see-Fin-Imp-S adv|how adv|long pron|it-Prs-Nom-S3 verb|take-Fin-Ind-Pres-S3 part|to verb|draw-Inf-S pron|something-Ind-S1 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-Pos-S1 noun|problem adp|with pron|my-Prs-Gen-S1 noun|boss .
+%mor:	pron|she-Prs-Nom-S3~verb|be-Fin-Ind-Pres-S3 +...
+%mor:	det|the-Def-Art noun|person-Plur pron|that-Rel-S1 adv|actually det|the-Def-Art noun|party-Plur pron|that-Rel-S1 pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Pres-S1 adp|with det|the-Def-Art noun|school noun|party-Plur pron|my-Prs-Gen-S1 noun|team +...
+%mor:	noun|mhm .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|really adj|good-Pos-S1 .
+%mor:	sconj|because intj|like pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|do-Inf-S pron|something-Ind-S1 adp|for adp|like det|the-Def-Art noun|bathroom-Plur adv|right .
+%mor:	noun|mhm .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 part|to verb|select-Inf-S noun|tile-Plur .
+%mor:	cconj|and intj|yes pron|it-Prs-Nom-S3 verb|sound-Fin-Ind-Pres-S3 adv|very adj|easy-Pos-S1 .
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|time verb|consume-Ger-S .
+%mor:	sconj|because +...
+%mor:	intj|yeah .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very noun|time adj|consume-Pos-S1 sconj|because pron|they-Prs-Nom-P3 verb|give-Fin-Ind-Pres-P3 pron|you-Prs-Acc-S2 det|a-Ind-Art noun|board adp|with adj|different-Pos-S1 noun|price noun|range-Plur .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|group num|one num|two num|three cconj|and num|four cconj|and num|five .
+%mor:	num|five aux|be-Ger-S det|the-Def-Art adv|most adj|expensive-Pos-S1 .
+%mor:	noun|mhm .
+%mor:	cconj|and adv|then adp|in det|the-Def-Art noun|spec-Plur adp|like pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 noun|part adp|of pron|your-Prs-Gen-S2 noun|contract pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 +"/.
+%mor:	noun|price noun|group num|one cconj|and num|two aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adj|cheap-Sup-S1 .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|gonna verb|use-Inf-S adv|maybe num|fifty num|five noun|percent num|thirty num|five noun|percent adp|of pron|that-Dem-S1 .
+%mor:	cconj|and adv|then det|the-Def-Art adv|most adj|expensive-Pos-S1 num|one noun|group num|four pron|you-Prs-Nom-S2 verb|use-Fin-Ind-Pres-S2 num|five noun|percent .
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|make-Inf-S adj|sure-Pos-S1 sconj|that pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|use-Part-Pres-S aux|have-Fin-Ind-Pres-S3 aux|be-Part-Past-S verb|assign-Part-Past-S adp|to det|the-Def-Art noun|bathroom adp|in det|that-Def-Dem noun|percentage .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|how adv|long +..?
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 verb|take-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot .
+%mor:	cconj|and adv|then adp|in noun|addition adp|to pron|that-Dem-S1 +/.
+%mor:	intj|yeah .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|coordinate-Inf-S pron|that-Dem-S1 adp|with noun|flooring cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art adj|other-Pos-S1 noun|interior verb|finish-Fin-Ind-Pres-S3 .
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|work .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|start-Fin-Ind-Past-S1 verb|sketch-Ger-S cconj|and pron|this-Dem-S1 cconj|and pron|that-Dem-S1 .
+%mor:	adv|so adv|when pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|boss pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-Pos-S1 verb|look-Inf-S pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|a-Ind-Art adj|long-Pos-S1 noun|time pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|lollygag-Part-S .
+%mor:	cconj|but pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 +"/.
+%mor:	adv|no adv|no .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|question-Part-Pres-S pron|your-Prs-Gen-S2 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|just pron|whatever-Rel-S1 .
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|get-Inf-S pron|they-Prs-Acc-P3 adv|right adv|once .
+%mor:	sconj|because verb|thank-Fin-Ind-Pres-S1 noun|god adv|when pron|we-Prs-Nom-P1 verb|submit-Fin-Ind-Past-P1 det|the-Def-Art noun|drawing-Plur pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1~part|not verb|ask-Inf-S adp|like det|the-Def-Art noun|tile adv|yet .
+%mor:	noun|mhm .
+%mor:	pron|what-Rel-S1 pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 adv|gonna noun|price adp|out adp|in det|the-Def-Art noun|contractor aux|do-Fin-Ind-Past-S3~part|not verb|price-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	adv|so adv|now adv|when pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|submit-Part-Pres-S det|this-Def-Dem adj|new-Pos-S1 noun|drawing-Plur det|the-Def-Art noun|work aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adv|out adv|more adj|expensive-Pos-S1 adv|now .
+%mor:	cconj|but pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not pron|our-Prs-Gen-P1 noun|fault .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 sconj|that pron|he-Prs-Nom-S3 +...
+%mor:	noun|mhm .
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3~part|not verb|bid-Inf-S pron|it-Prs-Acc-S3 adv|correctly .
+%mor:	adv|so det|the-Def-Art noun|contractor verb|come-Fin-Ind-Pres-S3 adp|to pron|we-Prs-Acc-P1 cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|guy-Plur verb|use-Fin-Ind-Pres-P3 pron|this-Dem-S1 cconj|and pron|that-Dem-S1 .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	adv|no !
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|stop-Fin-Ind-Past-S1 pron|he-Prs-Acc-S3 adv|right adv|then cconj|and adv|there cconj|and pron|I-Prs-Nom-S1 verb|print-Fin-Ind-Past-S1 adp|out det|all-Def det|the-Def-Art noun|drawing-Plur cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 .
+%mor:	pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Past-S1 adp|on pron|this-Dem-S1 adp|for det|a-Ind-Art noun|month cconj|and det|a-Ind-Art noun|half .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 +...
+%mor:	intj|yeah .
+%mor:	verb|memorize-Fin-Ind-Past-S1 det|the-Def-Art noun|color noun|line cconj|and det|the-Def-Art noun|number-Plur cconj|and pron|everything-Tot-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	cconj|and adp|at det|the-Def-Art noun|end pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 adj|right-Pos-S1 .
+%mor:	adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|glad-Pos-S1 sconj|that pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1 adv|so adj|much-Pos-S1 noun|time part|to verb|do-Inf-S pron|that-Dem-S1 .
+%mor:	sconj|because adv|now adp|at det|the-Def-Art noun|end pron|it-Prs-Nom-S3 verb|avoid-Fin-Ind-Pres-S3 noun|error .
+%mor:	aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|expect-Inf-S pron|we-Prs-Acc-P1 +...
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 intj|no pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 verb|pull-Fin-Ind-Past-P1 pron|it-Prs-Acc-S3 adp|off pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|how .
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S adp|like noun|project-Plur x|en noun|un x|día ?
+%mor:	noun|Lauren .
+%mor:	cconj|and adv|then +...
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|her-Prs-Acc-S3 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like .
+%mor:	pron|tú-Prs-Dat-S2 verb|querer-Fin-Ind-Pres-P3 verb|tener-Inf-S sconj|como det|el-Masc-Def-Art noun|chino-Masc-Plur intj|eh ?
+%mor:	intj|yeah pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adp|like det|a-Ind-Art adj|little-Pos-S1 noun|sweatshop !
+%mor:	det|the-Def-Art adj|other-Pos-S1 noun|day det|the-Def-Art noun|AC aux|be-Fin-Ind-Past-S3 verb|mess-Part-Past-S adp|up .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|mess-Part-Past-S adp|up .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|dunno-Fin-Ind-Pres-S1 adv|when pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|gonna verb|fix-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	adp|in pron|your-Prs-Gen-S2 noun|building ?
+%mor:	adp|in pron|our-Prs-Gen-P1 noun|office .
+%mor:	det|all-Def adj|right-Pos-S1 .
+%mor:	pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 adp|like +"/.
+%mor:	pron|todo-Tot-P1 aux|estar-Fin-Ind-Pres-P1 adp|con det|uno-Masc-Ind-Art noun|calor-Masc noun|and noun|working .
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1 pron|that-Dem-S1 .
+%mor:	cconj|and pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|like-Pos-S1 +"/.
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-Pos-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 .
+%mor:	sconj|como det|uno-Masc-Ind-Art noun|chinito-Masc-Plur adv|ahí verb|trabajar-Fin-Ind-Pres-P3 .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|crazy-Pos-S1 .
+%mor:	pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 verb|watch-Part-Pres-S pron|something-Ind-S1 adp|about pron|that-Dem-S1 .
+%mor:	adp|on noun|Dateline adj|last-Pos-S1 noun|Friday .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|watch-Inf-S pron|that-Dem-S1 .
+%mor:	adp|about noun|China ?
+%mor:	adv|no noun|Taiwan .
+%mor:	noun|Nike +...
+%mor:	intj|uhhuh .
+%mor:	adp|for det|a-Ind-Art num|eighty num|five noun|dollar noun|pair adp|of noun|shoe-Plur pron|that-Rel-S1 pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|pay-Inf-S num|one noun|factory num|twenty noun|dollar-Plur .
+%mor:	intj|yeah .
+%mor:	num|one noun|factory .
+%mor:	cconj|and adp|within sconj|that pron|they-Prs-Nom-P3 verb|divide-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 adp|within det|the-Def-Art noun|employee-Plur .
+%mor:	det|the-Def-Art adv|most det|a-Ind-Art noun|employee pron|who-Rel-S1 verb|work-Fin-Ind-Pres-S3 adv|there verb|make-Fin-Ind-Pres-S3 pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 num|two noun|dollar-Plur .
+%mor:	intj|yeah .
+%mor:	pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|pegar-Masc .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adp|like adv|how adj|much-Pos-S1 ?
+%mor:	noun|OB pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1 adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1 intj|no pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|in noun|China .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1 adp|to det|this-Def-Dem noun|place adv|where pron|they-Prs-Nom-P3 verb|give-Fin-Ind-Pres-P3 noun|massage-Plur cconj|and noun|stuff .
+%mor:	intj|uhhuh .
+%mor:	cconj|and num|one adp|of det|the-Def-Art noun|guy-Plur verb|tell-Fin-Ind-Past-S3 pron|we-Prs-Acc-P1 sconj|that det|a-Ind-Art noun|week pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Pres-P3 num|five noun|dollar-Plur .
+%mor:	pron|we-Prs-Nom-P1 verb|use-Fin-Ind-Past-P1 part|to +//.
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|my-Prs-Gen-S1 noun|dad~part|s noun|neighbor-Plur ?
+%mor:	det|no-Def noun|mentirado pron|that-Rel-S1 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art noun|day num|one num|five noun|dollar-Plur .
+%mor:	pron|my-Prs-Gen-S1 noun|dad~part|s adj|old-Pos-S1 noun|neighborhood ?
+%mor:	det|the-Def-Art noun|person-Plur pron|that-Rel-S1 verb|live-Fin-Ind-Past-P3 +...
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3 det|some-Def noun|PuertoRican noun|couple pron|that-Rel-S1 verb|live-Fin-Ind-Past-S3 adv|here .
+%mor:	noun|there noun|were det|uno-Masc-Ind-Art noun|chino-Masc-Plur pron|que-Rel-S1 verb|vivir-Fin-Ind-Imp-P3 adv|aquí .
+%mor:	intj|uhhuh .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|remember-Inf-S pron|they-Prs-Acc-P3 .
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 adp|from noun|Taiwan .
+%mor:	det|the-Def-Art noun|father verb|do-Fin-Ind-Past-S3 pron|that-Dem-S1 .
+%mor:	pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|tennis noun|shoe-Plur noun|business .
+%mor:	noun|mhm .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|use-Fin-Ind-Past-S3 part|to verb|come-Inf-S adv|in adp|with det|all-Def det|this-Def-Dem noun|shoe-Plur .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|use-Fin-Ind-Past-S3 part|to aux|be-Inf-S adj|like-Pos-S1 +"/.
+%mor:	verb|look-Fin-Imp-S pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|Nike .
+%mor:	intj|se verb|have-Fin-Ind-Pres-S pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|the-Def-Art noun|Nike verb|check-Inf-S adp|on pron|it-Prs-Acc-S3 .
+%mor:	intj|uhhuh .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|use-Fin-Ind-Past-S3 part|to verb|wear-Inf-S pron|they-Prs-Acc-P3 .
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-Pos-S1 noun|thing adp|in pron|my-Prs-Gen-S1 noun|eye-Plur .
+%mor:	intj|yeah .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|use-Fin-Ind-Past-S3 part|to verb|get-Inf-S pron|my-Prs-Gen-S1 noun|dad adp|like noun|tennis noun|shoe-Plur noun|y noun|todo part|to verb|play-Inf-S noun|tennis .
+%mor:	intj|uhhuh .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-Pos-S1 noun|thing .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	det|el-Fem-Def-Art adj|único-Pos-S1 noun|cosa-Fem aux|ser-Fin-Ind-Pres-S3 sconj|que adv|no pron|tú-Prs-Dat-S2 verb|pagar-Fin-Ind-Pres-P3 .
+%mor:	adv|no verb|tener-Fin-Ind-Pres-S2 sconj|que verb|pagar-Inf-S adv|mucho sconj|porque adv|no +...
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|have-Inf-S det|the-Def-Art noun|check .
+%mor:	adv|no .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art noun|Nike verb|check-Inf-S adp|on pron|it-Prs-Acc-S3 .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1 verb|learn-Inf-S ?
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 noun|test-Plur cconj|and noun|stuff .
+%mor:	x|pero part|to verb|test-Inf-S sconj|if adp|like noun|jewelry verb|have-Fin-Ind-Pres-S3 intj|like noun|lead cconj|and noun|stuff .
+%mor:	noun|mhm .
+%mor:	pron|they-Prs-Nom-P3 verb|bang-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 adp|against pron|you-Prs-Acc-S2 verb|know-Fin-Ind-Pres-P3 det|the-Def-Art noun|floor cconj|or det|a-Ind-Art noun|surface .
+%mor:	det|a-Ind-Art noun|surface noun|uhhuh .
+%mor:	cconj|and verb|depend-Ger-S adp|on noun|el x|sonido .
+%mor:	intj|uhhuh .
+%mor:	x|tienerensinelelopment noun|lead cconj|or intj|no .
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 verb|test-Part-Pres-S det|some-Def noun|thing-Plur pron|that-Rel-S1 pron|we-Prs-Nom-P1 aux|have-Fin-Ind-Past-P1 verb|buy-Part-Past-S adp|from noun|Chico~part|s .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|like num|forty num|five noun|dollar pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|bracelet-Plur cconj|and noun|stuff adp|like pron|that-Dem-S1 .
+%mor:	cconj|and det|all-Def adp|of pron|they-Prs-Acc-P3 aux|have-Fin-Ind-Past-S3 noun|lead .
+%mor:	verb|have-Fin-Ind-Past-S1 noun|lead ?
+%mor:	adv|how aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S det|the-Def-Art noun|difference +//.
+%mor:	sconj|like pron|you-Prs-Nom-S2 verb|compare-Fin-Ind-Pres-S2 num|two noun|sound-Plur ?
+%mor:	cconj|or pron|you-Prs-Nom-S2 adv|automatically verb|know-Fin-Ind-Pres-S2 .
+%mor:	intj|yeah .
+%mor:	intj|like verb|get-Fin-Imp-S num|one adp|of pron|your-Prs-Gen-S2 noun|ring-Plur cconj|or pron|something-Ind-S1 pron|that-Rel-S1~aux|be-Fin-Ind-Pres-S3 adp|like noun|gold cconj|or pron|something-Ind-S1 cconj|or adj|stainless-Pos-S1 noun|steel .
+%mor:	adp|like noun|costume noun|jewelry ?
+%mor:	pron|something-Ind-S1 adp|like pron|that-Dem-S1 cconj|and adv|just verb|go-Fin-Imp-S adp|like pron|that-Dem-S1 .
+%mor:	noun|mhm .
+%mor:	cconj|and verb|get-Fin-Imp-S pron|something-Ind-S1 pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|buy-Part-Past-S .
+%mor:	cconj|and pron|you-Prs-Nom-S2 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|something-Ind-S1 pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|see-Inf-S sconj|if pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 noun|lead .
+%mor:	cconj|and pron|it-Prs-Nom-S3 adv|usually verb|have-Fin-Ind-Pres-S3 intj|like det|a-Ind-Art adj|heavy-Cmp-S1 noun|pounding noun|sound .
+%mor:	cconj|and det|the-Def-Art adj|other-Pos-S1 noun|sound aux|be-Fin-Ind-Pres-S3 adv|very adj|light-Pos-S1 .
+%mor:	adv|so det|the-Def-Art noun|lead aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|heavy-Cmp-S1 noun|one adv|obviously .
+%mor:	noun|mhm .
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|test-Fin-Ind-Past-P1 pron|it-Prs-Acc-S3 cconj|and .
+%mor:	noun|Maricarmen aux|be-Fin-Ind-Pres-S3 adj|like-Pos-S1 +"/.
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S !
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 intj|like adv|very adj|nice-Pos-S1 noun|ring .
+%mor:	det|the-Def-Art adj|different-Pos-S1 noun|type-Plur adp|of noun|gold +...
+%mor:	noun|Maricarmen det|the-Def-Art noun|lady pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Past-P1 det|the-Def-Art adj|other-Pos-S1 noun|day adp|in det|the-Def-Art noun|park ?
+%mor:	intj|no pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|Juana .
+%mor:	intj|oh intj|oh intj|yeah .
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|start-Fin-Ind-Pres-S3 sconj|like verb|bang-Ger-S pron|it-Prs-Acc-S3 .
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|light-Pos-S1 noun|sound .
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1 num|one adp|of det|the-Def-Art noun|accessory-Plur pron|that-Rel-S1 pron|we-Prs-Nom-P1 aux|have-Fin-Ind-Past-P1 verb|buy-Part-Past-S .
+%mor:	cconj|and pron|she-Prs-Nom-S3 det|the-Def-Art adj|same-Pos-S1 noun|thing .
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|could-Fin-S verb|hear-Inf-S .
+%mor:	intj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|heavy-Pos-S1 noun|sound .
+%mor:	adv|why aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|use-Inf-S noun|lead ?
+%mor:	sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|cheap-Cmp-S1 noun|material ?
+%mor:	intj|anyway pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 +...
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|use-Inf-S adp|in adp|of pron|that-Dem-S1 ?
+%mor:	pron|my-Prs-Gen-S1 noun|god pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|bad-Pos-S1 .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S +...
+%mor:	intj|yeah .
+%mor:	adv|ahí adj|mismo-Pos-S1 .
+%mor:	noun|person-Plur pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|some-Def noun|person-Plur pron|that-Rel-S1 aux|can-Fin-S~part|not .
+%mor:	pron|that-Dem-S1 aux|be-Fin-Ind-Pres-P3 adj|allergic-Pos-S1 ?
+%mor:	pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 x|había x|uno x|hindú cconj|or pron|something-Ind-S1 pron|that-Rel-S1 verb|come-Fin-Ind-Past-S3 adp|to .
+%mor:	intj|uhhuh .
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adv|gonna verb|give-Inf-S det|the-Def-Art noun|girl pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art adj|plastic-Pos-S1 noun|pen part|to verb|sign-Inf-S pron|it-Prs-Acc-S3 .
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|could-Fin-S~part|not verb|touch-Inf-S det|the-Def-Art noun|plastic .
+%mor:	adv|why ?
+%mor:	pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 sconj|that pron|her-Prs-Gen-S3 adj|whole-Pos-S1 noun|skin verb|break-Fin-Ind-Pres-S3 adp|out adp|in noun|allergy-Plur .
+%mor:	adp|with noun|plastic ?
+%mor:	intj|yeah adv|so pron|she-Prs-Nom-S3 pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 part|to verb|hold-Inf-S sconj|like det|the-Def-Art noun|plastic verb|have-Fin-Ind-Past-S3 det|a-Ind-Art adj|little-Pos-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art adj|little-Pos-S1 noun|rubber noun|part ?
+%mor:	intj|uhhuh .
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 part|to verb|hold-Inf-S pron|it-Prs-Acc-S3 adp|like pron|that-Dem-S1 .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adv|really adj|weird-Pos-S1 .
+%mor:	intj|oh .
+%mor:	pron|she-Prs-Nom-S3 aux|can-Fin-S~part|not verb|touch-Inf-S det|any-Def noun|kind adp|of noun|plastic .
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|a-Ind-Art noun|girl pron|who-Rel-S1 aux|can-Fin-S~part|not verb|go-Inf-S adp|into det|the-Def-Art noun|ocean .
+%mor:	pron|she-Prs-Nom-S3 verb|break-Fin-Ind-Pres-S3 adp|out .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 det|the-Def-Art noun|salt noun|water pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|weird-Pos-S1 .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1 adp|in det|the-Def-Art noun|beach .
+%mor:	cconj|and num|one adp|of det|the-Def-Art noun|guy-Plur aux|do-Fin-Ind-Past-S3~part|not verb|believe-Inf-S pron|her-Prs-Acc-S3 .
+%mor:	cconj|and verb|throw-Fin-Ind-Past-S3 pron|her-Prs-Acc-S3 adp|in det|the-Def-Art noun|water .
+%mor:	pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3 ?
+%mor:	cconj|and adv|then pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 +...
+%mor:	pron|él-Prs-Acc-S3 aux|haber-Fin-Sub-Imp-S3 verb|matar-Part-Past-S adj|pobrecito-Pos-S1 .
+%mor:	pron|we-Prs-Nom-P1 det|all-Def-Tot verb|realize-Fin-Ind-Past-P1 sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not verb|lie-Part-Pres-S .
+%mor:	det|what-Def-Int det|a-Ind-Art noun|jerk !
+%mor:	intj|oh cconj|and pron|who-Int-S1 adv|else ?
+%mor:	pron|my-Prs-Gen-S1 noun|friend noun|Selina .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|marry-Part-Past-S .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|allergic-Pos-S1 adp|to noun|latex ?
+%mor:	intj|uhhuh .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 noun|person-Plur pron|who-Rel-S1 aux|be-Fin-Ind-Pres-P3 adj|allergic-Pos-S1 adp|to pron|that-Dem-S1 .
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S aux|be-Inf-S adj|allergic-Pos-S1 adp|to pron|anything-Ind-S1 .
+%mor:	noun|Paige aux|be-Fin-Ind-Pres-S3 adj|allergic-Pos-S1 adp|to noun|nickel .
+%mor:	pron|she-Prs-Nom-S3 aux|can-Fin-S~part|not verb|wear-Inf-S +...
+%mor:	adv|no ?
+%mor:	det|all-Def pron|her-Prs-Gen-S3 adj|silver-Pos-S1 cconj|and noun|gold noun|jewelry cconj|and pron|everything-Tot-S1 pron|she-Prs-Nom-S3 verb|give-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|to pron|I-Prs-Acc-S1 .
+%mor:	pron|she-Prs-Nom-S3 aux|can-Fin-S adv|only verb|wear-Inf-S +//.
+%mor:	intj|no noun|wait pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-Pos-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3 aux|can-Fin-S verb|wear-Inf-S adj|white-Pos-S1 noun|gold .
+%mor:	pron|she-Prs-Nom-S3 aux|can-Fin-S~part|not verb|wear-Inf-S noun|silver adp|at det|all-Def .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|that-Dem-S1 adp|for adj|sure-Pos-S1 .
+%mor:	part|not adv|even pron|her-Prs-Gen-S3 noun|necklace-Plur cconj|or pron|anything-Ind-S1 .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like pron|my-Prs-Gen-S1 noun|god .
+%mor:	pron|nothing-Neg-S1 .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still adp|like pron|that-Dem-S1 .
+%mor:	cconj|but pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|like pron|that-Dem-S1 adp|for det|a-Ind-Art adj|few-Pos-S1 noun|year-Plur .
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|some-Def noun|allergy-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|take-Inf-S adp|like noun|shot-Plur adp|of noun|medication .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S adp|to noun|OldNavy adv|right adv|now ?
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|gonna verb|come-Inf-S adp|with pron|I-Prs-Acc-S1 ?
+%mor:	intj|yeah .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adv|gonna verb|go-Inf-S adv|there cconj|and det|the-Def-Art noun|Gap .
+%mor:	intj|well adj|first-Pos-S1 noun|OldNavy sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cheap-Cmp-S1 .
+%mor:	intj|okay .
+%mor:	intj|well adv|maybe pron|I-Prs-Nom-S1~aux|will-Fin-S verb|find-Inf-S pron|something-Ind-S1 adp|in det|the-Def-Art noun|Gap adp|for det|the-Def-Art noun|birthday noun|boy .
+%mor:	intj|oh adv|really ?
+%mor:	intj|yeah .
+%mor:	intj|oh noun|Paula~part|s intj|like +"/.
+%mor:	verb|get-Fin-Imp-S noun|Carolina +...
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|like +"/.
+%mor:	det|what-Def-Int noun|size aux|be-Fin-Ind-Pres-S3 noun|Carolina ?
+%mor:	sconj|like pron|I-Prs-Nom-S1 verb|dunno-Fin-Ind-Pres-S1 .
+%mor:	pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 adv|just verb|get-Inf-S det|a-Ind-Art noun|gift noun|card .
+%mor:	intj|no sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|gift noun|card pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|put-Inf-S adp|like noun|money adp|into pron|it-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%mor:	adj|significant-Pos-S1 noun|money !
+%mor:	intj|oh !
+%mor:	intj|okay .
