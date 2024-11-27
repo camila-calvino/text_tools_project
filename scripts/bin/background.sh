@@ -4,10 +4,11 @@
 #this script also records a conversation ID for each transcript and situation information.
 
 
-#initialize file
+#initialize the results table file
 echo Conversation No. > convo.col
 echo Situation > situations.col
 
+count=1
 
 for file in ~/text_tools_project/Miami/eng/*.cha
 do

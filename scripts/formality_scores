@@ -1,41 +1,41 @@
-Conversation No.	Situation	F-Score	ES F-Score
-1	@Situation: Informal conversation between two cousins in a restaurant	33.4586	42.1053
-2	@Situation: Informal conversation between a couple at their house	35.0693	37.7704
-3	@Situation: Informal conversation between two workmates in a shopping mall café	37.9264	48.7879
-4	@Situation: Informal conversation between a couple in their garden; their children join them for a while	37.1163	34.0278
-5	@Situation: Informal conversation between a couple at Florida International University	36.9357	37.2093
-6	@Situation: Informal conversation between two co-workers at their workplace	31.5234	28.2374
-7	@Situation: Conversation between coworkers	32.9408	31.8271
-8	@Situation: Informal conversation bteween two friends at Florida International University	41.7481	100
-9	@Situation: Informal conversation at Abel's house	40.596	35.1248
-10	@Situation: Informal conversation between two friends at a café	36.119	35.8837
-11	@Situation: Informal conversation between MAR and OSE, probably at OSE's place	38.0062	38.6473
-12	@Situation: MAR is in her office talking to colleague.	39.2308	66.6667
-13	@Situation: Conversation in MAR's office	33.9929	31.0976
-14	@Situation: MAR is in her office talking to colleague.	39.1144	30.6122
-15	@Situation: MAR is in her office talking to colleague.	37.3261	26
-16	@Situation: MAR is in her office talking to a colleague.	32.7434	33.9241
-17	@Situation: MAR is in her office talking to colleague.	36.0609	40.8163
-18	@Situation: MAR is in her office. In the first part of the recording she is handling some heavy boxes and binders and she is panting because of the effort. She is also talking to colleagues. In the second part of the recording, she stops for lunch and talks to a colleague throughout her lunch. She is eating while she is talking so at times her utterances are unclear because of the noises.	36.1877	39.3305
-19	@Situation: MAR is in her office talking to colleague.	42.9383	47.931
-20	@Situation: MAR is in her office talking to colleagues.	33.4452	29.7414
-21	@Situation: MAR is in her office talking to colleague.	32.1315	39.2371
-22	@Situation: MAR is in her office talking to colleague.	37.5	30
-23	@Situation: MAR is in her office talking to colleagues. There are times when Maria is working and not taking part in the conversation, so there are long pauses where you can hear background voices and other noices.	36.8465	39.8361
-24	@Situation: Informal conversation between three co-workers during their lunch hour	36.2839	34.0438
-25	@Situation: Informal conversation between two co-workers at their workplace	29.1917	30.8036
-26	@Situation: Informal conversation between a couple in their living room	40.5575	43.4084
-27	@Situation: Informal conversation between two friends in Florida International University	32.8502	35.8974
-28	@Situation: Informal conversation between Paola and her grandmother at a friend's house	45.0281	49.7263
-29	@Situation: Informal conversation between two sisters at Kayla's workplace	32.57	31.7251
-30	@Situation: Informal conversation between two cousins	29.9897	34.2574
-31	@Situation: Informal conversation between two friends at the researcher's house	40.8564	36.7946
-32	@Situation: Informal conversation between two sisters at Samantha's house	27.3893	39.8496
-33	@Situation: Informal conversation between two classmates at Florida International University	29.8353	70
-34	@Situation: Informal conversation between two cousins at Felipe's house	33.6613	30.8642
-35	@Situation: Informal conversation between neighbours at Ethan's house	31.7873	28.6287
-36	@Situation: Informal conversation between two co-workers at Florida International University	33.945	31.2925
-37	@Situation: Informal conversation between two neighbours at Marcela's house	35.1523	38.0275
-38	@Situation: Informal conversation between two cousins	40.1797	50.1873
-39	@Situation: Informal conversation between two friends at Florida International University	33.4041	31.3433
-40	@Situation: Two friends chatting at Florida International University.	32.4975	68.75
+Conversation No.	Situation	ML F-Score	EN F-Score	ES F-Score
+1	Informal conversation between two cousins in a restaurant	33.4586	33.1543	42.1053
+2	Informal conversation between a couple at their house	35.0693	34.5769	37.7704
+3	Informal conversation between two workmates in a shopping mall café	37.9264	35.608	48.7879
+4	Informal conversation between a couple in their garden; their children join them for a while	37.1163	37.2468	34.0278
+5	Informal conversation between a couple at Florida International University	36.9357	36.9336	37.2093
+6	Informal conversation between two co-workers at their workplace	31.5234	32.2085	28.2374
+7	Conversation between coworkers	32.9408	33.1494	31.8271
+8	Informal conversation bteween two friends at Florida International University	41.7481	41.7254	100
+9	Informal conversation at Abel's house	40.596	42.464	35.1248
+10	Informal conversation between two friends at a café	36.119	36.2408	35.8837
+11	Informal conversation between MAR and OSE, probably at OSE's place	38.0062	37.7011	38.6473
+12	MAR is in her office talking to colleague.	39.2308	38.5827	66.6667
+13	Conversation in MAR's office	33.9929	34.3725	31.0976
+14	MAR is in her office talking to colleague.	39.1144	39.9594	30.6122
+15	MAR is in her office talking to colleague.	37.3261	37.6794	26
+16	MAR is in her office talking to a colleague.	32.7434	32.5076	33.9241
+17	MAR is in her office talking to colleague.	36.0609	35.1859	40.8163
+18	MAR is in her office. In the first part of the recording she is handling some heavy boxes and binders and she is panting because of the effort. She is also talking to colleagues. In the second part of the recording, she stops for lunch and talks to a colleague throughout her lunch. She is eating while she is talking so at times her utterances are unclear because of the noises.	36.1877	35.7768	39.3305
+19	MAR is in her office talking to colleague.	42.9383	41.4013	47.931
+20	MAR is in her office talking to colleagues.	33.4452	33.7959	29.7414
+21	MAR is in her office talking to colleague.	32.1315	31.2903	39.2371
+22	MAR is in her office talking to colleague.	37.5	37.5432	30
+23	MAR is in her office talking to colleagues. There are times when Maria is working and not taking part in the conversation, so there are long pauses where you can hear background voices and other noices.	36.8465	35.8333	39.8361
+24	Informal conversation between three co-workers during their lunch hour	36.2839	37.43	34.0438
+25	Informal conversation between two co-workers at their workplace	29.1917	29.116	30.8036
+26	Informal conversation between a couple in their living room	40.5575	40.3355	43.4084
+27	Informal conversation between two friends in Florida International University	32.8502	32.7917	35.8974
+28	Informal conversation between Paola and her grandmother at a friend's house	45.0281	43.4079	49.7263
+29	Informal conversation between two sisters at Kayla's workplace	32.57	32.7595	31.7251
+30	Informal conversation between two cousins	29.9897	29.6933	34.2574
+31	Informal conversation between two friends at the researcher's house	40.8564	42.5771	36.7946
+32	Informal conversation between two sisters at Samantha's house	27.3893	27.0994	39.8496
+33	Informal conversation between two classmates at Florida International University	29.8353	29.7503	70
+34	Informal conversation between two cousins at Felipe's house	33.6613	33.7838	30.8642
+35	Informal conversation between neighbours at Ethan's house	31.7873	33.5081	28.6287
+36	Informal conversation between two co-workers at Florida International University	33.945	34.2731	31.2925
+37	Informal conversation between two neighbours at Marcela's house	35.1523	33.4252	38.0275
+38	Informal conversation between two cousins	40.1797	39.4652	50.1873
+39	Informal conversation between two friends at Florida International University	33.4041	33.4311	31.3433
+40	Two friends chatting at Florida International University.	32.4975	32.4137	68.75
