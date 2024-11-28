@@ -1,0 +1,41 @@
+Conversation No.	Situation	Relationship Category	ML F-Score	EN F-Score	ES F-Score	EN Nouns	ES Nouns	EN Adjectives	ES Adjectives	EN Prepositions	ES Prepositions	EN Articles	ES Articles	EN Pronouns	ES Pronouns	EN Verbs	ES Verbs	EN Adverbs	ES Adverbs	EN Interjections	ES Interjections
+1	Informal conversation between two cousins in a restaurant	Family	33.4586	33.1543	42.1053	831	39	269	13	410	10	280	18	1418	41	1499	48	420	17	272	4
+2	Informal conversation between a couple at their house	Family	35.0693	34.5769	37.7704	518	86	139	23	285	68	198	50	772	139	937	164	318	63	130	8
+3	Informal conversation between two workmates in a shopping mall café	Other	37.9264	35.608	48.7879	513	143	121	30	246	66	221	83	712	135	804	156	186	38	289	9
+4	Informal conversation between a couple in their garden; their children join them for a while	Family	37.1163	37.2468	34.0278	712	23	120	5	222	12	215	9	753	33	994	35	245	21	146	6
+5	Informal conversation between a couple at Florida International University	Family	36.9357	36.9336	37.2093	947	9	309	0	436	6	411	1	1295	5	1549	12	476	6	271	4
+6	Informal conversation between two co-workers at their workplace	Work	31.5234	32.2085	28.2374	451	69	105	12	174	48	129	28	609	111	754	144	298	113	147	31
+7	Conversation between coworkers	Work	32.9408	33.1494	31.8271	508	75	120	26	148	29	125	32	568	120	630	126	310	83	309	18
+8	Informal conversation bteween two friends at Florida International University	Friend	41.7481	41.7254	100	973	2	266	0	532	0	362	0	998	0	1119	0	510	0	352	0
+9	Informal conversation at Abel's house	Other	40.596	42.464	35.1248	349	68	74	15	131	54	94	46	276	84	381	160	136	74	85	20
+10	Informal conversation between two friends at a café	Friend	36.119	36.2408	35.8837	612	272	196	85	218	130	154	118	705	375	853	419	283	205	235	82
+11	Informal conversation between MAR and OSE, probably at OSE's place	Other	38.0062	37.7011	38.6473	177	64	49	18	45	35	57	43	201	88	233	103	90	54	18	9
+12	MAR is in her office talking to colleague.	Work	39.2308	38.5827	66.6667	26	1	7	0	11	0	5	1	24	0	27	1	17	0	10	0
+13	Conversation in MAR's office	Other	33.9929	34.3725	31.0976	182	25	63	8	102	9	83	9	295	36	336	46	146	22	44	9
+14	MAR is in her office talking to colleague.	Work	39.1144	39.9594	30.6122	101	5	32	1	38	4	26	5	109	12	130	14	41	8	16	0
+15	MAR is in her office talking to colleague.	Work	37.3261	37.6794	26	312	8	79	2	112	3	101	0	366	13	456	15	139	8	38	1
+16	MAR is in her office talking to a colleague.	Work	32.7434	32.5076	33.9241	289	52	107	17	140	39	107	26	468	82	568	103	176	59	123	17
+17	MAR is in her office talking to colleague.	Work	36.0609	35.1859	40.8163	456	97	136	15	189	41	156	47	609	111	737	128	264	45	116	6
+18	MAR is in her office. In the first part of the recording she is handling some heavy boxes and binders and she is panting because of the effort. She is also talking to colleagues. In the second part of the recording, she stops for lunch and talks to a colleague throughout her lunch. She is eating while she is talking so at times her utterances are unclear because of the noises.	Work	36.1877	35.7768	39.3305	326	44	95	11	132	17	101	22	390	56	467	57	191	23	126	9
+19	MAR is in her office talking to colleague.	Work	42.9383	41.4013	47.931	201	53	62	18	70	34	57	34	190	48	233	69	85	21	44	13
+20	MAR is in her office talking to colleagues.	Work	33.4452	33.7959	29.7414	397	26	139	13	151	16	141	14	594	52	733	74	231	29	64	8
+21	MAR is in her office talking to colleague.	Work	32.1315	31.2903	39.2371	469	54	144	12	168	35	189	43	755	81	912	96	334	37	129	9
+22	MAR is in her office talking to colleague.	Work	37.5	37.5432	30	632	1	183	1	266	2	224	2	793	3	967	6	318	5	93	0
+23	MAR is in her office talking to colleagues. There are times when Maria is working and not taking part in the conversation, so there are long pauses where you can hear background voices and other noices.	Work	36.8465	35.8333	39.8361	327	112	85	32	122	52	111	47	401	115	485	143	149	61	120	48
+24	Informal conversation between three co-workers during their lunch hour	Work	36.2839	37.43	34.0438	658	223	113	80	257	166	242	122	768	403	885	496	301	204	169	42
+25	Informal conversation between two co-workers at their workplace	Work	29.1917	29.116	30.8036	708	30	221	11	301	17	160	11	1252	55	1396	65	439	25	297	10
+26	Informal conversation between a couple in their living room	Family	40.5575	40.3355	43.4084	786	53	168	15	357	35	300	32	890	53	1011	76	330	42	152	5
+27	Informal conversation between two friends in Florida International University	Friend	32.8502	32.7917	35.8974	641	17	211	1	290	5	190	5	972	17	1134	19	336	8	288	6
+28	Informal conversation between Paola and her grandmother at a friend's house	Family	45.0281	43.4079	49.7263	817	286	214	70	311	137	268	143	705	201	816	294	355	118	223	30
+29	Informal conversation between two sisters at Kayla's workplace	Family	32.57	32.7595	31.7251	1028	182	263	63	381	101	326	88	1512	306	1764	385	522	210	303	33
+30	Informal conversation between two cousins	Family	29.9897	29.6933	34.2574	957	80	401	30	436	32	365	31	1907	95	2030	145	715	77	460	15
+31	Informal conversation between two friends at the researcher's house	Friend	40.8564	42.5771	36.7946	847	257	241	91	347	142	346	162	860	385	1027	478	396	225	119	32
+32	Informal conversation between two sisters at Samantha's house	Family	27.3893	27.0994	39.8496	711	17	225	10	361	14	252	12	1566	24	1729	35	551	15	321	6
+33	Informal conversation between two classmates at Florida International University	Other	29.8353	29.7503	70	652	3	222	2	315	2	217	0	1227	2	1306	1	409	0	378	0
+34	Informal conversation between two cousins at Felipe's house	Family	33.6613	33.7838	30.8642	614	22	177	6	287	12	172	10	815	35	1032	49	367	23	236	5
+35	Informal conversation between neighbours at Ethan's house	Other	31.7873	33.5081	28.6287	359	130	95	26	187	125	126	76	585	317	640	321	190	206	107	46
+36	Informal conversation between two co-workers at Florida International University	Work	33.945	34.2731	31.2925	791	86	233	16	371	47	234	35	1127	155	1240	169	499	63	258	17
+37	Informal conversation between two neighbours at Marcela's house	Other	35.1523	33.4252	38.0275	613	372	205	119	210	174	185	164	827	415	964	538	349	267	276	131
+38	Informal conversation between two cousins	Family	40.1797	39.4652	50.1873	736	58	257	24	322	35	161	17	852	47	879	50	363	30	170	6
+39	Informal conversation between two friends at Florida International University	Friend	33.4041	33.4311	31.3433	736	13	294	7	407	0	273	1	1234	12	1428	28	464	1	279	5
+40	Two friends chatting at Florida International University.	Friend	32.4975	32.4137	68.75	1007	4	330	1	637	3	270	3	1814	0	1856	1	589	1	420	3

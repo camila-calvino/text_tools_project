@@ -1,10 +1,10 @@
 #!/bin/bash
 # ./ background
-#this script does the original clean-up of the files and outputs the files used by the pos.sh and calculator.sh scripts
-#this script also records a conversation ID for each transcript and situation information.
+#this script does the original clean-up of the files and outputs the files used by the pos.sh script to its appropriate directory
+#records a conversation number for each transcript and situation information.
+#identifies the 3 main relationship dynamic categories or other
 
-
-#initialize file
+#initialize files
 echo Conversation No. > convo.col
 echo Situation > situations.col
 
@@ -19,7 +19,7 @@ while read -r line; do
 done < "$file"
 done
 
-
+count=1
 for file in ~/text_tools_project/project_data_files/*.cha
 do
 	echo $count >> convo.col	
@@ -29,3 +29,20 @@ do
 
 	count=$(( $count + 1 ))
 done
+
+while read -r line; do
+        if [[ "$line" =~ 'Situation' ]]; then
+                echo Relationship Category > relat.col
+        elif [[ "$line" =~ 'cousin'|'sister'|'couple'|'grand' ]]; then
+                echo Family >> relat.col
+        elif [[ "$line" =~ 'colleague'|'worker' ]]; then
+                echo Work >> relat.col
+        elif [[ "$line" =~ 'friend' ]]; then
+                echo Friend >> relat.col
+        elif [[ "$line" =~ 'informal' ]]; then
+                echo Other informal >> relat.col
+        else
+                echo Other >> relat.col
+        fi
+done < situations.col
+
